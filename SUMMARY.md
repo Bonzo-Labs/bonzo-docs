@@ -13,6 +13,7 @@
   * [Obtaining $HBAR](get-started/hedera-usdhbar/obtaining-usdhbar.md)
   * [Bridging Assets to Hedera](get-started/hedera-usdhbar/bridging-assets-to-hedera.md)
 * [🎓 Bonzo Academy](get-started/bonzo-tutorials.md)
+* [🎟️ Earning Points](get-started/earning-points.md)
 * [👨‍🏫 Core Concepts](get-started/core-concepts.md)
 * [❓ FAQ](get-started/faq.md)
 
@@ -23,15 +24,14 @@
 * [🔮 Oracles](bonzo-protocol/oracles/README.md)
   * [Supra](bonzo-protocol/oracles/supra.md)
   * [Pyth](bonzo-protocol/oracles/pyth.md)
-* [🎟️ Earning Points](bonzo-protocol/earning-points.md)
 
 ## GOVERNANCE
 
-* [🗳️ Overview](governance/overview.md)
+* [🗳️ Bonzo DAO](governance/bonzo-dao.md)
 
 ## BONZONOMICS
 
-* [🪙 Overview](bonzonomics/overview.md)
+* [🪙 Token Allocations](bonzonomics/token-allocations.md)
 
 ## CONTRIBUTORS
 
