@@ -12,9 +12,9 @@
   * [Hedera Wallet Setup](get-started/hedera-usdhbar/hedera-wallet-setup.md)
   * [Obtaining $HBAR](get-started/hedera-usdhbar/obtaining-usdhbar.md)
   * [Bridging Assets to Hedera](get-started/hedera-usdhbar/bridging-assets-to-hedera.md)
-* [🎓 Bonzo Tutorials](get-started/bonzo-tutorials.md)
-* [❓ FAQ](get-started/faq.md)
+* [🎓 Bonzo Academy](get-started/bonzo-academy.md)
 * [👨‍🏫 Core Concepts](get-started/core-concepts.md)
+* [❓ FAQ](get-started/faq.md)
 
 ## BONZO PROTOCOL
 
