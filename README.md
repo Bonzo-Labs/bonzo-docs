@@ -1,5 +1,7 @@
 # 🤠 Overview
 
+**\[INSERT IMAGE]**
+
 Welcome to the official documentation for Bonzo Finance — the premier lending and borrowing protocol of the Hedera network. The organizational structure of Bonzo is comprised of these four components:
 
 * **Bonzo Labs:** A corporation in Dubai which has developed the Bonzo Finance protocol, along with the user interface.
@@ -13,12 +15,16 @@ The [Bonzo Finance](https://www.bonzo.finance) protocol is a decentralized proto
 
 Bonzo Finance integrates with the Hedera Token Service (HTS) by adapting the Aave v2 lending protocol to interact with the Hedera Smart Contract Service (HSCS) through EVM precompiles. This integration allows for high throughput, fast transaction times, and a low-cost, U.S. dollar-denominated fee structure. Additionally, Hedera's architecture ensures fair transaction ordering on Bonzo Finance, mitigating the risk of MEV attacks commonly seen on alternative EVM-based protocols.
 
-Bonzo Finance utilizes Supra and Pyth oracles to provide accurate and reliable price feeds for the lending and borrowing of assets, ensuring transparent and efficient operations within the protocol.
+Bonzo Finance utilizes Supra and Pyth oracles to provide accurate and reliable price feeds for the lending and borrowing of assets, ensuring transparent and efficient operations within the protocol.\
+
 
 ## Unique Advantages
 
-Description
+Description\
+
 
 ## Milestones
+
+**\[INSERT IMAGE]**
 
 Description
