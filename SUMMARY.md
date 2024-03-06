@@ -2,7 +2,9 @@
 
 * [🤠 Overview](README.md)
 * [🗺️ Roadmap](roadmap.md)
-* [📞 Contact](contact.md)
+* [📞 Contact](contact/README.md)
+  * [Support](contact/support.md)
+  * [Community](contact/community.md)
 
 ## GET STARTED
 

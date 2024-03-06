@@ -1,7 +1,3 @@
----
-description: A brief overview of the Bonzo Finance protocol.
----
-
 # 🤠 Overview
 
 **Welcome to the official documentation for Bonzo Finance — the premier lending and borrowing protocol of the Hedera network. The organizational structure of Bonzo is comprised of these components:**
