@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
+* [🦍 Overview](README.md)
+* [🗺️ Roadmap](roadmap.md)
+* [📞 Contact](contact.md)
