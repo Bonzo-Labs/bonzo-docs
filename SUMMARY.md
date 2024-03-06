@@ -9,7 +9,10 @@
 ## GET STARTED
 
 * [❓ FAQ](get-started/faq.md)
-* [🌐 Hedera Guide](get-started/hedera-guide.md)
+* [🌐 Hedera Guide](get-started/hedera-guide/README.md)
+  * [Hedera Wallet Setup](get-started/hedera-guide/hedera-wallet-setup.md)
+  * [Obtaining HBAR](get-started/hedera-guide/obtaining-hbar.md)
+  * [Bridging Assets to Hedera](get-started/hedera-guide/bridging-assets-to-hedera.md)
 * [🎓 Bonzo Tutorials](get-started/bonzo-tutorials.md)
 * [👨‍🏫 Core Concepts](get-started/core-concepts.md)
 
