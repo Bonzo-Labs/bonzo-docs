@@ -8,12 +8,12 @@
 
 ## GET STARTED
 
-* [❓ FAQ](get-started/faq.md)
-* [🌐 Hedera Guide](get-started/hedera-guide/README.md)
-  * [Hedera Wallet Setup](get-started/hedera-guide/hedera-wallet-setup.md)
-  * [Obtaining HBAR](get-started/hedera-guide/obtaining-hbar.md)
-  * [Bridging Assets to Hedera](get-started/hedera-guide/bridging-assets-to-hedera.md)
+* [🌐 Hedera ($HBAR)](get-started/hedera-usdhbar/README.md)
+  * [Hedera Wallet Setup](get-started/hedera-usdhbar/hedera-wallet-setup.md)
+  * [Obtaining $HBAR](get-started/hedera-usdhbar/obtaining-usdhbar.md)
+  * [Bridging Assets to Hedera](get-started/hedera-usdhbar/bridging-assets-to-hedera.md)
 * [🎓 Bonzo Tutorials](get-started/bonzo-tutorials.md)
+* [❓ FAQ](get-started/faq.md)
 * [👨‍🏫 Core Concepts](get-started/core-concepts.md)
 
 ## BONZO PROTOCOL
@@ -23,6 +23,7 @@
 * [🔮 Oracles](bonzo-protocol/oracles/README.md)
   * [Supra](bonzo-protocol/oracles/supra.md)
   * [Pyth](bonzo-protocol/oracles/pyth.md)
+* [🎟️ Earning Points](bonzo-protocol/earning-points.md)
 
 ## GOVERNANCE
 
