@@ -27,6 +27,12 @@
 
 * [🪙 Overview](bonzonomics/overview.md)
 
+## CONTRIBUTORS
+
+* [🐵 Bonzo Labs Team](contributors/bonzo-labs-team.md)
+* [👷 Careers](contributors/careers.md)
+* [🎉 Community](contributors/community.md)
+
 ## RISK
 
 * [⚠️ Bonzo Risk Framework](https://bonzo.gitbook.io/bonzo-risk-framework/)
