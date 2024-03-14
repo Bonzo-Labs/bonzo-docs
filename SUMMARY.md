@@ -12,9 +12,14 @@
   * [Hedera Wallet Setup](get-started/hedera-usdhbar/hedera-wallet-setup.md)
   * [Obtaining $HBAR](get-started/hedera-usdhbar/obtaining-usdhbar.md)
   * [Bridging Assets to Hedera](get-started/hedera-usdhbar/bridging-assets-to-hedera.md)
-* [🎓 Bonzo Academy](get-started/bonzo-tutorials.md)
+* [🎓 Bonzo Academy](get-started/bonzo-academy/README.md)
+  * [Core Concepts](get-started/bonzo-academy/core-concepts.md)
+  * [Markets](get-started/bonzo-academy/markets.md)
+  * [Lending](get-started/bonzo-academy/lending.md)
+  * [Borrowing](get-started/bonzo-academy/borrowing.md)
+  * [Staking](get-started/bonzo-academy/staking.md)
+* [🖼️ Bonzo Collectables](get-started/bonzo-collectables.md)
 * [🎟️ Earning Points](get-started/earning-points.md)
-* [👨‍🏫 Core Concepts](get-started/core-concepts.md)
 * [❓ FAQ](get-started/faq.md)
 
 ## BONZO PROTOCOL
@@ -47,7 +52,7 @@
 
 * [💻 Developer Resources](developer/developer-resources/README.md)
   * [👩‍💻 Bonzo v1 API](developer/developer-resources/bonzo-v1-api.md)
-  * [⛩️ WHBAR](developer/developer-resources/whbar.md)
+  * [⛩️ wHBAR](developer/developer-resources/whbar.md)
 * [🛡️ Audits](developer/audits.md)
 * [👾 GitHub](developer/github.md)
 
