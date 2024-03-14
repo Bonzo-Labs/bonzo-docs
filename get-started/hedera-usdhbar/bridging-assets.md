@@ -10,7 +10,7 @@ When these tokens are bridged to Hedera using Hashport, they are denoted with an
 \
 Once your assets have been successfully bridged to Hedera, you can then use them on the Bonzo Finance platform to lend, borrow, or stake, depending on the available options for the specific token. If you have any questions about the bridging process or encounter any issues, please don't hesitate to reach out to the Bonzo Finance support team for assistance.
 
-### Bridged Assets Currently Supported by Bonzo Finance
+### Bridged Assets To Be Initially Supported by Bonzo Finance
 
 | Asset Name       | Asset Symbol | Token ID    |
 | ---------------- | ------------ | ----------- |
