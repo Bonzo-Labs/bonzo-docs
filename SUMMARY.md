@@ -11,7 +11,7 @@
 * [🌐 Hedera ($HBAR)](get-started/hedera-usdhbar/README.md)
   * [Hedera Wallet Setup](get-started/hedera-usdhbar/hedera-wallet-setup.md)
   * [Obtaining $HBAR](get-started/hedera-usdhbar/obtaining-usdhbar.md)
-  * [Bridging Assets to Hedera](get-started/hedera-usdhbar/bridging-assets-to-hedera.md)
+  * [Bridging Assets](get-started/hedera-usdhbar/bridging-assets.md)
 * [🎓 Bonzo Academy](get-started/bonzo-academy/README.md)
   * [Core Concepts](get-started/bonzo-academy/core-concepts.md)
   * [Markets](get-started/bonzo-academy/markets.md)

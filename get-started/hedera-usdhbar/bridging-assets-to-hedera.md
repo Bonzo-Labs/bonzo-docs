@@ -1,2 +1,0 @@
-# Bridging Assets to Hedera
-
