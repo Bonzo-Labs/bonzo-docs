@@ -4,7 +4,7 @@ description: Bridging crypto assets to Hedera for use with Bonzo Finance
 
 # Bridging Assets
 
-[Hashport](https://www.hashport.network/) is a trusted bridging solution that enables users to seamlessly transfer digital assets between Hedera and various other EVM networks. With support for popular blockchains such as Ethereum, Optimism, Cronos, BNB, Polygon, Fantom, Moonbeam, Base, Arbitrum, Avalanche, and Aurora, Hashport offers a wide range of options for users looking to bring their assets to the Bonzo Finance platform.
+[Hashport](https://www.hashport.network/) is a trusted bridging solution that enables users to seamlessly transfer digital assets between Hedera and alternative EVM networks. With support for popular blockchains such as Ethereum, Optimism, Cronos, BNB, Polygon, Fantom, Moonbeam, Base, Arbitrum, Avalanche, and Aurora, Hashport offers a wide range of options for users looking to bring their assets to the Bonzo Finance platform.
 
 When these tokens are bridged to Hedera using Hashport, they are denoted with an **\[hts]** subscript to differentiate them from their native Hedera counterparts. For instance, **USDC\[hts]** represents **USDC** tokens that have been bridged from Ethereum, while **USDC** refers to the native Hedera version of the token.\
 \
