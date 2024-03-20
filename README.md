@@ -4,7 +4,7 @@
 
 Welcome to the official documentation for Bonzo Finance — the premier lending and borrowing protocol of the Hedera network. The organizational structure of Bonzo is comprised of these four components:
 
-* **Bonzo Labs:** A corporation in Dubai which has developed the Bonzo Finance protocol, along with the user interface.
+* **Bonzo Finance Labs:** A corporation in Dubai which has developed the Bonzo Finance protocol, along with the user interface.
 * **The Bonzo Finance Protocol:** A liquidity pool-based decentralized lending protocol built on Hedera. Bonzo is powered by open source smart contracts from Aave v2 that have been adapted to Hedera's native smart contract and token services. Bonzo utilizes over-collateralized loans, flash loans, and dynamic interest rate models to facilitate permissionless lending and borrowing of crypto assets.
 * **The Bonzo Interface:** An easy-to-use, web-hosted user interface that allows user interaction with the Bonzo protocol. The interface is one of many ways to interact with Bonzo.
 * **The Bonzo DAO (Coming Soon):** A decentralized autonomous organization (DAO) that guides protocol development and governance through collective decision-making by its community members, enabled by the $BONZO token.
