@@ -18,8 +18,7 @@
 
 ## BONZO PROTOCOL
 
-* [🏦 Bonzo v1](bonzo-protocol/bonzo-v1/README.md)
-  * [Whitepaper](bonzo-protocol/bonzo-v1/whitepaper.md)
+* [🏦 Bonzo v1](bonzo-protocol/bonzo-v1.md)
 * [🔮 Oracles](bonzo-protocol/oracles/README.md)
   * [Supra](bonzo-protocol/oracles/supra.md)
   * [Pyth](bonzo-protocol/oracles/pyth.md)
