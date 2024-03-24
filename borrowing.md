@@ -1,4 +1,4 @@
-# Borrowing
+# 🏦 Borrowing
 
 ### Why would I borrow instead of selling my assets?&#x20;
 
@@ -6,11 +6,11 @@ When you sell your assets, you are essentially closing your position and forfeit
 
 ### How do I borrow on Bonzo Finance?&#x20;
 
-To borrow on Bonzo Finance, you first need to supply an asset to be used as collateral. Once you've done this, navigate to the Borrow section, select the asset you wish to borrow, and enter the desired amount. The available amount will be based on the value of your supplied collateral and the platform's available liquidity. Choose between a stable or variable interest rate and confirm the transaction. You can switch between rate types at any time.
+To borrow on Bonzo Finance, you first need to supply an asset to be used as collateral (check out the [Supplying & Earning FAQ](https://docs.bonzo.finance/faq/supplying-and-earning) section for more info). Once you've done this, navigate to the Borrow section, select the asset you wish to borrow, and enter the desired amount. The available amount will be based on the value of your supplied collateral and the platform's available liquidity. Choose between a stable or variable interest rate and confirm the transaction. You can switch between rate types at any time.
 
 ### What determines the maximum amount I can borrow?&#x20;
 
-The maximum borrowing amount is determined by several factors, including the value of your supplied collateral, the platform's available liquidity, and your account's health factor. Each collateral asset has specific parameters that influence your borrowing capacity. You can find these details in the risk parameters section of the Bonzo Finance documentation.
+The maximum borrowing amount is determined by several factors, including the value of your supplied collateral, the platform's available liquidity, and your account's health factor. Each collateral asset has specific parameters that influence your borrowing capacity. You can find these details in the [risk parameters](https://docs.bonzo.finance) section of the Bonzo Finance documentation.
 
 ### What do I need to repay my loan?&#x20;
 

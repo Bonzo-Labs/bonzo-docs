@@ -1,36 +1,36 @@
-# Supplying & Earning
+# 💰 Supplying & Earning
 
-### How do I supply? <a href="#how-do-i-supply" id="how-do-i-supply"></a>
+### How to supply assets on Bonzo Finance <a href="#how-do-i-supply" id="how-do-i-supply"></a>
 
-Browse to the "Supply" section of the Bonzo user interface and click on "Supply" for the asset you want to supply. Select the amount you'd like to supply and submit your transaction\*. Once the transaction is confirmed, your supply is successfully registered and you begin earning interest. \
-\
-_\*The first supply of one asset will require an approval transaction to be signed._
+To start supplying assets on Bonzo Finance, navigate to the "Supply" section of the user interface. Select the asset you wish to supply and click on the "Supply" button. Enter the amount you want to provide and confirm the transaction. If this is your first time supplying a particular asset, you'll need to approve the transaction, which requires signing.
 
-### How much will I earn? <a href="#how-much-will-i-earn" id="how-much-will-i-earn"></a>
+Once the transaction is confirmed, your supplied assets will start earning interest based on the current market conditions.
 
-bTokens holders receive continuous earnings that evolve with market conditions based on:
+### Understanding your earnings on Bonzo Finance <a href="#how-much-will-i-earn" id="how-much-will-i-earn"></a>
 
-* **The interest rate payment on loans:** Suppliers share the interests paid by borrowers corresponding to the average borrow rate times the utilization rate. The higher the utilization of a reserve the higher the yield for suppliers. The borrow interest rate model will be made available prior to the Bonzo protocol's deployment on mainnet.
-* **Flash Loan fees**: Suppliers receive a share of the Flash Loan fees corresponding to .09% of the Flash Loan volume.
+When you supply assets on Bonzo Finance, you receive bTokens, which represent your share of the liquidity pool. bToken holders earn a continuous stream of income that is influenced by two main factors:
 
-Each asset has its own market of supply and demand with its own APY (Annual Percentage Yield) which evolves with time. You can find the average annual rate over the past 30 days to evaluate the rate evolution, and you can also find more data on the reserve overview of each asset in the home section on the app.
+* **Loan interest payments**: Suppliers receive a portion of the interest paid by borrowers, which is calculated based on the average borrow rate multiplied by the utilization rate. Higher utilization of a reserve leads to higher yields for suppliers. The specific borrow interest rate model will be made available before the Bonzo protocol launches on mainnet.
+* **Flash Loan fees**: Suppliers also earn a share of the fees generated from Flash Loans, which amounts to 0.09% of the total Flash Loan volume.
 
-### Is there a minimum or maximum amount to supply? <a href="#is-there-a-minimum-or-maximum-amount-to-supply" id="is-there-a-minimum-or-maximum-amount-to-supply"></a>
+Each asset on Bonzo Finance has its own supply and demand dynamics, resulting in a unique Annual Percentage Yield (APY) that changes over time. You can view the average annual rate for the past 30 days to get a sense of the rate's evolution, as well as more detailed data on each asset's reserve overview in the app's home section.
 
-There is no mininum supply amount. Still, it's important to take into account that for really low amounts it is possible that the transaction cost of the process is higher than the expected earnings. It is recommended that you consider this when supplying very low amounts.
+### Minimum and maximum supply amounts <a href="#is-there-a-minimum-or-maximum-amount-to-supply" id="is-there-a-minimum-or-maximum-amount-to-supply"></a>
 
-### Can I borrow using stable and variable rate at the same time for one asset? <a href="#can-i-borrow-using-stable-and-variable-rate-at-the-same-time-for-one-asset" id="can-i-borrow-using-stable-and-variable-rate-at-the-same-time-for-one-asset"></a>
+Bonzo Finance does not impose a minimum supply amount. However, it's essential to consider that for very small amounts, the transaction cost associated with the supply process may exceed the expected earnings. Keep this in mind when supplying low quantities of an asset.
+
+### Borrowing with stable and variable rates <a href="#can-i-borrow-using-stable-and-variable-rate-at-the-same-time-for-one-asset" id="can-i-borrow-using-stable-and-variable-rate-at-the-same-time-for-one-asset"></a>
 
 No, you can only borrow using a stable or variable rate, if you switch to your desired rate it will switch the rate for your whole debt on that asset. Despite this, you can have different borrow rates for different assets.
 
 ### How do I withdraw? <a href="#how-do-i-withdraw" id="how-do-i-withdraw"></a>
 
-To withdraw, please visit "Dashboard" section of the Bonzo interface and click on “Withdraw”. Select the amount to withdraw and submit the transaction.
+To withdraw your supplied assets, go to the "Dashboard" section of the Bonzo interface and click on "Withdraw." Choose the amount you wish to withdraw and confirm the transaction.
 
-You would need to make sure there is enough liquidity (not borrowed) in order to withdraw, if this is not the case you would need to wait for more liquidity from suppliers or borrowers repaying.
+Please note that you can only withdraw if there is sufficient liquidity (i.e., assets not currently borrowed) in the pool. If there isn't enough liquidity, you'll need to wait for more suppliers to provide funds or for borrowers to repay their loans.
 
-### Can I opt-out my asset from being used as a collateral? <a href="#can-i-opt-out-my-asset-from-being-used-as-a-collateral" id="can-i-opt-out-my-asset-from-being-used-as-a-collateral"></a>
+### Opting out of using supplied assets as collateral <a href="#can-i-opt-out-my-asset-from-being-used-as-a-collateral" id="can-i-opt-out-my-asset-from-being-used-as-a-collateral"></a>
 
-Yes. After supplying your assets, you are able to unselect the asset so that it will not be used as collateral. The opt-out is available in the "Supply" section within your dashboard. Simply switch the "use as collateral" button on the asset you would prefer to opt-out from being used as a collateral.\
-\
-_\* You can withdraw your assets without opting out of using them as collateral, as long as those funds are not actively being used to borrow and the withdrawal would cause a liquidation on your loans._
+Bonzo Finance allows you to choose whether or not you want your supplied assets to be used as collateral. After supplying an asset, you can opt-out of using it as collateral by navigating to the "Supply" section within your dashboard. Simply toggle the "use as collateral" button for the specific asset you wish to exclude.
+
+Keep in mind that you can still withdraw your assets without opting out of using them as collateral, provided that those funds are not actively being used to borrow and the withdrawal would not cause a liquidation on your loans.
