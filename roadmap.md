@@ -6,26 +6,35 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 
 **Projects actively being developed:**
 
-* \#1
-* \#2
+* Testnet deployment of Smart Contracts based on Aave v2
+* Supra oracles integration
+* Initial frontend & WalletConnect (HashPack, Blade, Kaliba, Metamask)
+* Website & branding
+* Official documentation
 
 ## 🟨 Planned for Development
 
 **Projects planned for development:**
 
-* \#1
-* \#2
+* Branded UI/UX application frontend
+* Bonzo NFT Illustrations & utility
+* Liquidation bots
 
 ## 🟧 Prioritized for Development
 
 **Projects prioritized for development:**
 
-* \#1
-* \#2
+* Code Freeze & Smart Contract Audits
+* Points reward system based on HCS-20
+* Pyth oracles implementation
+* Bonzo v1 API
+* Discord faucet for $HBAR and $BONZO
 
 ## 🏁 Completed
 
 **Projects that have completed development:**
 
-* \#1
-* \#2
+* Basic Landing Page & Email/Account ID Registration
+* [Discord Server](https://www.bonzo.finance/discord)
+* [𝕏](https://www.x.com/bonzo\_finance) Handle
+* Subreddit [r/BonzoFinance](https://www.reddit.com/r/bonzofinance)&#x20;
