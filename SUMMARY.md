@@ -23,23 +23,11 @@
   * [Supra](bonzo-protocol/oracles/supra.md)
   * [Pyth](bonzo-protocol/oracles/pyth.md)
 
-## GOVERNANCE
-
-* [🗳️ Bonzo DAO](governance/bonzo-dao.md)
-
-## BONZONOMICS
-
-* [🪙 Token Allocations](bonzonomics/token-allocations.md)
-
 ## CONTRIBUTORS
 
 * [🐵 Bonzo Labs Team](contributors/bonzo-labs-team.md)
 * [👷 Careers](contributors/careers.md)
 * [🎉 Community](contributors/community.md)
-
-## RISK
-
-* [⚠️ Bonzo Risk Framework](https://bonzo.gitbook.io/bonzo-risk-framework/)
 
 ## DEVELOPER
 
