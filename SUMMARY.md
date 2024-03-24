@@ -1,9 +1,61 @@
 # Table of contents
 
-* [🏠 Introduction to Bonzo](README.md)
-* [💰 Supplying & Earning](supplying-and-earning.md)
-* [🏦 Borrowing](borrowing.md)
-* [🔄 Switch & Repay Using Collateral](switch-and-repay-using-collateral.md)
-* [⚠️ Liquidations](liquidations.md)
-* [⚡ Flash Loans](flash-loans.md)
-* [❄️ Frozen Markets & Reserves](frozen-markets-and-reserves.md)
+* [🤠 Overview](README.md)
+* [🗺️ Roadmap](roadmap.md)
+* [📞 Contact](contact/README.md)
+  * [Support](contact/support.md)
+  * [Community](contact/community.md)
+
+## GET STARTED
+
+* [🌐 Hedera ($HBAR)](get-started/hedera-usdhbar/README.md)
+  * [Hedera Wallet Setup](get-started/hedera-usdhbar/hedera-wallet-setup.md)
+  * [Obtaining $HBAR](get-started/hedera-usdhbar/obtaining-usdhbar.md)
+  * [Bridging Assets](get-started/hedera-usdhbar/bridging-assets.md)
+* [🎓 Bonzo Academy](https://app.gitbook.com/o/uZi4BDkh5f1OFOeAYpLQ/s/oE9ZKgfBbWIDlQBPDgmW/frozen-markets-and-reserves)
+* [🖼️ Bonzo Collectables](get-started/bonzo-collectables.md)
+* [🎟️ Earning Points](get-started/earning-points.md)
+
+## BONZO PROTOCOL
+
+* [🏦 Bonzo v1](bonzo-protocol/bonzo-v1/README.md)
+  * [Whitepaper](bonzo-protocol/bonzo-v1/whitepaper.md)
+* [🔮 Oracles](bonzo-protocol/oracles/README.md)
+  * [Supra](bonzo-protocol/oracles/supra.md)
+  * [Pyth](bonzo-protocol/oracles/pyth.md)
+
+## GOVERNANCE
+
+* [🗳️ Bonzo DAO](governance/bonzo-dao.md)
+
+## BONZONOMICS
+
+* [🪙 Token Allocations](bonzonomics/token-allocations.md)
+
+## CONTRIBUTORS
+
+* [🐵 Bonzo Labs Team](contributors/bonzo-labs-team.md)
+* [👷 Careers](contributors/careers.md)
+* [🎉 Community](contributors/community.md)
+
+## RISK
+
+* [⚠️ Bonzo Risk Framework](https://bonzo.gitbook.io/bonzo-risk-framework/)
+
+## DEVELOPER
+
+* [💻 Developer Resources](developer/developer-resources/README.md)
+  * [👩‍💻 Bonzo v1 API](developer/developer-resources/bonzo-v1-api.md)
+  * [⛩️ wHBAR](developer/developer-resources/whbar.md)
+* [🛡️ Audits](developer/audits.md)
+* [👾 GitHub](developer/github.md)
+
+## RESOURCES
+
+* [🎨 Brand Resources](resources/brand-resources.md)
+* [📚 Glossary](resources/glossary.md)
+
+## LEGAL
+
+* [📃 Terms of Service](legal/terms-of-service.md)
+* [🔒 Privacy Policy](legal/privacy-policy.md)

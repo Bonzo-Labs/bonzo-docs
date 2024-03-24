@@ -1,2 +1,0 @@
-# 🎓 Bonzo Academy
-

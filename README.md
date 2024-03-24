@@ -1,37 +1,30 @@
-# 🏠 Introduction to Bonzo
+# 🤠 Overview
 
-### What is Bonzo Finance?&#x20;
+**\[INSERT IMAGE]**
 
-[Bonzo Finance](https://www.bonzo.finance) is a decentralized platform that enables users to lend and borrow cryptocurrencies in a secure, non-custodial manner. Built on the Hedera network, Bonzo Finance allows lenders to earn passive income by providing liquidity to the market, while borrowers can access loans by supplying collateral.
+Welcome to the official documentation for Bonzo Finance — the premier lending and borrowing protocol of the Hedera network. The organizational structure of Bonzo is comprised of these four components:
 
-We invite you to join the Bonzo Finance community on [Discord](https://www.bonzo.finance/discord) and [𝕏](https://www.x.com/bonzo\_finance), where our team and fellow users are ready to assist you in navigating and making the most of the protocol.
+* **Bonzo Finance Labs:** A corporation in Dubai which has developed the Bonzo Finance protocol, along with the user interface.
+* **The Bonzo Finance Protocol:** A liquidity pool-based decentralized lending protocol built on Hedera. Bonzo is powered by open source smart contracts from Aave v2 that have been adapted to Hedera's native smart contract and token services. Bonzo utilizes over-collateralized loans, flash loans, and dynamic interest rate models to facilitate permissionless lending and borrowing of crypto assets.
+* **The Bonzo Interface:** An easy-to-use, web-hosted user interface that allows user interaction with the Bonzo protocol. The interface is one of many ways to interact with Bonzo.
+* **The Bonzo DAO (Coming Soon):** A decentralized autonomous organization (DAO) that guides protocol development and governance through collective decision-making by its community members, enabled by the $BONZO token.
 
-### Why choose Bonzo Finance?
+## Bonzo Protocol
 
-Security is a top priority for Bonzo Finance. Prior to the mainnet launch, the protocol will undergo rigorous audits to ensure its integrity. As an open-source project, Bonzo Finance allows developers to create and integrate third-party services and applications, fostering innovation and expanding the protocol's capabilities.
+The [Bonzo Finance](https://www.bonzo.finance) protocol is a decentralized protocol designed to facilitate the lending and borrowing of cryptocurrencies, with a focus on HBAR, wrapped major assets, and Hedera Token Service (HTS) tokens. Bonzo prioritizes censorship resistance, security, and self-custody, enabling users to transact without reliance on trusted intermediaries that may selectively restrict access.
 
-### Getting started with Bonzo Finance&#x20;
+Bonzo Finance integrates with the Hedera Token Service (HTS) by adapting the Aave v2 lending protocol to interact with the Hedera Smart Contract Service (HSCS) through EVM precompiles. This integration allows for high throughput, fast transaction times, and a low-cost, U.S. dollar-denominated fee structure. Additionally, Hedera's architecture ensures fair transaction ordering on Bonzo Finance, mitigating the risk of MEV attacks commonly seen on alternative EVM-based protocols.
 
-To get started, simply supply one of the supported assets to the Bonzo Finance protocol. By supplying assets, you'll start earning passive income based on the market demand for borrowing. Moreover, your supplied assets serve as collateral, enabling you to borrow funds when needed. The interest earned from supplying helps offset the interest accrued when borrowing.
+Bonzo Finance utilizes Supra and Pyth oracles to provide accurate and reliable price feeds for the lending and borrowing of assets, ensuring transparent and efficient operations within the protocol.\
 
-### Transaction costs on Bonzo Finance&#x20;
 
-When interacting with the Bonzo Finance protocol, you'll incur transaction fees for using the Hedera network. The exact cost depends on the complexity of the transaction.
+## Unique Advantages
 
-### The security of your supplied funds&#x20;
+Description\
 
-When you supply assets to Bonzo Finance, your funds are securely stored in a smart contract. The smart contract's code is open-source and will be thoroughly audited and formally verified by reputable third-party firms before the mainnet launch. You retain control over your funds, with the ability to withdraw them at any time or convert your lender position into a tradable token called bTokens.
 
-### Understanding the risks
+## Milestones
 
-While Bonzo Finance takes every precaution to minimize risk, no platform is entirely risk-free. The main risks associated with Bonzo Finance include smart contract vulnerabilities and the potential for collateral liquidation. However, the protocol's open-source nature and the planned audits help mitigate these risks.
+**\[INSERT IMAGE]**
 
-For more information on risk management and security measures, please refer to the risk framework and security and audits sections of our documentation.
-
-### The role of the Bonzo token
-
-In the future, the Bonzo token will play a crucial role in protocol governance. Token holders will have the ability to vote on Bonzo Improvement Proposals (BIPs), shaping the direction and development of the platform. Additionally, users can stake Bonzo tokens in the protocol's Safety Module, providing insurance to lenders and earning staking rewards and fees in return.
-
-Details on the tokenomics and governance model will be outlined in the forthcoming whitepaper and expanded upon in the full documentation.
-
-**Please note that Bonzo Finance does not advertise on social media or search engines. If you encounter any advertisements claiming to be from Bonzo Finance, be aware that they are likely scams or phishing attempts.**
+Description
