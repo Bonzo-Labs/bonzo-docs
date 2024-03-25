@@ -34,7 +34,4 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 
 **Projects that have completed development:**
 
-* Basic Landing Page & Email/Account ID Registration
-* [Discord Server](https://www.bonzo.finance/discord)
-* [𝕏](https://www.x.com/bonzo\_finance) Handle
-* Subreddit [r/BonzoFinance](https://www.reddit.com/r/bonzofinance)&#x20;
+* Bonzo Finance Homepage & Blog
