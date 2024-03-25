@@ -2,9 +2,6 @@
 
 * [🤠 Overview](README.md)
 * [🗺️ Roadmap](roadmap.md)
-* [📞 Contact](contact/README.md)
-  * [Support](contact/support.md)
-  * [Community](contact/community.md)
 
 ## GET STARTED
 
@@ -41,6 +38,9 @@
 
 * [🎨 Brand Resources](resources/brand-resources.md)
 * [📚 Glossary](resources/glossary.md)
+* [📞 Contact](resources/contact/README.md)
+  * [Support](resources/contact/support.md)
+  * [Community](resources/contact/community.md)
 
 ## LEGAL
 
