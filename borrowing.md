@@ -16,9 +16,9 @@ The maximum borrowing amount is determined by several factors, including the val
 
 Loans on Bonzo Finance are repaid using the same asset that was borrowed, plus any accrued interest. For example, if you borrow 100 HBAR, you will need to repay 100 HBAR plus the interest accumulated over the loan's duration. Bonzo Finance also allows you to use your collateral to repay your loan directly.
 
-### Variable Interest Rates&#x20;
+### Stable vs. Variable Interest Rates: What's the difference?&#x20;
 
-Bonzo Finance offers variable interest rates for borrowing that fluctuate based on the supply and demand dynamics of all supported assets in the Bonzo Finance protocol.
+Bonzo Finance offers two types of interest rates: stable and variable. Stable rates provide more predictability, as they remain relatively consistent in the short term. However, they may be rebalanced periodically to align with market conditions. Variable rates, on the other hand, fluctuate based on the supply and demand dynamics within the Bonzo Finance platform. You can switch between stable and variable rates at any time through your dashboard.
 
 ### Understanding the Health Factor&#x20;
 
@@ -30,7 +30,7 @@ Your health factor is directly influenced by the value of your collateral and bo
 
 ### Loan Repayment on Bonzo Finance&#x20;
 
-There is no fixed loan term on Bonzo Finance – you can keep your borrowed position open as long as your health factor remains above 1. However, keep in mind that interest will continue to accrue on your borrowed amount, gradually decreasing your health factor over time. To repay your loan, simply go to the "Borrowing" section of the Bonzo Dashboard, select the asset you want to repay, choose the repayment amount, and confirm the transaction.
+There is no fixed loan term on Bonzo Finance – you can keep your borrowed position open as long as your health factor remains above 1. However, keep in mind that interest will continue to accrue on your borrowed amount, gradually decreasing your health factor over time. To repay your loan, simply go to the Borrowings section of your dashboard, select the asset you want to repay, choose the repayment amount, and confirm the transaction.
 
 ### Avoiding Liquidation&#x20;
 
