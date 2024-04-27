@@ -12,7 +12,7 @@ Upon our request, you agree to provide us with certain Personal Information (as 
 
 NOTICE: This Agreement contains important information, including a binding arbitration provision and a class action waiver, both of which impact your rights as to how disputes are resolved. Our Services are only available to you — and you should only access any of our Services — if you agree completely with these terms.
 
-1. ### Our Services&#x20;
+### 1. Our Services&#x20;
 
 **1.1 The Interface and Protocol**&#x20;
 
@@ -30,7 +30,7 @@ We may from time to time in the future offer additional products, and such addit
 
 When you use any of our Services, you may also be using the products, services or content of one or more third parties. Your use of such third-party products, services or content may be subject to separate policies, terms of use and fees of these third parties, and you agree to abide by and be responsible for such policies, terms of use and fees, as applicable.
 
-2. ### Modification
+### 2. Modification
 
 **2.1 Modifications of this Agreement**&#x20;
 
@@ -42,7 +42,7 @@ All modifications will be effective when they are posted, and your continued acc
 
 We reserve the following rights, which do not constitute obligations of ours: (a) with or without notice to you, to modify, substitute, eliminate or add to any of the Services; (b) to review, modify, filter, disable, delete and remove any and all content and information from any of the Services.
 
-3. ### Intellectual Property Rights&#x20;
+### 3. Intellectual Property Rights&#x20;
 
 **3.1 Generally**
 
@@ -60,7 +60,7 @@ Our Services may contain references or links to third-party resources, including
 
 We reserve the right to cooperate with any law enforcement, court or government investigation or order or third party requesting or directing that we disclose information or content or information that you provide.
 
-4. ### Your Responsibilities
+### 4. Your Responsibilities
 
 **4.1 Prohibited Activity**&#x20;
 
@@ -115,7 +115,7 @@ You expressly agree that you assume all risks in connection with your access and
 
 If you are a California resident, you waive the benefits and protections of California Civil Code § 1542, which provides: "\[a] general release does not extend to claims that the creditor or releasing party does not know or suspect to exist in his or her favor at the time of executing the release and that, if known by him or her, would have materially affected his or her settlement with the debtor or released party."
 
-5. ### DISCLAIMERS&#x20;
+### 5. DISCLAIMERS&#x20;
 
 **5.1 ASSUMPTION OF RISK**\
 \
@@ -143,11 +143,11 @@ ANY PAYMENTS OR FINANCIAL TRANSACTIONS THAT YOU ENGAGE IN WILL BE PROCESSED VIA 
 
 ALL INFORMATION PROVIDED BY ANY OF OUR SERVICES IS FOR INFORMATIONAL PURPOSES ONLY AND SHOULD NOT BE CONSTRUED AS INVESTMENT ADVICE OR A RECOMMENDATION THAT A PARTICULAR TOKEN IS A SAFE OR SOUND INVESTMENT. YOU SHOULD NOT TAKE, OR REFRAIN FROM TAKING, ANY ACTION BASED ON ANY INFORMATION CONTAINED IN ANY OF OUR SERVICES. BY PROVIDING TOKEN INFORMATION FOR YOUR CONVENIENCE, WE DO NOT MAKE ANY INVESTMENT RECOMMENDATIONS TO YOU OR OPINE ON THE MERITS OF ANY TRANSACTION OR OPPORTUNITY. YOU ALONE ARE RESPONSIBLE FOR DETERMINING WHETHER ANY INVESTMENT, INVESTMENT STRATEGY OR RELATED TRANSACTION IS APPROPRIATE FOR YOU BASED ON YOUR PERSONAL INVESTMENT OBJECTIVES, FINANCIAL CIRCUMSTANCES, AND RISK TOLERANCE.
 
-6. ### Indemnification&#x20;
+### 6. Indemnification&#x20;
 
 You agree to hold harmless, release, defend, and indemnify us and our officers, directors, employees, contractors, agents, affiliates, and subsidiaries from and against all claims, damages, obligations, losses, liabilities, costs, and expenses arising from: (a) your access to and use of any of the Services or the Protocol; (b) your violation of any term or condition of this Agreement, the rights of any third party, or any other applicable law, rule, or regulation; (c) any other party's access to and use of any of the Services or the Protocol with your assistance or using any device or account that you own or control; and (d) any dispute between you and (i) any other user of any of the Services or the Protocol or (ii) any of your own customers or users.
 
-7. ### Limitation of Liability&#x20;
+### 7. Limitation of Liability&#x20;
 
 UNDER NO CIRCUMSTANCES SHALL WE OR ANY OF OUR OFFICERS, DIRECTORS, EMPLOYEES, CONTRACTORS, AGENTS, AFFILIATES, OR SUBSIDIARIES BE LIABLE TO YOU FOR ANY INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE PROPERTY, ARISING OUT OF OR RELATING TO ANY ACCESS TO OR USE OF, OR INABILITY TO ACCESS OR USE, ANY OF THE SERVICES OR THE PROTOCOL, NOR WILL WE BE RESPONSIBLE FOR ANY DAMAGE, LOSS, OR INJURY RESULTING FROM HACKING, TAMPERING, OR OTHER UNAUTHORIZED ACCESS OR USE OF THE SERVICES OR THE PROTOCOL OR THE INFORMATION CONTAINED WITHIN THEM, WHETHER SUCH DAMAGES ARE BASED IN CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE, ARISING OUT OF OR IN CONNECTION WITH AUTHORIZED OR UNAUTHORIZED USE OF THE SERVICES OR THE PROTOCOL, EVEN IF AN AUTHORIZED REPRESENTATIVE OF BONZO FINANCE HAS BEEN ADVISED OF OR KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES. WE ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY: (A) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT; (B) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM ANY ACCESS TO OR USE OF THE SERVICES OR THE PROTOCOL; (C) UNAUTHORIZED ACCESS TO OR USE OF ANY SECURE SERVER OR DATABASE IN OUR CONTROL, OR THE USE OF ANY INFORMATION OR DATA STORED THEREIN; (D) INTERRUPTION OR CESSATION OF FUNCTION RELATED TO THE SERVICES OR THE PROTOCOL; (E) BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE THAT MAY BE TRANSMITTED TO OR THROUGH THE SERVICES OR THE PROTOCOL; (F) ERRORS OR OMISSIONS IN, OR LOSS OR DAMAGE INCURRED AS A RESULT OF THE USE OF, ANY CONTENT MADE AVAILABLE THROUGH THE SERVICES OR THE PROTOCOL; AND (G) THE DEFAMATORY, OFFENSIVE, OR ILLEGAL CONDUCT OF ANY THIRD PARTY.
 
@@ -159,7 +159,7 @@ SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OF LIABILITY FOR PERSONAL INJURY,
 
 THE FOREGOING DISCLAIMER WILL NOT APPLY TO THE EXTENT PROHIBITED BY LAW.
 
-8. ### Governing Law, Dispute Resolution and Class Action Waivers&#x20;
+### 8. Governing Law, Dispute Resolution and Class Action Waivers&#x20;
 
 **8.1 Governing Law**
 
@@ -179,7 +179,7 @@ The parties will each pay their own attorney's fees and arbitration costs, unles
 
 You must bring any and all Disputes against us in your individual capacity and not as a plaintiff in or member of any purported class action, collective action, private attorney general action, or other representative proceeding. This provision applies to class arbitration. You and we both agree to waive the right to demand a trial by jury.
 
-9. ### Miscellaneous
+### 9. Miscellaneous
 
 **9.1 Entire Agreement**
 
