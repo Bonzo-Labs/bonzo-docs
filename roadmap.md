@@ -11,6 +11,7 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 * Initial frontend & WalletConnect (HashPack, Blade, Kaliba, Metamask)
 * Website & branding
 * Official documentation
+* Discord faucet for SaucerSwap testnet HTS tokens
 
 ## 🟨 Planned for Development
 
