@@ -22,7 +22,7 @@
 
 ## CONTRIBUTORS
 
-* [🐵 Bonzo Labs Team](contributors/bonzo-labs-team.md)
+* [🐵 Team](contributors/team.md)
 * [👷 Careers](contributors/careers.md)
 * [🎉 Community](contributors/community.md)
 
