@@ -1,6 +1,6 @@
 # 🐵 Team
 
-Bonzo Finance Labs fosters a culture of curiosity, creativity, transparency, and collaboration — we highly value those who are patient educators at heart and recognize the importance of community. We pride ourselves on being "optimistic pragmatists" and value approaching overcoming challenges with a positive attitude while staying grounded in reality.\
+Bonzo Finance Labs fosters a culture of curiosity, creativity, transparency, and collaboration — we highly value those who are patient educators at heart and recognize the importance of community. We pride ourselves on being "optimistic pragmatists" and believe in overcoming challenges with a positive attitude while staying grounded in reality.\
 \
 If you're passionate about  decentralized finance and are interested in joining us, please visit the [careers page](https://docs.bonzo.finance/careers) of the official documentation.
 
