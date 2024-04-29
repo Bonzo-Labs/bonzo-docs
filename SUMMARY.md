@@ -11,7 +11,7 @@
   * [Bridging Assets](get-started/hedera-usdhbar/bridging-assets.md)
 * [🖼️ Bonzo NFT Collectables](get-started/bonzo-nft-collectables.md)
 * [🎟️ Earning Points](get-started/earning-points.md)
-* [🎓  Bonzo Academy](https://app.gitbook.com/o/uZi4BDkh5f1OFOeAYpLQ/s/oE9ZKgfBbWIDlQBPDgmW/frozen-markets-and-reserves)
+* [🎓  Bonzo Academy](https://docs.bonzo.finance/bonzo-academy/)
 
 ## BONZO PROTOCOL
 
