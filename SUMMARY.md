@@ -38,7 +38,7 @@
 
 ## RESOURCES
 
-* [🎨 Brand Resources](resources/brand-resources.md)
+* [🎨 Brand Assets](resources/brand-assets.md)
 * [📚 Glossary](resources/glossary.md)
 * [📞 Contact](resources/contact/README.md)
   * [Support](resources/contact/support.md)
