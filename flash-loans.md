@@ -6,6 +6,8 @@ Flash Loans are a powerful tool designed for developers who want to take advanta
 
 To execute a Flash Loan on Bonzo Finance, developers need to create a smart contract that requests the loan, performs the desired actions, and ensures that the loan is paid back in full within the same transaction. If the loan is not repaid as expected, the entire transaction is reversed, and no changes are made to the protocol or the borrower's position.
 
+If you're a developer interested in participating in the Flash Loans ecosystem, please visit the [Flash Loans](https://docs.bonzo.finance/hub/developer/flash-loans) section of the Bonzo Finance documentation.
+
 ### **Executing Flash Loans on Bonzo Finance**
 
 To learn more about the technical details and step-by-step process of executing a Flash Loan on Bonzo Finance, developers can refer to the comprehensive documentation provided by the protocol. The Bonzo Finance team is also available on the official Discord channel to answer questions and provide guidance throughout the development process.

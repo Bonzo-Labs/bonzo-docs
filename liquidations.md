@@ -30,10 +30,10 @@ To avoid liquidation, borrowers can take proactive steps to maintain a healthy c
 
 Borrowers should closely monitor their health factor and aim to keep it well above 1 to provide a safety buffer against market fluctuations. Tools like HAL can help users track their health factor and receive notifications when it falls below a certain threshold. Additionally, services like Defi Saver offer auto-liquidation features to help borrowers manage their positions more effectively.
 
-It's important to be mindful of stablecoin price fluctuations due to market conditions, as they can impact the health factor. For example, if the market price of USDC deviates from its intended $1.00 peg, it can affect the collateral-to-debt ratio. More details on price oracles and their role in the liquidation process can be found in the [price discovery](https://docs.bonzo.finance) section of the Bonzo Finance documentation.
+It's important to be mindful of stablecoin price fluctuations due to market conditions, as they can impact the health factor. For example, if the market price of USDC deviates from its intended $1.00 peg, it can affect the collateral-to-debt ratio.
 
 ### Participating in the Liquidation Ecosystem&#x20;
 
 Liquidations in Bonzo Finance are open to anyone, providing an opportunity for users to earn liquidation bonuses by repaying borrowers' debts and claiming their collateral. However, the liquidation process is highly competitive, with many liquidators developing custom solutions and bots to be the first to liquidate eligible loans.
 
-If you're interested in participating in the liquidation ecosystem, you can find more information in the developers' [liquidation section of the Bonzo Finance documentation](https://docs.bonzo.finance/liquidations). This section provides technical details and guidance on how to integrate liquidation functionality into your own applications or bots.
+If you're interested in participating in the liquidation ecosystem, you can find more information in the [Liquidation Bots](https://docs.bonzo.finance/hub/developer/liquidation-bots) section of the Bonzo Finance documentation hub. This section provides technical details and guidance on how to integrate liquidation functionality into your own applications or bots.
