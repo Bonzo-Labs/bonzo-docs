@@ -6,20 +6,19 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 
 **Projects actively being developed:**
 
-* Testnet deployment of Smart Contracts based on Aave v2
-* Supra oracles integration
-* Initial frontend & WalletConnect (HashPack, Blade, Kaliba, Metamask)
-* Website & branding
+* Official homepage & branding
+* Public testnet availability & UI/UX dapp frontend
 * Official documentation
-* Discord faucet for SaucerSwap testnet HTS tokens
+* Public Discord faucet for SaucerSwap testnet HTS tokens
 
 ## 🟨 Planned for Development
 
 **Projects planned for development:**
 
-* Branded UI/UX application frontend
-* Bonzo NFT Illustrations & utility
-* Liquidation bots
+* Bonzo NFT illustrations
+* Liquidation bot testing & developer templates&#x20;
+* Flash loan testing & developer templates
+* WalletConnect integration (HashPack, Blade, Kaliba, MetaMask, etc.)
 
 ## 🟧 Prioritized for Development
 
@@ -29,10 +28,13 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 * Points reward system based on HCS-20
 * Pyth oracles implementation
 * Bonzo v1 API
-* Discord faucet for $HBAR and $BONZO
+* Discord faucet for mainnet $HBAR & $BONZO
 
 ## 🏁 Completed
 
 **Projects that have completed development:**
 
-* Bonzo Finance Homepage & Blog
+* Initial Bonzo Finance Homepage & Blog
+* Supra oracles integration
+* Testnet deployment / adaptation of Aave v2 Smart Contracts
+* HashConnect integration for HashPack
