@@ -14,6 +14,10 @@ description: Setting up a Hedera wallet that's compatible with the Bonzo Finance
 
 ### MetaMask <a href="#metamask" id="metamask"></a>
 
+{% hint style="warning" %}
+Currently in development. The Bonzo Finance testnet application today only works with the HashPack wallet.
+{% endhint %}
+
 [MetaMask](https://metamask.io/) is the most widely-used wallet, allowing users to store ERC-20 tokens on Ethereum-based blockchains, as well as HTS tokens on the Hedera network. For detailed, step-by-step instructions on setting up your MetaMask wallet, visit [Getting started with MetaMask](https://support.metamask.io/hc/en-us/articles/360015489531-Getting-started-with-MetaMask).
 
 * For desktop users, install the MetaMask extension directly from [metamask.io](https://metamask.io/).
