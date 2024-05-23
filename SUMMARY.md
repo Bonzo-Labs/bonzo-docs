@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🏠 Introduction](README.md)
-* [🏆 Bonzo Finance Labs Team](bonzo-finance-labs-team.md)
+* [🏆 Team](team.md)
 * [🖼️ NFT Collectibles Sale](nft-collectibles-sale.md)
 * [🪙 $BONZO Token](usdbonzo-token/README.md)
   * [⚙️ $BONZO Utility](usdbonzo-utility.md)
