@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏠 Introduction](README.md)
+* [🏠 Overview & Resources](README.md)
 * [🏆 Team](team.md)
 * [🖼️ NFT Collectibles Sale](nft-collectibles-sale.md)
 * [🪙 $BONZO Token](usdbonzo-token/README.md)
