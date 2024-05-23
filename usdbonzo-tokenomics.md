@@ -20,7 +20,7 @@ Once all 400,000,000 $BONZO tokens have entered circulation, the token allocatio
 
 <table><thead><tr><th width="190">Category</th><th width="199">Total Amount</th><th>% of Max Supply</th></tr></thead><tbody><tr><td><strong>Community</strong></td><td>108,000,000</td><td>35%</td></tr><tr><td><strong>Investor</strong></td><td>44,000,000</td><td>11%</td></tr><tr><td><strong>Core Development</strong></td><td>100,000,000</td><td>25%</td></tr><tr><td><strong>DAO Treasury</strong></td><td>100,000,000</td><td>25%</td></tr><tr><td><strong>Ecosystem Development</strong></td><td>52,000,000</td><td>10%</td></tr><tr><td><strong>Safety Module</strong></td><td>40,000,000</td><td>5%</td></tr></tbody></table>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Bonzo Finance | Token Allocation Breakdown</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Bonzo Finance | Token Allocation Breakdown</p></figcaption></figure>
 
 ## Token Genesis Allocation
 
