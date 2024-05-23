@@ -14,7 +14,7 @@ layout:
 
 # 🏆 Bonzo Finance Labs Team
 
-The Bonzo Finance team is deeply rooted in blockchain and DeFi ecosystems, development, and innovation. The team today consists of professionals with strong backgrounds in blockchain, decentralized finance, and technical knowledge of Hedera, its associated services, and community.
+The Bonzo Finance Labs team is deeply rooted in blockchain and DeFi ecosystems, development, and innovation. The team today consists of professionals with strong backgrounds in blockchain, decentralized finance, and technical knowledge of Hedera, its associated services, and community.
 
 | Name              | Role                  | Contact                                                                                            |
 | ----------------- | --------------------- | -------------------------------------------------------------------------------------------------- |

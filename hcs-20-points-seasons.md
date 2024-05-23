@@ -24,4 +24,3 @@ Bonzo Finance will be hosting three “seasons” of points, with each season la
 | -------------- | ---------------- | ---------------- | ---------------- |
 | **Start Date** | Mainnet Launch   | February 1, 2025 | August 1, 2025   |
 | **End Date**   | January 31, 2025 | July 31, 2025    | January 31, 2025 |
-|                |                  |                  |                  |

@@ -18,7 +18,7 @@ The $BONZO token will have a fixed maximum supply of **400,000,000** **tokens**.
 
 Once all 400,000,000 $BONZO tokens have entered circulation, the token allocation will be as follows:
 
-<table><thead><tr><th width="190">Category</th><th width="199">Total Amount</th><th>% of Max Supply</th></tr></thead><tbody><tr><td><strong>Community</strong></td><td>108,000,000</td><td>35%</td></tr><tr><td><strong>Investor</strong></td><td>44,000,000</td><td>11%</td></tr><tr><td><strong>Core Development</strong></td><td>100,000,000</td><td>25%</td></tr><tr><td><strong>DAO Treasury</strong></td><td>100,000,000</td><td>25%</td></tr><tr><td><strong>Ecosystem Development</strong></td><td>52,000,000</td><td>10%</td></tr><tr><td><strong>Safety Module</strong></td><td>40,000,000</td><td>5%</td></tr></tbody></table>
+<table><thead><tr><th width="204" align="center">Category</th><th width="229" align="center">Total Amount</th><th align="center">% of Max Supply</th></tr></thead><tbody><tr><td align="center"><strong>Community</strong></td><td align="center">108,000,000</td><td align="center">35%</td></tr><tr><td align="center"><strong>Investor</strong></td><td align="center">44,000,000</td><td align="center">11%</td></tr><tr><td align="center"><strong>Core Development</strong></td><td align="center">100,000,000</td><td align="center">25%</td></tr><tr><td align="center"><strong>DAO Treasury</strong></td><td align="center">100,000,000</td><td align="center">25%</td></tr><tr><td align="center"><strong>Ecosystem Development</strong></td><td align="center">52,000,000</td><td align="center">10%</td></tr><tr><td align="center"><strong>Safety Module</strong></td><td align="center">40,000,000</td><td align="center">5%</td></tr></tbody></table>
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Bonzo Finance | Token Allocation Breakdown</p></figcaption></figure>
 
@@ -26,7 +26,7 @@ Once all 400,000,000 $BONZO tokens have entered circulation, the token allocatio
 
 Shortly after mainnet launch of the Bonzo Finance protocol, 8% of the max supply (32,013,792 $BONZO) will enter circulation and be distributed as follows:
 
-<table><thead><tr><th width="190">Category</th><th width="199">Total Amount</th><th>% of Max Supply</th></tr></thead><tbody><tr><td><strong>Community</strong></td><td>5,791,570</td><td>1.45%</td></tr><tr><td><strong>Investor</strong></td><td>1,555,556</td><td>0.39%</td></tr><tr><td><strong>Ecosystem Development</strong></td><td>4,666,667</td><td>1.17%</td></tr><tr><td><strong>Safety Module</strong></td><td>40,000,000</td><td>5%</td></tr></tbody></table>
+<table><thead><tr><th width="190" align="center">Category</th><th width="226" align="center">Total Amount</th><th align="center">% of Max Supply</th></tr></thead><tbody><tr><td align="center"><strong>Community</strong></td><td align="center">5,791,570</td><td align="center">1.45%</td></tr><tr><td align="center"><strong>Investor</strong></td><td align="center">1,555,556</td><td align="center">0.39%</td></tr><tr><td align="center"><strong>Ecosystem Development</strong></td><td align="center">4,666,667</td><td align="center">1.17%</td></tr><tr><td align="center"><strong>Safety Module</strong></td><td align="center">40,000,000</td><td align="center">5%</td></tr></tbody></table>
 
 ### **Community**
 

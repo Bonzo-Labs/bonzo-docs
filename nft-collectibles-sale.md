@@ -18,17 +18,17 @@ The Bonzo NFT Collectibles sale is designed to foster user adoption, promote com
 
 The Bonzo Finance website will feature these collectibles, and they will be available for purchase on a soon-to-be-announced NFT launchpad. The allowlist sale is currently scheduled for **Monday, June 10th @ 12:00pm ET** and will last for approximately 2 hours. Following the allowlist sale, the public sale will commence, offering remaining NFTs to the wider community.
 
-### **Allowlist NFT Collectibles Sale**&#x20;
+### **🏁 Allowlist NFT Collectibles Sale**&#x20;
 
 Select community members will be granted access to the "allowlist" through a variety of campaigns being run by the Bonzo Finance Labs team. Allowlist account slots are not capped today and are currently being utilized for marketing incentive campaigns, driving both user engagement with the testnet instance of the protocol and promotion of the protocol through sharing screenshots of their usage on various social channels, such as 𝕏.
 
 This allowlist enables each approved account to purchase up to 6, 4, and 1 of each NFT tier. The allowlist ensures a fair and evenly distributed allocation of Bonzo NFT Collectibles to users, contributing to widespread community adoption, utilization of the protocol, and decentralization.
 
-### **Public NFT Collectibles Sale**
+### **🌐 Public NFT Collectibles Sale**
 
 After the allowlist sale concludes, remaining NFTs will be made available for purchase through a public sale using the same NFT launchpad. The public sale will last for approximately 7 days.
 
-### **Bonzo NFT Collectables**
+### **🖼️ Bonzo NFT Collectables**
 
 The three NFT tiers available for purchase are as follows:
 
