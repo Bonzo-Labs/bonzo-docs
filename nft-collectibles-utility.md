@@ -1,2 +1,0 @@
-# 🕹️ NFT Collectibles Utility
-

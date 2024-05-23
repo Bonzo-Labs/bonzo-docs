@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🏠 Introduction
 
 The [Bonzo Finance](https://www.bonzo.finance/) protocol is an open source, non-custodial lending and borrowing protocol built on the Hedera network. It is designed to facilitate the lending and borrowing of cryptocurrencies, with a focus on HBAR, Hedera Token Service (HTS) tokens, and wrapped major assets. Bonzo prioritizes censorship resistance, security, and self-custody, enabling users to transact without reliance on trusted intermediaries.
