@@ -1,0 +1,2 @@
+# 🪙 $BONZO Tokenomics
+
