@@ -10,15 +10,14 @@ description: >-
 The testnet instance of Bonzo Finance today is only available on desktop web browsers. Prior to mainnet release (est. Q3 2024), a mobile version of Bonzo Finance will be made available to the community.
 {% endhint %}
 
-### 🎒 Testnet Hedera Account Creation & Wallet Setup
+### 🎒 Hedera Testnet Account Creation & Wallet Setup
 
-1. Download and install the [HashPack](https://www.hashpack.app) wallet for the Chrome web browser\
-
+1. Download and install the [HashPack](https://www.hashpack.app) wallet for the Chrome web browser
 2. Create a Hedera testnet account using HashPack
    * _Be sure to check the "Testnet Account" box when creating your account_
    * _Your new testnet account will automatically have 100 testnet $HBAR — to receive more testnet $HBAR, please visit_ [_https://portal.hedera.com/faucet_](https://portal.hedera.com/faucet)
 
-### 🪙 Testnet HTS Assets ($HBARX, $SAUCE, $XSAUCE, $USDC, $KARATE)
+### 🪙 Get Testnet HTS Assets ($HBARX, $SAUCE, $XSAUCE, $USDC, $KARATE)
 
 1. Join the official [Bonzo Finance Discord](https://www.bonzo.finance/discord) and navigate to the #testnet-faucet channel to receive testnet HTS assets to your testnet account in HashPack
    * _View the pinned message in the **#testnet-faucet** channel and follow those instructions to receive testnet HTS assets to your testnet account in HashPack_
