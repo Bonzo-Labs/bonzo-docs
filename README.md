@@ -33,9 +33,9 @@ The Bonzo Finance protocol inherits the Hedera network's high throughput, fast t
 
 ### Key Dates
 
-| **🧪 Testnet Launch**           | Thursday, May 2nd ✅ |
-| ------------------------------- | ------------------- |
-| **🖼️  NFT Collectibles Sale**  | June                |
-| **🔒 Est. Code Freeze / Audit** | Monday, June 17th   |
-| **🚀 Est. Mainnet Launch**      | Q3 2024             |
+| **🧪 Testnet Launch**           | Thursday, May 2nd ✅  |
+| ------------------------------- | -------------------- |
+| **🖼️  NFT Collectibles Sale**  | Monday, June 17th ☑️ |
+| **🔒 Est. Code Freeze / Audit** | Monday, June 17th ☑️ |
+| **🚀 Est. Mainnet Launch**      | Q3 2024 ☑️           |
 
