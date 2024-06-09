@@ -38,6 +38,14 @@ Shortly after mainnet launch of the Bonzo Finance protocol, 8% of the max supply
 
 * 0.39% of the max token supply (1,555,556 $BONZO) will be unlocked and distributed to investors who have participated in the Bonzo Finance pre-sale. These tokens are unlocked and distributed to investors over the period of 18 months post-TGE.
 
+{% hint style="info" %}
+Please note that the SAFT (Simple Agreement for Future Tokens) is a separate transaction from the NFT sale. Purchasing an NFT does not automatically make one a SAFT investor. \
+\
+The SAFT agreement, conducted through the HeadStarter platform, outlines the distribution of Bonzo Finance's native tokens to SAFT investors over an 18-month period following the Token Generation Event (TGE). \
+\
+The tokens provided to SAFT investors are being sold at $0.04464 per token. However, this price is not a guarantee of future value, and the actual market price may differ once the token is traded on exchanges. The NFT itself does not represent an investment contract, and the cost of the NFT is not directly linked to the token valuation.
+{% endhint %}
+
 ### **Ecosystem Development**
 
 * 1.17% of the max token supply ($4,666,667 $BONZO) will be unlocked for ecosystem development activities. This includes liquidity provisioning for centralized & decentralized exchanges, as well as ecosystem integration fees.
