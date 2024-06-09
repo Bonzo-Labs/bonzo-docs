@@ -43,7 +43,7 @@ Please note that the SAFT (Simple Agreement for Future Tokens) is a separate tra
 \
 The SAFT agreement, conducted through the HeadStarter platform, outlines the distribution of Bonzo Finance's native tokens to SAFT investors over an 18-month period following the Token Generation Event (TGE). \
 \
-The tokens provided to SAFT investors are being sold at $0.04464 per token. However, this price is not a guarantee of future value, and the actual market price may differ once the token is traded on exchanges. The NFT itself does not represent an investment contract, and the cost of the NFT is not directly linked to the token valuation.
+The tokens provided to SAFT investors are being sold at $0.04464 per token. However, this price is not a guarantee of future value, and the actual market price may differ once the token is traded on exchanges. The NFT itself is an art collectible that contains specific utility for the Bonzo Finance protocol, does not represent an investment contract, and the cost of the NFT is not directly linked to the token valuation.
 {% endhint %}
 
 ### **Ecosystem Development**
