@@ -1,8 +1,8 @@
 # Adding an Asset
 
-Bonzo Finance, like Aave, enables users to deposit and borrow digital currencies through the pooling of funds. Depositors receive protocol-issued bTokens, which accumulate deposits and the interest generated. Each loan is secured by collateral acting as a risk mitigation tool against default. As the means of exchange, currencies are central in Bonzo Finance's non-custodial lending operations. More details on how the protocol works can be found in Bonzo Finance's [documentation](https://docs.bonzo.finance).
+Bonzo Finance enables users to deposit and borrow digital currencies through the pooling of funds. Depositors receive protocol-issued bTokens, which accumulate deposits and the interest generated. Each loan is secured by collateral acting as a risk mitigation tool against default. As the means of exchange, currencies are central in Bonzo Finance's non-custodial lending operations. More details on how the protocol works can be found in Bonzo Finance's [documentation](https://docs.bonzo.finance).
 
-Given the specificities of Bonzo Finance's model, which is based on Aave v2, the selection of currencies has been performed with the following constraints:
+Given the specificities of Bonzo Finance's model the selection of currencies has been performed with the following constraints:
 
 1. **Each additional currency will slightly increase the gas cost of the borrow and redeem actions permanently on the Hedera network.** The currency must be included in the smart contract, adding complexity and thus costs.
 2. **Each currency added to the Bonzo Finance protocol as collateral increases the protocol risk of insolvency.** From a financial perspective, the assets of Bonzo Finance are the collaterals, while the liabilities are the loaned amounts. The underlying currencies of assets and liabilities often differ, with loans mostly taken in stablecoins and backed by volatile tokens. This means the protocol is heavily exposed to the failure of supported token systems as well as market fluctuations.

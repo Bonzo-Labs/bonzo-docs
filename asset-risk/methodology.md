@@ -2,19 +2,19 @@
 
 The composability of DeFi enables Bonzo Finance to connect with the rest of the Hedera ecosystem. However, it also exposes the protocol to potential financial contagion. Currencies used in the protocol affect the platform at its core, particularly those accepted as collateral, which safeguard the solvency of the protocol. To ensure that a currency holds a reasonable amount of risk, the Bonzo Finance Risk Management Team investigates three different levels.
 
-First, the team examines smart contract security and counter-parties in the governance. If these risks are too high, the currencies will be disqualified for integration into the protocol or to be used as collateral. Next, the team assesses market risks, which can be managed via the protocol's parameters.
+First, the team examines Hedera Token Service configurations and counter-parties in its governance. If these risks are too high, the currencies will be disqualified for integration into the protocol or to be used as collateral. Next, the team assesses market risks, which can be managed via the protocol's parameters.
 
 ## Risk Scale&#x20;
 
-Bonzo Finance employs a risk scale ranging from the lowest risk, A+, for the safest assets of the protocol (often HBAR), to the highest risk, D-. Assets exposed to high risk factors can be considered for integration. However, they will not qualify as collateral to ensure the protocol's solvency.
+Bonzo Finance employs a risk scale ranging from the lowest risk, A+, for the safest assets of the protocol (often stablecoins, like USDC), to the highest risk, D-. Assets exposed to high risk factors can be considered for integration. However, they will not qualify as collateral to ensure the protocol's solvency.
 
 ## Risk Factors
 
-### Smart Contract Risk&#x20;
+### Hedera Token Service Configuration Risk&#x20;
 
-**Smart contract risk** focuses on the technical security of a currency based on its underlying code. If one of the supported currencies is compromised, collaterals will be affected, threatening the solvency of the protocol. Projects must have undergone audits to be considered, yet smart contract risk is significant and cannot be fully mitigated, even with bug bounties. The Bonzo Finance team assesses maturity based on the number of days and transactions of the smart contract as a representation of use, community, and development. These proxies show how battle-tested the code is.
+**Hedera Token Service (HTS) configuratoin risk** focuses on the technical security of a currency based on its underlying configuration. If one of the supported currencies is compromised, collaterals will be affected, threatening the solvency of the protocol. Projects must have undergone audits to be considered, yet Hedera Token Service and smart contract (managing tokens) risk is significant and cannot be fully mitigated, even with bug bounties. The Bonzo Finance team assesses maturity based on the number of days and transactions of the HTS token as a representation of use, community, and development. These proxies show how battle-tested the code is.
 
-Given the potential for substantial losses due to smart contract hacks, currencies with the highest smart-contract risk, D+ and below, cannot be used as collateral. Currencies with a risk rating below D cannot be integrated into the protocol.
+Given the potential for substantial losses due to key configuration and smart contract vulnerabilities, currencies with the highest risk, D+ and below, cannot be used as collateral. Currencies with a risk rating below D cannot be integrated into the protocol.
 
 ### Counter-party Risk&#x20;
 
@@ -30,7 +30,7 @@ The Bonzo Finance team looks at the average 24-hour volume representing the avai
 
 **Volatility risk** is based on the normalized fluctuations in the currency's price and calculated as the standard deviation of the logarithmic returns: σ\[ln(close(t+1)/close(t))]. This metric is in line with industry standards used by platforms like Bitmex and Gauntlet.
 
-These values are examined at intervals of 1 week, 1 month, 3 months, 6 months, and 1 year.
+These values are examined at intervals of 1 month, 3 months, and 6 months.
 
 Cryptocurrencies can be subject to sudden volatility spikes; it is not uncommon to witness 30% changes in price within a week or a month. When this is a price increase, to protect users, it might be followed by a parameter readjustment to limit risks of new operations.
 
@@ -48,10 +48,10 @@ By adhering to this comprehensive risk assessment methodology, Bonzo Finance aim
 
 The matrix below shows the figures used to quantify risks per factor. This table is based on historical data that includes the applied the calculations described above.
 
-_**\[INSERT RISK CHARTS]**_
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Historical Data Matrix | Last Updated 06/07/2024</p></figcaption></figure>
 
 ### Risk Quantification Criterion
 
 The historical data is computed through our risk quantification algorithm resulting in risk ratings from the lowest risks A+ to the highest risks D- following the criteria in the table below.
 
-_**\[INSERT RISK CHARTS]**_
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Risk Quantification Criterion</p></figcaption></figure>
