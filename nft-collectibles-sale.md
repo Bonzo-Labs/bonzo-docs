@@ -30,6 +30,12 @@ Select community members will be granted access to the "allowlist" through a var
 
 The allowlist ensures a fair and evenly distributed allocation of Bonzo NFT Collectibles to users, contributing to widespread community adoption, utilization of the protocol, and decentralization.
 
+To secure a spot on the allowlist, please follow these instructions:
+
+1. Take a screenshot of your [Bonzo Finance Testnet Dashboard](https://testnet.bonzo.finance/) showing that you’ve both supplied and borrowed tokens
+2. Post your screenshot on 𝕏 and tag [@bonzo\_finance](https://www.x.com/bonzo\_finance) in your tweet
+3. Submit the link to your tweet in the public **#testnet-screenshots** channel found in the official [Bonzo Finance Discord](https://www.bonzo.finance/discord).
+
 ### **🌐 Public NFT Collectibles Sale**
 
 After the allowlist sale concludes, remaining NFTs will be made available for purchase through a public sale utilizing [HeadStarter](https://app.headstarter.org/projects/bonzo-finance-pre-liquidity-ino), as well. The public sale will last for approximately 7 days or until sold out.
