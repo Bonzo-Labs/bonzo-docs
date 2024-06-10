@@ -14,13 +14,11 @@ layout:
 
 # 🖼️ NFT Collectibles Sale
 
-
-
 ## 📆  [Add to Calendar](https://www.addevent.com/event/cG21952827)
 
-| NFT Launchpad | Date                               | URL                                                                                                                                          |
-| ------------- | ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| HeadStarter   | Monday, June 17th 2024 @ 2:00pm ET | [https://app.headstarter.org/projects/bonzo-finance-pre-liquidity-ino](https://app.headstarter.org/projects/bonzo-finance-pre-liquidity-ino) |
+| NFT Launchpad | Date                                | URL                                                                                                                                          |
+| ------------- | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| HeadStarter   | Monday, June 17th 2024 @ 10:00am ET | [https://app.headstarter.org/projects/bonzo-finance-pre-liquidity-ino](https://app.headstarter.org/projects/bonzo-finance-pre-liquidity-ino) |
 
 The Bonzo NFT Collectibles sale is designed to foster user adoption, promote community engagement, and raise funds for business operations and continued protocol development. The sale will showcase a unique collection of NFTs, each offering a range of benefits and utilities within the Bonzo Finance ecosystem.
 
