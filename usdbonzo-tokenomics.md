@@ -65,3 +65,5 @@ Users who participate in staking (locking up) tokens for a limited amount of tim
 This formula ensures that a minimum of 8.40% APY is rewarded for $BONZO token holders who stake to the safety module, based on 15% of the circulating supply, calculated on a monthly basis. If more (or less) than 15% of the circulating supply is staked to the safety module, the APY will be lower or higher, respectively.
 
 As the Bonzo Finance protocol achieves economic sustainability, rather than relying on token unlocks allocated to the “community” category for reward, as it exists today, a portion of protocol fees generated will be used to reward users who continue participating in this activity. The Bonzo Finance DAO (est. launch in early 2025) will regularly reassess and vote on the reward allocation based on various economic factors.
+
+_**Update June 10th, 2024 at 11:19pm ET:** The token genesis allocation for the safety module table incorrectly stated a figure of 40,000,000 tokens and a 5% allocation; this has been corrected to 20,000,000 tokens to properly refelct the 5% allocation._
