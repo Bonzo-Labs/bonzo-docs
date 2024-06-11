@@ -26,7 +26,7 @@ Once all 400,000,000 $BONZO tokens have entered circulation, the token allocatio
 
 Shortly after mainnet launch of the Bonzo Finance protocol, 8% of the max supply (32,013,792 $BONZO) will enter circulation and be distributed as follows:
 
-<table><thead><tr><th width="190" align="center">Category</th><th width="226" align="center">Total Amount</th><th align="center">% of Max Supply</th></tr></thead><tbody><tr><td align="center"><strong>Community</strong></td><td align="center">5,791,570</td><td align="center">1.45%</td></tr><tr><td align="center"><strong>Investor</strong></td><td align="center">1,555,556</td><td align="center">0.39%</td></tr><tr><td align="center"><strong>Ecosystem Development</strong></td><td align="center">4,666,667</td><td align="center">1.17%</td></tr><tr><td align="center"><strong>Safety Module</strong></td><td align="center">40,000,000</td><td align="center">5%</td></tr></tbody></table>
+<table><thead><tr><th width="190" align="center">Category</th><th width="226" align="center">Total Amount</th><th align="center">% of Max Supply</th></tr></thead><tbody><tr><td align="center"><strong>Community</strong></td><td align="center">5,791,570</td><td align="center">1.45%</td></tr><tr><td align="center"><strong>Investor</strong></td><td align="center">1,555,556</td><td align="center">0.39%</td></tr><tr><td align="center"><strong>Ecosystem Development</strong></td><td align="center">4,666,667</td><td align="center">1.17%</td></tr><tr><td align="center"><strong>Safety Module</strong></td><td align="center">20,000,000</td><td align="center">5%</td></tr></tbody></table>
 
 ### **Community**
 
