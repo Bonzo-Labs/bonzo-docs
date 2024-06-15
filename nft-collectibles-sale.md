@@ -24,6 +24,15 @@ The Bonzo NFT Collectibles sale is designed to foster user adoption, promote com
 
 The Bonzo Finance website will feature these collectibles, and they will be available for purchase on the [HeadStarter Launchpad](https://app.headstarter.org/projects/bonzo-finance-pre-liquidity-ino). The allowlist sale start and end dates and times will be communicated via [𝕏](https://www.x.com/bonzo\_finance) and [Discord](https://www.bonzo.finance/discord). Following the allowlist sale, the public sale will commence, offering remaining NFTs to the wider community.
 
+### **🪙  Distribution of $BONZO tokens**
+
+* Accounts holding Bonzo NFT Collectibles are eligible to receive airdrop distributions of $BONZO. The distribution schedule of $BONZO tokens to NFT holders is found in the table below.
+* Prior to each distribution, a snapshot will be taken to determine which accounts are holding a Bonzo NFT Collectible.
+* The dates and times of these snapshots will be communicated through the official Bonzo Finance [𝕏](https://www.x.com/bonzo\_finance) and [Discord](https://bonzo.finance/discord).&#x20;
+* In order to best serve the health of the Bonzo Finance protocol and needs of the Bonzo Finance community, the distribution dates and fractional amounts per distribution are subject to change. Regardless of these changes, holders of Bonzo Finance NFTs upon snapshot(s) will receive the guaranteed amount of $BONZO tokens per NFT no later than 12 months post-TGE (token generation event).
+
+<table><thead><tr><th width="204"></th><th width="252">Distribution Date(s)</th><th>Amount</th></tr></thead><tbody><tr><td><strong>Distribution #1</strong></td><td>Upon TGE <br>(token generation event)</td><td>1/3 of "claimable" $BONZO per NFT</td></tr><tr><td><strong>Distribution #2</strong></td><td>End of "Season 1" points<br>(est. January 2025)</td><td>1/3 of "claimable" $BONZO per NFT</td></tr><tr><td><strong>Distribution #3</strong></td><td>End of "Season 2" points<br>(est. July 2025)</td><td>1/3 of "claimable" $BONZO per NFT</td></tr></tbody></table>
+
 ### **🏁 Allowlist NFT Collectibles Sale**&#x20;
 
 Select community members will be granted access to the "allowlist" through a variety of campaigns being run by the Bonzo Finance Labs team. Allowlist account slots are not capped today and are currently being utilized for marketing incentive campaigns, driving both user engagement with the testnet instance of the protocol and promotion of the protocol through sharing screenshots of their usage on various social channels, such as 𝕏.
