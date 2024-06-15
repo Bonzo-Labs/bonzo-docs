@@ -10,7 +10,7 @@
   * [Hedera Wallet Setup](get-started/hedera-usdhbar/hedera-wallet-setup.md)
   * [Obtaining $HBAR](get-started/hedera-usdhbar/obtaining-usdhbar.md)
   * [Bridging Assets](get-started/hedera-usdhbar/bridging-assets.md)
-* [🖼️ Bonzo NFT Collectables](get-started/bonzo-nft-collectables/README.md)
+* [🖼️ Bonzo NFT Collectables](get-started/bonzo-nft-collectables.md)
   * [Ownership & License Terms](get-started/bonzo-nft-collectables/ownership-and-license-terms.md)
 * [🎟️ Earning Points](get-started/earning-points.md)
 * [🎓  Bonzo Academy](https://docs.bonzo.finance/bonzo-academy/)
