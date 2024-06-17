@@ -7,15 +7,15 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 **Projects actively being developed:**
 
 * Official documentation
-* Bonzo NFT illustrations
 * Liquidation bot testing & developer templates
 * Flash loan testing & developer templates&#x20;
+* Safety Module & staking functionality + UI/UX
+* Safety Module development + UI/UX
 
 ## 🟨 Planned for Development
 
 **Projects planned for development:**
 
-* Safety Module & staking functionality + UI/UX
 * $HBAR liquidity incentive smart contracts & UI updates
 * WalletConnect integration (HashPack, Blade, Kaliba, MetaMask, etc.)
 * Points reward system based on HCS-20
@@ -40,3 +40,4 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 * Public Discord faucet for SaucerSwap testnet HTS tokens
 * Public testnet availability & UI/UX dapp frontend
 * Official homepage & branding
+* Bonzo NFT illustrations
