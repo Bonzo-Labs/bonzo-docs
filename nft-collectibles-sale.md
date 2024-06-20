@@ -63,3 +63,9 @@ The three NFT tiers available for purchase are as follows:
 A fourth “Singularity” NFT collectible will be sent to all accounts holding each of the three NFTs listed above after the sale has commenced and an account “snapshot” taken. Utility for the "Singularity" NFT is as follows:&#x20;
 
 <table><thead><tr><th width="140"></th><th align="center">Singularity</th></tr></thead><tbody><tr><td><strong>Price</strong></td><td align="center">$0 - Collect one of each above</td></tr><tr><td><strong>Quantity Available</strong></td><td align="center">Up to 400</td></tr><tr><td><strong>Current Utility</strong></td><td align="center">• Dedicated “Singularity” role in Discord <br>• Early access to Bonzo PFP avatars <br>• $BONZO faucet rewards in Discord <br>• 1.5x “banana” points multiplier for utilization of protocol<br>• Ability to claim up to 1,175 $BONZO tokens</td></tr></tbody></table>
+
+### **👑  Royalty Fee**
+
+There are royalty fees configured for Bonzo NFTs as outlined in the table below.
+
+<table><thead><tr><th width="244">Description</th><th>% Fee</th></tr></thead><tbody><tr><td>Bonzo Finance</td><td>4.5%</td></tr><tr><td>InAMaze Artist</td><td>0.5%</td></tr></tbody></table>
