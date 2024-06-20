@@ -48,7 +48,7 @@ The tokens provided to SAFT investors are being sold at $0.04464 per token. Howe
 
 ### **Ecosystem Development**
 
-* 1.17% of the max token supply ($4,666,667 $BONZO) will be unlocked for ecosystem development activities. This includes liquidity provisioning for centralized & decentralized exchanges, as well as ecosystem integration fees.
+* 1.17% of the max token supply (4,666,667 $BONZO) will be unlocked for ecosystem development activities. This includes liquidity provisioning for centralized & decentralized exchanges, as well as ecosystem integration fees.
 
 ### **Safety Module**
 
