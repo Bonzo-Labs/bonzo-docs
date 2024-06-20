@@ -33,17 +33,22 @@ The Bonzo Finance website will feature these collectibles, and they will be avai
 
 <table><thead><tr><th width="204"></th><th width="252">Distribution Date(s)</th><th>Amount</th></tr></thead><tbody><tr><td><strong>Distribution #1</strong></td><td>Upon TGE  (token generation event) <br>[no later than 3 months after mainnet launch of the Bonzo Finance protocol]</td><td>1/3 of "claimable" $BONZO per NFT</td></tr><tr><td><strong>Distribution #2</strong></td><td>End of "Season 1" points<br>[est. January 2025]</td><td>1/3 of "claimable" $BONZO per NFT</td></tr><tr><td><strong>Distribution #3</strong></td><td>End of "Season 2" points<br>[est. July 2025]</td><td>1/3 of "claimable" $BONZO per NFT</td></tr></tbody></table>
 
-### **🏁 Allowlist NFT Collectibles Sale**&#x20;
+### **⭐️  Bonus $BONZO Tokens**
 
-Select community members will be granted access to the "allowlist" through a variety of campaigns being run by the Bonzo Finance Labs team. Allowlist account slots are not capped today and are currently being utilized for marketing incentive campaigns, driving both user engagement with the testnet instance of the protocol and promotion of the protocol through sharing screenshots of their usage on various social channels, such as 𝕏.
+If a single account purchases and holds 20+ of the Desert Bonzo, 20+ of the Ocean Bonzo, or 20+ of the Space Bonzo NFT, they will receive a bonus of:
 
-The allowlist ensures a fair and evenly distributed allocation of Bonzo NFT Collectibles to users, contributing to widespread community adoption, utilization of the protocol, and decentralization.
+* 4,125 $BONZO (for holding 20+ of Desert)
+* 12,375 $BONZO (for holding 20+ of Ocean)&#x20;
+* 24,875 $BONZO (for holding 20+ of Space)
+* \*Cannot combine Desert, Ocean, and Space NFTs to reach the 20+ amount.
 
-To secure a spot on the allowlist, please follow these instructions:
+This bonus distribution will be made in full to the NFT holding account upon TGE (token generation event)
 
-1. Take a screenshot of your [Bonzo Finance Testnet Dashboard](https://testnet.bonzo.finance/) showing that you’ve both supplied and borrowed tokens
-2. Post your screenshot on 𝕏 and tag [@bonzo\_finance](https://www.x.com/bonzo\_finance) in your tweet
-3. Submit the link to your tweet in the public **#testnet-screenshots** channel found in the official [Bonzo Finance Discord](https://www.bonzo.finance/discord).
+In order to receive this bonus distribution:&#x20;
+
+* The purchasing account must be holding the NFT(s) during the first snapshot taken at the end of the NTF sale
+* They must still be holding the NFTs in their account during a second snapshot that will randomly take place prior to the TGE.
+* The second snapshot date and time will not be disclosed.
 
 ### **🌐 Public NFT Collectibles Sale**
 
