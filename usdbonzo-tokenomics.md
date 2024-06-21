@@ -24,9 +24,9 @@ Once all 400,000,000 $BONZO tokens have entered circulation, the token allocatio
 
 ## Token Genesis Allocation
 
-Shortly after mainnet launch of the Bonzo Finance protocol, 8% of the max supply (32,013,792 $BONZO) will enter circulation and be distributed as follows:
+Shortly after mainnet launch of the Bonzo Finance protocol, 10.39791% of the max supply (\~41,591,641 $BONZO) will enter circulation and be distributed as follows:
 
-<table><thead><tr><th width="190" align="center">Category</th><th width="226" align="center">Total Amount</th><th align="center">% of Max Supply</th></tr></thead><tbody><tr><td align="center"><strong>Community</strong></td><td align="center">16,792,087</td><td align="center">4.19802175%</td></tr><tr><td align="center"><strong>Investor</strong></td><td align="center">1,444,444</td><td align="center">0.361111%</td></tr><tr><td align="center"><strong>Ecosystem Development</strong></td><td align="center">8,533,333</td><td align="center">2.13333325%</td></tr><tr><td align="center"><strong>Emergency Reserve</strong></td><td align="center">12,044,000</td><td align="center">3.011%</td></tr><tr><td align="center"><strong>Core Development</strong></td><td align="center">2,777,777.77</td><td align="center">0.6944445%</td></tr></tbody></table>
+<table><thead><tr><th width="190" align="center">Category</th><th width="226" align="center">Total Amount</th><th align="center">% of Max Supply</th></tr></thead><tbody><tr><td align="center"><strong>Community</strong></td><td align="center">~16,792,087</td><td align="center">4.19802175%</td></tr><tr><td align="center"><strong>Investor</strong></td><td align="center">~1,444,444</td><td align="center">0.361111%</td></tr><tr><td align="center"><strong>Ecosystem Development</strong></td><td align="center">~8,533,333</td><td align="center">2.13333325%</td></tr><tr><td align="center"><strong>Emergency Reserve</strong></td><td align="center">~12,044,000</td><td align="center">3.011%</td></tr><tr><td align="center"><strong>Core Development</strong></td><td align="center">~2,777,777</td><td align="center">0.6944445%</td></tr></tbody></table>
 
 ### **Community**
 
@@ -56,7 +56,7 @@ The tokens provided to SAFT investors are being sold at $0.022143 per token. How
 
 ### **Core Development**
 
-* 0.6944445% of the max token supply (2,777,777.77 $BONZO) will be unlocked and allocated for development costs related to building the protocol.
+* 0.6944445% of the max token supply (\~2,777,778 $BONZO) will be unlocked and allocated for development costs related to building the protocol.
 
 ## **Safety Module Incentive Program Calculations**
 
