@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🖼️ NFT Collectibles Sale
+# 🖼️ NFT Collectibles
 
 ## Bonzo NFT Collectibles
 
@@ -36,7 +36,7 @@ Bonzo NFT Collectibles can now be purchased on secondary NFT marketplaces across
 
 </div>
 
-### **🪙  Distribution of $BONZO tokens**
+## **🪙  Distribution of $BONZO tokens**
 
 * Accounts holding Bonzo NFT Collectibles are eligible to receive airdrop distributions of $BONZO. The distribution schedule of $BONZO tokens to NFT holders is found in the table below.
 * Prior to each distribution, a snapshot will be taken to determine which accounts are holding a Bonzo NFT Collectible.
@@ -45,7 +45,7 @@ Bonzo NFT Collectibles can now be purchased on secondary NFT marketplaces across
 
 <table><thead><tr><th width="204"></th><th width="252">Distribution Date(s)</th><th>Amount</th></tr></thead><tbody><tr><td><strong>Distribution #1</strong></td><td>Upon TGE  (token generation event) <br>[no later than 3 months after mainnet launch of the Bonzo Finance protocol]</td><td>1/2 of "claimable" $BONZO per NFT</td></tr><tr><td><strong>Distribution #2</strong></td><td>End of "Season 1" points<br>[est. February 2025]</td><td>1/4 of "claimable" $BONZO per NFT</td></tr><tr><td><strong>Distribution #3</strong></td><td>End of "Season 2" points<br>[est. August 2025]</td><td>1/4 of "claimable" $BONZO per NFT</td></tr></tbody></table>
 
-### **⭐️  Bonus $BONZO Tokens**
+## **⭐️  Bonus $BONZO Tokens**
 
 If a single account purchases and holds 20+ of the Desert Bonzo, 20+ of the Ocean Bonzo, or 20+ of the Space Bonzo NFT, they will receive a bonus of:
 
@@ -62,11 +62,7 @@ This bonus distribution will be made in full to the NFT holding account upon TGE
 * They must still be holding the NFTs in their account during a second snapshot that will randomly take place prior to the TGE.
 * The second snapshot date and time will not be disclosed.
 
-### **🌐 Public NFT Collectibles Sale**
-
-After the allowlist sale concludes, remaining NFTs will be made available for purchase through a public sale utilizing [HeadStarter](https://app.headstarter.org/projects/bonzo-finance-pre-liquidity-ino), as well. The public sale will last for approximately 7 days or until sold out.
-
-### **🖼️ Bonzo NFT Collectables Utility**
+## **🖼️ Bonzo NFT Collectables Utility**
 
 The three NFT tiers available for purchase are as follows:
 
@@ -76,7 +72,7 @@ A fourth “Singularity” NFT collectible will be sent to all accounts holding 
 
 <table><thead><tr><th width="140"></th><th align="center">Singularity</th></tr></thead><tbody><tr><td>Token ID</td><td align="center">Coming Soon</td></tr><tr><td><strong>Circulating Supply</strong></td><td align="center">Airdrop | July 2nd 2024</td></tr><tr><td><strong>Current Utility</strong></td><td align="center">• Dedicated “Singularity” role in Discord <br>• Early access to Bonzo PFP avatars <br>• $BONZO faucet rewards in Discord <br>• 1.5x “banana” points multiplier for utilization of protocol<br>• Ability to claim up to 1,175 $BONZO tokens</td></tr></tbody></table>
 
-### **👑  Royalty Fee**
+## **👑  Royalty Fee**
 
 There are royalty fees configured for Bonzo NFTs as outlined in the table below.
 
