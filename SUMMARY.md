@@ -2,7 +2,7 @@
 
 * [🏠 Overview & Resources](README.md)
 * [🏆 Team](team.md)
-* [🖼️ NFT Collectibles Sale](nft-collectibles-sale.md)
+* [🖼️ NFT Collectibles](nft-collectibles.md)
 * [🪙 $BONZO Token](usdbonzo-token/README.md)
   * [⚙️ $BONZO Utility](usdbonzo-utility.md)
   * [🥧 $BONZO Allocations](usdbonzo-tokenomics.md)
