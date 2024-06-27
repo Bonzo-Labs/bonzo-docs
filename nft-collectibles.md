@@ -52,15 +52,13 @@ If a single account purchases and holds 20+ of the Desert Bonzo, 20+ of the Ocea
 * 4,125 $BONZO (for holding 20+ of Desert)
 * 12,375 $BONZO (for holding 20+ of Ocean)&#x20;
 * 24,875 $BONZO (for holding 20+ of Space)
-* \*Cannot combine Desert, Ocean, and Space NFTs to reach the 20+ amount.
 
-This bonus distribution will be made in full to the NFT holding account upon TGE (token generation event)
+_\*Cannot combine Desert, Ocean, and Space NFTs to reach the 20+ amount._
 
-**In order to receive this bonus distribution:**&#x20;
+**This bonus distribution will be made in full to the NFT holding account upon TGE (token generation event). In order to receive this bonus distribution:**&#x20;
 
-* The purchasing account must be holding the NFT(s) during the first snapshot taken at the end of the NTF sale
-* They must still be holding the NFTs in their account during a second snapshot that will randomly take place prior to the TGE.
-* The second snapshot date and time will not be disclosed.
+* Must be holding the NFT(s) during the first snapshot taken on June 24th @ 10am ET ✅
+* Must still be holding the NFTs in account during a second snapshot randomly taken prior to the TGE in Q3 2024
 
 ## **🖼️ Bonzo NFT Collectables Utility**
 
