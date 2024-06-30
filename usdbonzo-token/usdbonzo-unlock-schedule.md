@@ -18,4 +18,4 @@ A set of contracts that lock the $BONZO asset will be deployed upon TGE. Over a 
 
 This token unlock schedule emphasizes the team’s commitment to building a long-term, economically sustainable lending & borrowing protocol for the Hedera DeFi ecosystem, while supporting an overall increase in Hedera TVL, volume, daily active accounts, and token-based dapp utilization.
 
-<figure><img src="../.gitbook/assets/bonzo_token_unlock_schedule.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/bonzo_token_unlock_schedule.png" alt=""><figcaption><p>Bonzo Finance | Token Unlock Schedule</p></figcaption></figure>
