@@ -8,18 +8,18 @@ For more information about Bonzo NFT Collectibles, please see the [NFT utility](
 
 <div>
 
-<figure><img src="../.gitbook/assets/1desert (1).jpg" alt=""><figcaption><p>Desert Bonzo<br>0.0.6178137</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1desert (1).jpg" alt=""><figcaption><p>Desert Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6178137">0.0.6178137</a></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/2ocean (1).jpg" alt=""><figcaption><p>Ocean Bonzo<br>0.0.6178141</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2ocean (1).jpg" alt=""><figcaption><p>Ocean Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6178141">0.0.6178141</a></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/3space (1).jpg" alt=""><figcaption><p>Space Bonzo<br>0.0.6178143</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3space (1).jpg" alt=""><figcaption><p>Space Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6178143">0.0.6178143</a></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/4singularity (2).jpg" alt=""><figcaption><p>Singularity Bonzo<br>Airdrop | July 2nd 2024</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4singularity (2).jpg" alt=""><figcaption><p>Singularity Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6173820?p=1&#x26;k=1">0.0.6173820</a></p></figcaption></figure>
 
 </div>
