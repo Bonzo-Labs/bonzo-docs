@@ -20,19 +20,19 @@ Bonzo NFT Collectibles can now be purchased on secondary NFT marketplaces across
 
 <div>
 
-<figure><img src=".gitbook/assets/1desert.jpg" alt=""><figcaption><p>Desert Bonzo<br>0.0.6178137</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1desert.jpg" alt=""><figcaption><p>Desert Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6178137">0.0.6178137</a></p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/2ocean.jpg" alt=""><figcaption><p>Ocean Bonzo<br>0.0.6178141</p></figcaption></figure>
+<figure><img src=".gitbook/assets/2ocean.jpg" alt=""><figcaption><p>Ocean Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6178141">0.0.6178141</a></p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/3space.jpg" alt=""><figcaption><p>Space Bonzo<br>0.0.6178143</p></figcaption></figure>
+<figure><img src=".gitbook/assets/3space.jpg" alt=""><figcaption><p>Space Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6178143">0.0.6178143</a></p></figcaption></figure>
 
  
 
-<figure><img src=".gitbook/assets/4singularity.jpg" alt=""><figcaption><p>Singularity Bonzo<br>Airdrop | July 2nd 2024</p></figcaption></figure>
+<figure><img src=".gitbook/assets/4singularity.jpg" alt=""><figcaption><p>Singularity Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6173820?p=1&#x26;k=1">0.0.6173820</a></p></figcaption></figure>
 
 </div>
 
@@ -68,7 +68,7 @@ The three NFT tiers available for purchase are as follows:
 
 A fourth “Singularity” NFT collectible will be sent to all accounts holding each of the three NFTs listed above after the sale has commenced and an account “snapshot” taken. Utility for the "Singularity" NFT is as follows:&#x20;
 
-<table><thead><tr><th width="140"></th><th align="center">Singularity</th></tr></thead><tbody><tr><td>Token ID</td><td align="center">Coming Soon</td></tr><tr><td><strong>Circulating Supply</strong></td><td align="center">Airdrop | July 2nd 2024</td></tr><tr><td><strong>Current Utility</strong></td><td align="center">• Dedicated “Singularity” role in Discord <br>• Early access to Bonzo PFP avatars <br>• $BONZO faucet rewards in Discord <br>• 1.5x “banana” points multiplier for utilization of protocol<br>• Ability to claim up to 1,175 $BONZO tokens</td></tr></tbody></table>
+<table><thead><tr><th width="140"></th><th align="center">Singularity</th></tr></thead><tbody><tr><td>Token ID</td><td align="center"><a href="https://hashscan.io/mainnet/token/0.0.6173820?p=1&#x26;k=1">0.0.6173820</a></td></tr><tr><td><strong>Circulating Supply</strong></td><td align="center">389</td></tr><tr><td><strong>Current Utility</strong></td><td align="center">• Dedicated “Singularity” role in Discord <br>• Early access to Bonzo PFP avatars <br>• $BONZO faucet rewards in Discord <br>• 1.5x “banana” points multiplier for utilization of protocol<br>• Ability to claim up to 1,175 $BONZO tokens</td></tr></tbody></table>
 
 ## **👑  Royalty Fee**
 
