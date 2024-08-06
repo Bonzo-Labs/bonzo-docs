@@ -18,7 +18,7 @@ USDC is primarily promoted by Coinbase and supported by the CENTRE consortium. T
 
 **USDC** [**HTS Token Risk**](https://hashscan.io/mainnet/token/0.0.456858)**: A-**
 
-USDC on Hedera has been active since April 2022 with nearly 2 million transactions on the Hedera network.
+USDC on Hedera has been active since April 2022 with 2M+ transactions on the Hedera network.
 
 **USDC Counterparty Risk: B**
 
@@ -26,7 +26,7 @@ As it’s backed by real US dollars as well as other high quality reserve assets
 
 **USDC** [**Market Risk**](https://coinmarketcap.com/currencies/usd-coin/)**: A**
 
-There is a high trading volume for USDC reaching billions a day, with many pairs in multiple exchanges and a high market capitalisation. The token is used in multiple DeFi platforms both as collateral and principal. USDC is a stablecoin backed by real USD leading to low volatility.
+There is a high trading volume for USDC reaching billions a day, with many pairs in multiple exchanges and a high market capitalization. The token is used in multiple DeFi platforms both as collateral and principal. USDC is a stablecoin backed by real USD leading to low volatility.
 
 ### Other Assets  <a href="#stablecoins" id="stablecoins"></a>
 

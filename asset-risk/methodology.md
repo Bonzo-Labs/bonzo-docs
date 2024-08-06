@@ -1,8 +1,8 @@
 # Methodology
 
-The composability of DeFi enables Bonzo Finance to connect with the rest of the Hedera ecosystem. However, it also exposes the protocol to potential financial contagion. Currencies used in the protocol affect the platform at its core, particularly those accepted as collateral, which safeguard the solvency of the protocol. To ensure that a currency holds a reasonable amount of risk, the Bonzo Finance Risk Management Team investigates three different levels.
+The composability of DeFi enables Bonzo Finance to connect with the rest of the Hedera ecosystem. However, it also exposes the protocol to potential financial contagion. Currencies used in the protocol affect the platform at its core, particularly those accepted as collateral, which safeguard the solvency of the protocol. To ensure that a currency holds a reasonable amount of risk, Bonzo Finance investigates three different levels.
 
-First, the team examines Hedera Token Service configurations and counter-parties in its governance. If these risks are too high, the currencies will be disqualified for integration into the protocol or to be used as collateral. Next, the team assesses market risks, which can be managed via the protocol's parameters.
+First, there is an examination of Hedera Token Service configurations and counter-parties in its governance. If these risks are too high, the currencies will be disqualified for integration into the protocol or to be used as collateral. Next, the team assesses market risks, which can be managed via the protocol's parameters.
 
 ## Risk Scale&#x20;
 
@@ -26,7 +26,7 @@ Currencies with a high counter-party risk below D+ disqualify as collateral.
 
 **Market risks** are linked to market size and fluctuations in supply and demand. These risks are particularly relevant for the protocol's assets, i.e., the collateral. If the value of the collateral decreases, it might reach the liquidation threshold and start getting liquidated. The markets then need to hold sufficient volume for these liquidations – sells which tend to lower the price of the underlying asset through slippage, affecting the value recovered.
 
-The Bonzo Finance team looks at the average 24-hour volume representing the availability of the currency to assess liquidity risk: E\[volume].
+Bonzo Finance looks at the average 24-hour volume representing the availability of the currency to assess liquidity risk: E\[volume].
 
 **Volatility risk** is based on the normalized fluctuations in the currency's price and calculated as the standard deviation of the logarithmic returns: σ\[ln(close(t+1)/close(t))]. This metric is in line with industry standards used by platforms like Bitmex and Gauntlet.
 
@@ -34,7 +34,9 @@ These values are examined at intervals of 1 month, 3 months, and 6 months.
 
 Cryptocurrencies can be subject to sudden volatility spikes; it is not uncommon to witness 30% changes in price within a week or a month. When this is a price increase, to protect users, it might be followed by a parameter readjustment to limit risks of new operations.
 
-Finally, the team also considers **market capitalization**, representing the size of the market.
+**DEX liquidity risk** is an attribute that extends beyond the standard Aave Risk Methodology Framework, of which the Bonzo Finance Risk Methodology Framework was informed. This risk was added due to low DEX liquidity of certain assets on the Hedera network; in the case of asset volatility, resulting in liquidations, it's critical that decentralized exchanges offer sufficient liquidity for the swapping of liquidated collateral, without incurring unsustainable slippage (price impact).&#x20;
+
+Finally, there is consideration for **market capitalization**, representing the size of the market.
 
 Market risks are used for the calibration of the model's risk parameters. Volatility helps define the required level of collateralization, known as the Loan-to-Value (LTV) ratio. Liquidity risks are contained by liquidation incentives: the liquidation threshold and bonus.
 
@@ -48,10 +50,10 @@ By adhering to this comprehensive risk assessment methodology, Bonzo Finance aim
 
 The matrix below shows the figures used to quantify risks per factor. This table is based on historical data that includes the applied the calculations described above.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Historical Data Matrix | Last Updated 06/07/2024</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Historical Data Matrix | Last Updated 06/07/2024</p></figcaption></figure>
 
 ### Risk Quantification Criterion
 
 The historical data is computed through our risk quantification algorithm resulting in risk ratings from the lowest risks A+ to the highest risks D- following the criteria in the table below.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Risk Quantification Criterion</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Risk Quantification Criterion</p></figcaption></figure>
