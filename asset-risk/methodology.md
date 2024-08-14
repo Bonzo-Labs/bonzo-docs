@@ -1,59 +1,66 @@
 # Methodology
 
-The composability of DeFi enables Bonzo Finance to connect with the rest of the Hedera ecosystem. However, it also exposes the protocol to potential financial contagion. Currencies used in the protocol affect the platform at its core, particularly those accepted as collateral, which safeguard the solvency of the protocol. To ensure that a currency holds a reasonable amount of risk, Bonzo Finance investigates three different levels.
-
-First, there is an examination of Hedera Token Service configurations and counter-parties in its governance. If these risks are too high, the currencies will be disqualified for integration into the protocol or to be used as collateral. Next, the team assesses market risks, which can be managed via the protocol's parameters.
+The composability of DeFi enables Bonzo Finance to interoperate with the entire Hedera ecosystem. However, it also exposes the protocol to potential financial contagion. Assets supported by the protocol affect the platform at its core — particularly assets that can be supplied as collateral — which safeguard the protocol's solvency. To ensure that an asset holds a reasonable amount of risk, Bonzo Finance's asset risk methodology framework evaluates risk based on three high-level risk factors: Hedera Token Service (HTS) Risk, Counterparty Risk, and Market Risk.
 
 ## Risk Scale&#x20;
 
-Bonzo Finance employs a risk scale ranging from the lowest risk, A+, for the safest assets of the protocol (often stablecoins, like USDC), to the highest risk, D-. Assets exposed to high risk factors can be considered for integration. However, they will not qualify as collateral to ensure the protocol's solvency.
+Bonzo Finance employs a risk scale ranging from the lowest risk (A+), for the safest assets supported by the protocol (often stablecoins, like USDC), to the highest risk (D-), for volatile assets supported by the protocol (often token-based projects with minimal liquidity and high volatility). Assets exposed to high risk factors can be considered for integration; however, they will not qualify as collateral to ensure the protocol's solvency.
 
-## Risk Factors
+### Asset Risk Quantification Criterion
 
-### Hedera Token Service Configuration Risk&#x20;
+The asset risk quantification criterion offers a framework by which to grade every supported and potentially supported assets based on their individual risk attributes.
 
-**Hedera Token Service (HTS) configuratoin risk** focuses on the technical security of a currency based on its underlying configuration. If one of the supported currencies is compromised, collaterals will be affected, threatening the solvency of the protocol. Projects must have undergone audits to be considered, yet Hedera Token Service and smart contract (managing tokens) risk is significant and cannot be fully mitigated, even with bug bounties. The Bonzo Finance team assesses maturity based on the number of days and transactions of the HTS token as a representation of use, community, and development. These proxies show how battle-tested the code is.
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-Given the potential for substantial losses due to key configuration and smart contract vulnerabilities, currencies with the highest risk, D+ and below, cannot be used as collateral. Currencies with a risk rating below D cannot be integrated into the protocol.
+### Risk Assessment&#x20;
 
-### Counter-party Risk&#x20;
-
-**Counter-party risk** assesses qualitatively how and by whom the currency is governed. The Bonzo Finance team observes different degrees of governance decentralization that may give direct control over funds (e.g., as backing) or attack vectors to the governance architecture, which could expose control and funds. The counter-party risk is measured by the level of centralization, corresponding to the number of parties that control the protocol, as well as the number of holders and the trust in the entity, project, or processes.
-
-Currencies with a high counter-party risk below D+ disqualify as collateral.
-
-### Market Risk&#x20;
-
-**Market risks** are linked to market size and fluctuations in supply and demand. These risks are particularly relevant for the protocol's assets, i.e., the collateral. If the value of the collateral decreases, it might reach the liquidation threshold and start getting liquidated. The markets then need to hold sufficient volume for these liquidations – sells which tend to lower the price of the underlying asset through slippage, affecting the value recovered.
-
-Bonzo Finance looks at the average 24-hour volume representing the availability of the currency to assess liquidity risk: E\[volume].
-
-**Volatility risk** is based on the normalized fluctuations in the currency's price and calculated as the standard deviation of the logarithmic returns: σ\[ln(close(t+1)/close(t))]. This metric is in line with industry standards used by platforms like Bitmex and Gauntlet.
-
-These values are examined at intervals of 1 month, 3 months, and 6 months.
-
-Cryptocurrencies can be subject to sudden volatility spikes; it is not uncommon to witness 30% changes in price within a week or a month. When this is a price increase, to protect users, it might be followed by a parameter readjustment to limit risks of new operations.
-
-**DEX liquidity risk** is an attribute that extends beyond the standard Aave Risk Methodology Framework, of which the Bonzo Finance Risk Methodology Framework was informed. This risk was added due to low DEX liquidity of certain assets on the Hedera network; in the case of asset volatility, resulting in liquidations, it's critical that decentralized exchanges offer sufficient liquidity for the swapping of liquidated collateral, without incurring unsustainable slippage (price impact).&#x20;
-
-Finally, there is consideration for **market capitalization**, representing the size of the market.
-
-Market risks are used for the calibration of the model's risk parameters. Volatility helps define the required level of collateralization, known as the Loan-to-Value (LTV) ratio. Liquidity risks are contained by liquidation incentives: the liquidation threshold and bonus.
-
-## Risk Assessment&#x20;
-
-The historical data supporting the analysis is extracted from reliable sources and combined with on-chain data. The methodology to link historical data to risk factors has been formalized based on rigid criteria for each factor and rating.
+The historical data supporting the analysis is extracted from reliable sources, such as CoinGecko, TierBot, and SaucerSwap, for reliable on-chain and off-chain data. The methodology to link historical data to risk factors has been formalized based on rigid criteria for each factor and rating.
 
 By adhering to this comprehensive risk assessment methodology, Bonzo Finance aims to ensure that the currencies integrated into the protocol contribute to a secure and stable lending and borrowing environment while minimizing exposure to various types of risks inherent in the DeFi ecosystem.
 
-### Historical Data Matrix
+## Risk Factors
+
+### Hedera Token Service (HTS) Risk
+
+HTS risk evaluates the technical security and maturity of a token based on its configuration and usage metrics, offering insight into the token's market acceptance. This is critical for assessing its suitability as collateral. HTS risk includes the following factors:
+
+**Days**: The age of the token is a crucial indicator of its stability and resilience. Older tokens have had more time to uncover and address potential vulnerabilities, and have demonstrated longevity in the market.
+
+**Transactions**: The total number of transactions involving the token is a measure of its adoption and real-world usage. A higher number of transactions suggests a more established and actively used token, potentially indicating lower risk.
+
+### Counterparty Risk
+
+The counterparty risk assessment is crucial for understanding potential centralization risks and the likelihood of unilateral actions that could affect token holders. It assesses the governance and control structure of the token, focusing on the following factors:
+
+**Holders**: The number of holders here reflects the decentralization of token ownership; a wider distribution of holders generally indicates lower counterparty risk. Additionally, a larger holder base typically indicates broader adoption and reduced concentration risk.
+
+**Permission**: This criterion evaluates the level of control and governance decentralization. It considers the configuration of key permissions such as admin, supply, freeze, and pause functions. More decentralized governance structures with higher thresholds or no centralized control are viewed as lower risk.
+
+### Market Risk
+
+These market risk factors are essential for calibrating risk parameters, such as Loan-to-Value (LTV) ratios, liquidation thresholds, liquidation bonus, and usage as collateral. They provide a comprehensive view of the token's market behavior, liquidity, and stability, which are crucial for managing risk in lending and borrowing protocols.\
+\
+Market risk encompasses several factors related to the token's market characteristics:
+
+**Market Cap**: The total market capitalization serves as an indicator of the token's overall market size and stability. Larger market caps generally suggest more established and less volatile tokens.
+
+**Avg. 24 Hour Volume**: Trading volume is a key liquidity indicator. Higher volumes typically mean better liquidity, which is crucial for efficient price discovery and reduced slippage during large transactions or liquidations. The average 24 hour volume represents the availability of an asset to assess liquidity risk:
+
+$$
+E[\text{volume}]
+$$
+
+**Avg. DEX Liquidity**: This metric focuses specifically on decentralized exchange liquidity, which is critical for Bonzo Finance as it will rely on DEXs for various operations, such as liquidations. Higher DEX liquidity reduces the risk of significant price impacts during necessary token swaps.
+
+**Normalized Volatility**: This measure of price fluctuations helps assess the token's price stability. Lower volatility is generally preferred for collateral assets as it reduces the risk of sudden value drops that could trigger liquidations. This is calculated using the standard deviation of the logarithmic returns:
+
+$$
+$\sigma\left[\ln\left(\frac{\text{close}(t+1)}{\text{close}(t)}\right)\right]$
+$$
+
+## Historical Data Matrix
 
 The matrix below shows the figures used to quantify risks per factor. This table is based on historical data that includes the applied the calculations described above.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Historical Data Matrix | Last Updated 06/07/2024</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Historical Data Matrix | 08/12/2024</p></figcaption></figure>
 
-### Risk Quantification Criterion
-
-The historical data is computed through our risk quantification algorithm resulting in risk ratings from the lowest risks A+ to the highest risks D- following the criteria in the table below.
-
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Risk Quantification Criterion</p></figcaption></figure>
