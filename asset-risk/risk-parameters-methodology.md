@@ -57,8 +57,6 @@ $$
 
 ### Reserve Factor
 
-### Reserve Factor
-
 The Reserve Factor is the percentage of interest payments (protocol fees) set aside as protocol reserves.  This reserve is used to sustain DAO operations and pay for protocol development; it also acts as an additional layer of security for the protocol, being employed in the case of a shortfall event, prior to any activation of the Safety Module.&#x20;
 
 * **Calculation**: Reserve Factor = (Interest Allocated to Reserves) / (Total Interest Collected) x 100%

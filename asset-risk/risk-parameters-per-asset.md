@@ -18,10 +18,6 @@ When market conditions change, risks change; Bonzo Finance is continuously monit
 
 The risk parameters allow to mitigate market risks of tokens supported by the protocol. Borrowing assets is guaranteed by a collateral that may be subject to volatility. Sufficient margin and incentives are needed for the position to remain collateralised in adverse market conditions. If the value of the collateral falls bellow its liquidation threshold, part of it is auctioned to liquidation bots to repay part of the position, ensuring creditors remain solvent.
 
-### **Collateral (Yes/No)** <a href="#loan-to-value" id="loan-to-value"></a>
-
-This .................
-
 ## Configuring Parameters via Market Risk Assessment&#x20;
 
 The "market risk" category of the asset risk quantification criterion (found in the "[methodology](risk-score-methodology.md)" section of the documentation) has the highest impact on the configuration of risk parameters cited above.&#x20;
