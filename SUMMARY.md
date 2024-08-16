@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Page](README.md)
-
 ## 🪙 Asset Risk
 
-* [Introduction](asset-risk/introduction.md)
+* [Introduction](README.md)
 * [Adding an Asset](asset-risk/adding-an-asset.md)
 * [Risk Score Methodology](asset-risk/risk-score-methodology.md)
 * [Risk Score per Asset](asset-risk/risk-score-per-asset.md)
