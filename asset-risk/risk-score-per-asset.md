@@ -1,12 +1,12 @@
 # Risk Score per Asset
 
-This section showcases the results of the [risk assessment methodology](methodology.md) and analyses the results for each of the assets considered.
+This section showcases the implementation of the [risk assessment methodology](risk-score-methodology.md) and analyses results for each of the supported assets considered.
 
-## Quarterly Asset Risk Map
+## Historical Data Matrix
 
-The [risk assessment methodology](methodology.md) applied to historical data computes the risk ratings per asset as shown in the table below.
+The matrix below shows the figures used to quantify risks per factor. This table is based on historical data that includes the applied the calculations described in the [risk assessment methodology](risk-score-methodology.md) section of the documentation.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p> Quarterly Asset Risk Map | Q2 2024 | Last Updated: 06/07/2024</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Historical Data Matrix | 08/12/2024</p></figcaption></figure>
 
 ## Risk Analysis per Asset <a href="#risk-analysis-per-asset" id="risk-analysis-per-asset"></a>
 
