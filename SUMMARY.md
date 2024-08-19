@@ -21,7 +21,6 @@
 * [🏦 Bonzo v1](bonzo-protocol/bonzo-v1.md)
 * [🔮 Oracles](bonzo-protocol/oracles/README.md)
   * [Supra](bonzo-protocol/oracles/supra.md)
-  * [Pyth](bonzo-protocol/oracles/pyth.md)
 * [⚠️ Risk Framework](https://docs.bonzo.finance/bonzo-risk-framework/)
 
 ## CONTRIBUTORS
