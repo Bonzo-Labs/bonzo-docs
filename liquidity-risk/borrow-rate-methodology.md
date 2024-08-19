@@ -4,8 +4,8 @@ Bonzo Finance's interest rate strategy is calibrated to manage liquidity risk an
 
 $$U$$ is an indicator of capital availability in the pool. The interest rate model manages liquidity risk through user incentives:
 
-* When capital is available: low interest rates to encourage borrowing.
-* When capital is scarce: high interest rates to encourage loan repayments and additional deposits.
+* **When capital is available**: Low interest rates to encourage borrowing.
+* **When capital is scarce**: High interest rates to encourage loan repayments and additional deposits.
 
 ## **Interest Rate Model**
 
@@ -34,9 +34,11 @@ Variable loans see their rate constantly evolving with utilization. This means t
 
 Bonzo Finance calibrates interest rate parameters for clusters of currencies with similar risk profiles on Hedera:
 
-1. Volatile Assets: These assets require consistent liquidity for liquidations, with $$U_{optimal}$$ around 45% - 50%, due to the fact that highly volatile assets typically have lower liquidity in DEXs. Having a lower $$U_{optimal}$$ incentivizes lower utilization.
-2. Asset liquidity: Higher liquidity assets, which are typically less volatile, have higher $$U_{optimal}$$ rates, while lower liquidity assets typically have lower $$U_{optimal}$$ rates.
-3. Hedera DeFi market conditions: Borrowing parameters must align with Hedera ecosystem yield opportunities on a per asset basis, otherwise a rate arbitrage is exposed, with rational users being incentivized to borrow all the liquidity on Bonzo to take advantage of yield opportunities.
+|                 | Optimal Utilization                                     | Slope 1   | Slope 2      |
+| --------------- | ------------------------------------------------------- | --------- | ------------ |
+| **Stablecoins** | 80-90%                                                  | 4% - 6%   | 100% - 200%  |
+| **Majors**      | 70-80% (Liquid Staking Tokens) / 60-70% (Crypto Assets) | 6% - 8%   | 100% - 200%  |
+| **Minors**      | ≤ 55%                                                   | 8% - 10%+ | 150% - 300%+ |
 
 ## **Optimization for Hedera**
 

@@ -14,37 +14,3 @@ When market conditions change, risks change; Bonzo Finance is continuously monit
 
 <table><thead><tr><th width="134">Date</th><th width="113">Asset</th><th width="194">Parameter Changed</th><th>From</th><th>To</th></tr></thead><tbody><tr><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr></tbody></table>
 
-## Risk Parameters Defined & Explained
-
-The risk parameters allow to mitigate market risks of tokens supported by the protocol. Borrowing assets is guaranteed by a collateral that may be subject to volatility. Sufficient margin and incentives are needed for the position to remain collateralised in adverse market conditions. If the value of the collateral falls bellow its liquidation threshold, part of it is auctioned to liquidation bots to repay part of the position, ensuring creditors remain solvent.
-
-## Configuring Parameters via Market Risk Assessment&#x20;
-
-The "market risk" category of the asset risk quantification criterion (found in the "[methodology](risk-score-methodology.md)" section of the documentation) has the highest impact on the configuration of risk parameters cited above.&#x20;
-
-Market Risk includes the following components, analyzed per asset on a quarterly basis:
-
-### **Trading Volume**
-
-Based on the average 24 hour trading volume per asset, normalized over a period of 1M and 3M. Sufficiently traded assets ensure a smooth liquidation process.&#x20;
-
-With low trading volume, risks can be mitigated via configuration of liquidation parameters, such as the liquidation bonus — essentially, the lower the trading volume of an asset, the higher the incentives are configured in Bonzo Finance to liquidate the asset, to account for slippage.
-
-### **DEX Liquidity**
-
-Similar to trading volume, average DEX liquidity normalized over 1M and 3M ensures enough liquidity in decentralized exchanges for a smooth liquidation process.&#x20;
-
-With low average DEX liquidity, risks can be mitigated via configuration of liquidation parameters, such as the liquidation bonus — essentially, the lower the DEX liquidity, the higher the incentives are configured in Bonzo Finance to liquidate the asset, to account for slippage.
-
-### Normalized Volatility
-
-The average normalized volatility of an asset's price can negatively affect the collateral and its ecosystem's ability to cover liabilities. The risk of global collateral value falling below the global value of borrowed amounts can be mitigated per asset via loan-to-value (LTV) and liquidation threshold configurations. Normalized volatility also affects the liquidation process, as the margin for liquidators must allow for profit to ensure they participate in this activity.
-
-The least volatility currencies are stablecoins, followed by majors; these assets typically have the highest LTV and the highest liquidation thresholds.
-
-The most volatile currencies lowest LTV and the liquidations thresholds are typically set much higher, to protect users from sharp drops in price, which could quickly lead to undercollaterisation.
-
-### Market Capitalization
-
-Market Capitalisation (Market Cap) represents the total value of the asset's market. This is also a critical factor when it comes to liquidating collateral. The smaller the market cap, the larger the incentives for liquidating.
-

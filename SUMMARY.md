@@ -23,5 +23,3 @@
 
 * [Introduction](audits-and-analysis/introduction.md)
 * [Smart Contract Audit](audits-and-analysis/smart-contract-audit.md)
-* [Formal Verification](audits-and-analysis/formal-verification.md)
-* [Market Risk Assessment](audits-and-analysis/market-risk-assessment.md)
