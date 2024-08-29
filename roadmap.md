@@ -6,25 +6,24 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 
 **Projects actively being developed:**
 
-* Official documentation
 * Liquidation bot testing & developer templates
 * Flash loan testing & developer templates&#x20;
-* Safety Module & staking functionality + UI/UX
-* Safety Module development + UI/UX
+* DeFi Llama Adapters
+* Data API
 
 ## 🟨 Planned for Development
 
 **Projects planned for development:**
 
 * $HBAR liquidity incentive smart contracts & UI updates
+* Bonzo Finance protocol analytics page (UI/UX + Data API integration)
+* Individual asset analytics page(s) (UI/UX + Data API integration)
 * WalletConnect integration (HashPack, Blade, Kaliba, MetaMask, etc.)
-* Points reward system based on HCS-20
 
 ## 🟧 Prioritized for Development
 
 **Projects prioritized for development:**
 
-* Code Freeze & Smart Contract Audits
 * Pyth oracles implementation
 * Bonzo v1 API
 * Discord faucet for mainnet $HBAR & $BONZO
@@ -33,8 +32,12 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 
 **Projects that have completed development:**
 
+* Code Freeze & Smart Contract Audits
+* Safety Module & staking functionality + UI/UX
+* Safety Module development + UI/UX
 * Initial Bonzo Finance Homepage & Blog
 * Supra oracles integration
+* Points reward system based on HCS-20
 * Testnet deployment / adaptation of Aave v2 Smart Contracts
 * HashConnect integration for HashPack
 * Public Discord faucet for SaucerSwap testnet HTS tokens
