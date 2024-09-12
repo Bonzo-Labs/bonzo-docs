@@ -1,6 +1,6 @@
 # Season One Points
 
-After the [pre-season](pre-season-points.md) has concluded and the Bonzo Finance protocol launches on mainnet, season one of Bonzo Points will start. Point earnings convert to claimable $BONZO at the end of a every points season, each lasting 6 months, with three seasons in total.
+After the [pre-season](pre-season-points-airdrop.md) has concluded and the Bonzo Finance protocol launches on mainnet, season one of Bonzo Points will start. Point earnings convert to claimable $BONZO at the end of a every points season, each lasting 6 months, with three seasons in total.
 
 Points earnings are based on the dollar value of assets supplied to and borrowed from the protocol, distributed on a 24 hour basis — supported assets of the protocol can be found on the [Bonzo Finance homepage](https://bonzo.finance/).
 
