@@ -13,7 +13,9 @@
 * [🖼️ Bonzo NFT Collectables](get-started/bonzo-nft-collectables.md)
   * [NFT Utility](get-started/bonzo-nft-collectables/nft-utility.md)
   * [Ownership & License Terms](get-started/bonzo-nft-collectables/ownership-and-license-terms.md)
-* [🎟️ Earning Points](get-started/earning-points.md)
+* [🎟️ Bonzo Points](get-started/bonzo-points/README.md)
+  * [Pre-Season Points](get-started/bonzo-points/pre-season-points.md)
+  * [Season One Points](get-started/bonzo-points/season-one-points.md)
 * [🎓  Bonzo Academy](https://docs.bonzo.finance/bonzo-academy/)
 
 ## BONZO PROTOCOL
