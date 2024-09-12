@@ -26,4 +26,4 @@ In addition to the regular seasons of points, Bonzo Finance is hosting a [token 
 
 The Bonzo Points program utilizes the Hedera Consensus Service HCS-20 standard — this offers the unique ability for points to be tied directly to Hedera accounts on-chain — it also allows for airdropping of points to users without them even having to connect their wallets to the protocol. Additionally, because all points are on-chain, they are verifiable and auditable.
 
-To verify earned Bonzo Points on-chain, please visit [TierBot](https://tier.bot/advanced-analytics/hedera/hcs20?tab=my-tokens) and connect your wallet. Additionally, points are visible within the [HashPack wallet](https://www.hashpackapp.com/) by navigating to **Advanced Tools > HCS-20 Points.**
+To verify earned Bonzo Points on-chain, please visit [TierBot](https://tier.bot/advanced-analytics/hedera/hcs20?tab=my-tokens) and connect your wallet.
