@@ -1,4 +1,4 @@
-# Pre-Season Points
+# Pre-Season Points Airdrop
 
 The [token-weighted airdrop of points](https://app.bonzo.finance/points) in pre-season kicks off on **Friday, September 13th at 4:00pm ET**, starting with a snapshot of holders and amounts of assets in the program. The first distribution of Bonzo Points will be made on **Monday, September 16th** for the $HBARX asset and continue every other business day with a new points airdrop for every HTS asset supported by the program.
 
@@ -20,7 +20,7 @@ The [token-weighted airdrop of points](https://app.bonzo.finance/points) in pre-
 
 Points will be distributed across multiple days, based on a schedule tied to assets supported by the protocol:
 
-* Mon, Sept 16: $HBARX
+* Mon, Sept 16: $HBARX ([Distribution Details](https://docs.google.com/spreadsheets/d/1rVUDzVOQFta8qfO-JxmhI959Hbo3AXam6etWpzXHblE/edit?usp=sharing))
 * Wed, Sept 18: $PACK
 * Fri, Sept 20: $SAUCE
 * Fri, Sept 20: $XSAUCE
