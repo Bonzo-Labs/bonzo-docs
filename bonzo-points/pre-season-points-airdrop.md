@@ -21,7 +21,7 @@ The [token-weighted airdrop of points](https://app.bonzo.finance/points) in pre-
 Points will be distributed across multiple days, based on a schedule tied to assets supported by the protocol:
 
 * Mon, Sept 16: $HBARX ([Distribution Details](https://docs.google.com/spreadsheets/d/1rVUDzVOQFta8qfO-JxmhI959Hbo3AXam6etWpzXHblE/edit?usp=sharing))
-* Wed, Sept 18: $PACK
+* Wed, Sept 18: $PACK ([Distribution Details](https://docs.google.com/spreadsheets/d/1hZAsOF57eGFInPXJb-Toga4nXVnArQ9\_pv0dZ6OmQGw/edit?usp=sharing))
 * Fri, Sept 20: $SAUCE
 * Fri, Sept 20: $XSAUCE
 * Mon, Sept 23: $DOVU
