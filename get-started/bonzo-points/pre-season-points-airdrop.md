@@ -25,7 +25,7 @@ Points will be distributed across multiple days, based on a schedule tied to ass
 * Fri, Sept 20: $SAUCE ([Distribution Details](https://docs.google.com/spreadsheets/d/1TzQCSNzCGfKaMecD\_UyEvu7nU3j1L-9SlkDx3i1ERxo/edit?gid=1745000703#gid=1745000703))
 * Fri, Sept 20: $XSAUCE ([Distribution Details](https://docs.google.com/spreadsheets/d/1cegHkUzdi04U6z4uaH-quiJl4brA8ZUbJtaLxdDO3yY/edit?gid=984072007#gid=984072007))
 * Mon, Sept 23: $DOVU ([Distribution Details](https://docs.google.com/spreadsheets/d/1-C3bukxV0YeHBTKAv-8CbNyftpvTzOBc2NCCzNdC7EI/edit?gid=375635124#gid=375635124))
-* Wed, Sept 25: $KARATE
+* Wed, Sept 25: $KARATE ([Distribution Details](https://docs.google.com/spreadsheets/d/1pKX1P2OKlwOenPL\_QvaDfT3CwJDoGVQPKgmfLfI3RB0/edit?usp=sharing))
 * Fri, Sept 27: $HST
 * Mon, Sept 30: $STEAM
 * Wed, Oct 2: $USDC
