@@ -28,7 +28,7 @@ Points will be distributed across multiple days, based on a schedule tied to ass
 * Wed, Sept 25: $KARATE ([Distribution Details](https://docs.google.com/spreadsheets/d/1pKX1P2OKlwOenPL\_QvaDfT3CwJDoGVQPKgmfLfI3RB0/edit?usp=sharing))
 * Fri, Sept 27: $HST ([Distribution Details](https://docs.google.com/spreadsheets/d/1Lgu5brxhDVqzm\_\_JAYIB-cANFJ\_9V6fnhatKt9gp3og/edit?usp=sharing))
 * Mon, Sept 30: $STEAM ([Distribution Details](https://docs.google.com/spreadsheets/d/15ls027YE8NdSu4nhePiw8IzsLKtXLSpET2esZkmtjrA/edit?gid=31857120#gid=31857120))
-* Wed, Oct 2: $USDC
+* Wed, Oct 2: $USDC ([Distribution Details](https://docs.google.com/spreadsheets/d/1LgyOeudlU3LqMG4sp\_jmAq-GTWLfOUTaKUwNVnTU4gI/edit?usp=sharing))
 
 ### **Bonzo NFT Points Multipliers**
 
