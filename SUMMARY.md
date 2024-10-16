@@ -5,6 +5,15 @@
 
 ## GET STARTED
 
+* [🏦 Bonzo Mainnet](get-started/bonzo-mainnet/README.md)
+  * [Connect Wallet](get-started/bonzo-mainnet/connect-wallet.md)
+  * [Supply Assets](get-started/bonzo-mainnet/supply-assets.md)
+  * [Enable / Disable Collateral](get-started/bonzo-mainnet/enable-disable-collateral.md)
+  * [Borrow Assets](get-started/bonzo-mainnet/borrow-assets.md)
+  * [Dashboard Metrics Explained](get-started/bonzo-mainnet/dashboard-metrics-explained.md)
+* [🎟️ Bonzo Points](get-started/bonzo-points/README.md)
+  * [Pre-Season Points Airdrop](get-started/bonzo-points/pre-season-points-airdrop.md)
+  * [Season One Points](get-started/bonzo-points/season-one-points.md)
 * [🧪 Bonzo Testnet](get-started/bonzo-testnet.md)
 * [🌐 Hedera ($HBAR)](get-started/hedera-usdhbar/README.md)
   * [Hedera Wallet Setup](get-started/hedera-usdhbar/hedera-wallet-setup.md)
@@ -13,21 +22,9 @@
 * [🖼️ Bonzo NFT Collectables](get-started/bonzo-nft-collectables.md)
   * [NFT Utility](get-started/bonzo-nft-collectables/nft-utility.md)
   * [Ownership & License Terms](get-started/bonzo-nft-collectables/ownership-and-license-terms.md)
-* [🎓  Bonzo Academy](https://docs.bonzo.finance/bonzo-academy/)
 
-## BONZO PROTOCOL
+## ASSET RISK
 
-* [🏦 Bonzo Finance](bonzo-protocol/bonzo-finance/README.md)
-  * [Connect Wallet](bonzo-protocol/bonzo-finance/connect-wallet.md)
-  * [Supply Assets](bonzo-protocol/bonzo-finance/supply-assets.md)
-  * [Enable / Disable Collateral](bonzo-protocol/bonzo-finance/enable-disable-collateral.md)
-  * [Borrow Assets](bonzo-protocol/bonzo-finance/borrow-assets.md)
-  * [Dashboard Metrics Explained](bonzo-protocol/bonzo-finance/dashboard-metrics-explained.md)
-* [🎟️ Bonzo Points](bonzo-protocol/bonzo-points/README.md)
-  * [Pre-Season Points Airdrop](bonzo-protocol/bonzo-points/pre-season-points-airdrop.md)
-  * [Season One Points](bonzo-protocol/bonzo-points/season-one-points.md)
-* [🔮 Oracles](bonzo-protocol/oracles/README.md)
-  * [Supra](bonzo-protocol/oracles/supra.md)
 * [⚠️ Risk Framework](https://docs.bonzo.finance/bonzo-risk-framework/)
 
 ## CONTRIBUTORS
@@ -43,13 +40,15 @@
   * [⛩️ wHBAR](developer/developer-resources/whbar.md)
 * [💸 Liquidation Bots](developer/liquidation-bots.md)
 * [⚡ Flash Loans](developer/flash-loans.md)
-* [🛡️ Audits](developer/audits.md)
+* [🔮 Oracles](developer/oracles/README.md)
+  * [Supra](developer/oracles/supra.md)
 * [👾 GitHub](developer/github.md)
 
 ## RESOURCES
 
 * [🎨 Brand Assets](resources/brand-assets.md)
 * [📚 Glossary](resources/glossary.md)
+* [🛡️ Audits](resources/audits.md)
 * [📞 Contact](resources/contact/README.md)
   * [Support](resources/contact/support.md)
   * [Community](resources/contact/community.md)
