@@ -4,4 +4,4 @@
 
 <table><thead><tr><th width="277">Provider</th><th>EVM Contract</th></tr></thead><tbody><tr><td>Supra Push Oracles on Hedera</td><td><a href="https://hashscan.io/mainnet/contract/0.0.4322850">0xD02cc7a670047b6b012556A88e275c685d25e0c9</a></td></tr></tbody></table>
 
-You can read more information about the Supra integration in this blog posting: [https://bonzo.finance/blog/integrating-supra-oracles-into-bonzo-finance-on-hedera-hashgraph](https://bonzo.finance/blog/integrating-supra-oracles-into-bonzo-finance-on-hedera-hashgraph)
+Read more about Bonzo Finance's Supra implementation in this blog posting: [https://bonzo.finance/blog/integrating-supra-oracles-into-bonzo-finance-on-hedera-hashgraph](https://bonzo.finance/blog/integrating-supra-oracles-into-bonzo-finance-on-hedera-hashgraph)

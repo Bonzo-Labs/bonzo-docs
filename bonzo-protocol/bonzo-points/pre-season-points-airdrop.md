@@ -10,7 +10,7 @@ The [token-weighted airdrop of points](https://app.bonzo.finance/points) in pre-
 * Accumulated points determine $BONZO token claims post-Token Generation Event (TGE)
 * TGE occurs within 3 months of Bonzo Finance mainnet launch
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### **Snapshot**
 

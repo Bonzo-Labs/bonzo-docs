@@ -15,5 +15,3 @@ Simply create an account on one of these exchanges, complete the necessary verif
 ### FIAT On-Ramps & Gateways
 
 If you prefer to buy HBAR directly using your local currency, you can use FIAT on-ramp gateways like [MoonPay](https://www.moonpay.com/buy/hbar) and [Banxa](https://banxa.com/). These services allow you to purchase HBAR using a credit or debit card, bank transfers, Apple Pay, or Google Pay. You can access these gateways either through their websites or directly within the [HashPack](https://www.hashpack.app) wallet, a popular Hedera-compatible wallet.
-
-### &#x20; <a href="#discord-faucet" id="discord-faucet"></a>

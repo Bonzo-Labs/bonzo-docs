@@ -1,3 +1,3 @@
 # 👩‍💻 Bonzo v1 API
 
-The Bonzo Finance protocol is currently in development. More information about the Bonzo Finance API and details of the protocol will be made available soon. Thank you for your patience.
+The Bonzo Finance API is currently in development — thank you for your patience!
