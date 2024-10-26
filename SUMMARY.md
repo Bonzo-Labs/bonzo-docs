@@ -37,8 +37,7 @@
 
 ## DEVELOPER
 
-* [💻 Developer Resources](developer/developer-resources/README.md)
-  * [📊 Bonzo v1 Data API](developer/developer-resources/bonzo-v1-data-api.md)
+* [📊 Bonzo v1 Data API](developer/bonzo-v1-data-api.md)
 * [📜 Contract Deployments](developer/contract-deployments.md)
 * [💸 Liquidation Bots](developer/liquidation-bots.md)
 * [⚡ Flash Loans](developer/flash-loans.md)

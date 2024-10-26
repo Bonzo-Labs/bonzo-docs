@@ -1,17 +1,47 @@
 # 📊 Bonzo v1 Data API
 
-The Bonzo Data API provides comprehensive access to lending pool market statistics and individual account information for the Bonzo Finance protocol. This documentation will help you integrate with our API endpoints and access real-time lending and borrowing data.
+Welcome to the Bonzo Data API Service documentation. This guide provides comprehensive information about the API endpoints, data structures, and usage examples to help you integrate with the Bonzo Liquidity Pools. Whether you're building custom liquidation services or integrating market statistics into your application, this documentation will assist you every step of the way.
+
+## Introduction
+
+### Overview
+
+The **Bonzo Data API Service** provides current lending pool market statistics and individual account supply and borrow information for the [Bonzo.Finance](https://bonzo.finance) protocol. The service is publicly accessible and can be queried by third parties wishing to interact with the Bonzo Liquidity Pools, such as custom liquidation services or analytical tools.
+
+### Key Features
+
+* **Real-Time Market Data**: Access up-to-date information on supply and borrow pools for supported Hedera tokens.
+* **Account Insights**: Retrieve detailed account information, including balances and solvency computations.
+* **Public Endpoints**: Open API for developers to build custom solutions and integrations.
+* **Swagger Interface**: User-friendly interface for exploring and testing API endpoints.
+* **OpenAPI Specification**: Comprehensive API definitions for easy integration.
 
 ## Base URL
+
+All API requests are made to the following base URL:
 
 ```
 https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/
 ```
 
-## API Specification
+## Swagger Interface
 
-* OpenAPI 3.0 Specification: [`/swagger/v1/swagger.json`](https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/swagger/v1/swagger.json)
-* Interactive Swagger UI available at [`/swagger/index.html`](https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/swagger/index.html)
+For interactive API exploration and testing, visit the Swagger UI:
+
+<pre><code><strong>https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/swagger/index.html
+</strong></code></pre>
+
+## OpenAPI Specification
+
+The OpenAPI 3.0 specification for the API is available at:
+
+```
+https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/swagger/v1/swagger.json
+```
+
+{% hint style="info" %}
+You can use this specification with tools like Postman or Swagger Codegen to generate client libraries.
+{% endhint %}
 
 ## Common Response Structure
 
@@ -42,19 +72,19 @@ GET /dashboard/{accountId}
 
 #### Parameters
 
-<table><thead><tr><th width="133">Name</th><th width="107">Type</th><th>Description</th></tr></thead><tbody><tr><td>accountId</td><td>string</td><td>Hedera account ID in format shard.realm.num</td></tr></tbody></table>
+<table><thead><tr><th width="154">Name</th><th width="89">Type</th><th>Description</th></tr></thead><tbody><tr><td><code>accountId</code></td><td>string</td><td>Hedera account ID in format <code>shard.realm.num</code></td></tr></tbody></table>
 
 #### Response
 
 ```typescript
 {
-  "chain_id": string,
-  "network_name": string,
-  "hts_address": string,
-  "evm_address": string,
-  "reserves": [
+  "chain_id": string, //the EIP155 identifier of the hedera network used to create Ethereum transactions.
+  "network_name": string, //the name identifier of the hedera network compatible with forNetwork and other native SDK toolkits.
+  "hts_address": string, //the native hedera address for the account in question
+  "evm_address": string, //the 20-byte EVM address for the account as seen by the network’s mirror node, this is the form of account address that must be used when interacting with Bonzo contracts.
+  "reserves": [ //A list of reserve currencies and their statistics related to the account in question:
     {
-      "id": number,
+      "id": number, //The ID of the reserve currency (typically the index of the currency in the pool’s internal list of reserve currencies.)
       "name": string,
       "symbol": string,
       "coingecko_id": string,
