@@ -13,4 +13,4 @@ The [Bonzo Finance](https://www.bonzo.finance) protocol is an open source, non-c
 
 Bonzo Finance is based on [Aave v2](https://docs.aave.com/developers/v/2.0) and adapted to the Hedera EVM (Ethereum Virtual Machine) and native Hedera Token Service (HTS). By adapting Aave v2 to Hedera, the Bonzo Finance protocol inherits the Hedera network's high throughput, fast transaction finality, and a low, fixed, U.S. dollar-denominated fee structure. Additionally, Hedera's architecture ensures fair transaction ordering, mitigating the risk of MEV attacks commonly seen on alternative EVM-based protocols.
 
-Bonzo Finance utilizes [Supra](developer/oracles/supra.md) and [Pyth](broken-reference) oracles that enable accurate and reliable price feeds for the lending and borrowing of assets, ensuring transparent and efficient operations within the protocol.
+Bonzo Finance utilizes [Supra](developer/oracles/supra.md) oracles that enable accurate and reliable price feeds for the lending and borrowing of assets, ensuring transparent and efficient operations within the protocol.
