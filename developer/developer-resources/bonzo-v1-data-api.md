@@ -10,8 +10,8 @@ https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/
 
 ## API Specification
 
-* OpenAPI 3.0 Specification: `/swagger/v1/swagger.json`
-* Interactive Swagger UI available at `/swagger/index.html`
+* OpenAPI 3.0 Specification: [`/swagger/v1/swagger.json`](https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/swagger/v1/swagger.json)
+* Interactive Swagger UI available at [`/swagger/index.html`](https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/swagger/index.html)
 
 ## Common Response Structure
 
