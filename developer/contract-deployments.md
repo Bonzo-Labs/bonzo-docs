@@ -10,7 +10,7 @@ description: >-
 
 ### Lending Pool Infrastructure
 
-<table><thead><tr><th width="265">Contract Name</th><th width="269">Testnet Address</th><th>Mainnet Address</th></tr></thead><tbody><tr><td>LendingPoolAddressesProviderRegistry</td><td>0xA5B57E3d0205436Eb3bb7d0F49bf1C9E399110F8</td><td>0xE20273F10D1b85BaF56F6063cd5271C885427EC5</td></tr><tr><td>LendingPoolAddressesProvider</td><td>0x873575d4AeeBe015AcF3BB17AAa9DD248cc76D68</td><td>0x76b846DAB3646527bfb75952E1f33AfAA72B56D1</td></tr><tr><td>LendingPool</td><td>0xf67DBe9bD1B331cA379c44b5562EAa1CE831EbC2</td><td>0x236897c518996163E7b313aD21D1C9fCC7BA1afc</td></tr><tr><td>LendingPoolConfigurator</td><td>0x6Fa59558495a4D8B1701ab7924fc5a249d63cfF0</td><td>0xf41332220e51Ca8dB22De683fB0157e644e7A963</td></tr><tr><td>LendingPoolCollateralManager</td><td>0x35426e22F51165008fD594265b789C258f68D457</td><td>0x7687E1AaAD6cE335fb7d64ede7Dd7273De883698</td></tr></tbody></table>
+<table><thead><tr><th width="242">Contract Name</th><th width="269">Testnet Address</th><th>Mainnet Address</th></tr></thead><tbody><tr><td>LendingPoolAddressesProviderRegistry</td><td>0xA5B57E3d0205436Eb3bb7d0F49bf1C9E399110F8</td><td>0xE20273F10D1b85BaF56F6063cd5271C885427EC5</td></tr><tr><td>LendingPoolAddressesProvider</td><td>0x873575d4AeeBe015AcF3BB17AAa9DD248cc76D68</td><td>0x76b846DAB3646527bfb75952E1f33AfAA72B56D1</td></tr><tr><td>LendingPool</td><td>0xf67DBe9bD1B331cA379c44b5562EAa1CE831EbC2</td><td>0x236897c518996163E7b313aD21D1C9fCC7BA1afc</td></tr><tr><td>LendingPoolConfigurator</td><td>0x6Fa59558495a4D8B1701ab7924fc5a249d63cfF0</td><td>0xf41332220e51Ca8dB22De683fB0157e644e7A963</td></tr><tr><td>LendingPoolCollateralManager</td><td>0x35426e22F51165008fD594265b789C258f68D457</td><td>0x7687E1AaAD6cE335fb7d64ede7Dd7273De883698</td></tr></tbody></table>
 
 ### Oracle Contracts
 
@@ -44,70 +44,60 @@ These are the underlying implementation contracts used by the protocol:
 
 * Token: `0x000000000000000000000000000000000006f89a` (Mainnet)
 * aToken: `0xB7687538c7f4CAD022d5e97CC778d0b46457c5DB`
-* Stable Debt: `0x9E83bE4C2a95b9CC10CF3Cf27BABe1a33867581D`
 * Variable Debt: `0x8a90C2f80Fc266e204cb37387c69EA2ed42A3cc1`
 
 ### HBARX
 
 * Token: `0x00000000000000000000000000000000000cba44` (Mainnet)
 * aToken: `0x40EBC87627Fe4689567C47c8C9C84EDC4Cf29132`
-* Stable Debt: `0x6cD2D4319419Fe01712727749bc90dB1ed814fB2`
 * Variable Debt: `0xF4167Af5C303ec2aD1B96316fE013CA96Eb141B5`
 
 ### SAUCE
 
 * Token: `0x00000000000000000000000000000000000b2ad5` (Mainnet)
 * aToken: `0x2bcC0a304c0bc816D501c7C647D958b9A5bc716d`
-* Stable Debt: `0xb67d416dE3b6c8Ff891C6f384852538987300C38`
 * Variable Debt: `0x736c5dbB8ADC643f04c1e13a9C25f28d3D4f0503`
 
 ### XSAUCE
 
 * Token: `0x00000000000000000000000000000000001647e8` (Mainnet)
 * aToken: `0xEc9CEF1167b4673726B1e5f5A978150e63cDf23b`
-* Stable Debt: `0x4a3C9c4ba1Bf30b3b8d249aB7A4eE8305be116fa`
 * Variable Debt: `0x08c816eC7aC0580c802151E4efFbDa687f7Cac2a`
 
 ### WHBAR
 
 * Token: `0x0000000000000000000000000000000000163b5a` (Mainnet)
 * aToken: `0x6e96a607F2F5657b39bf58293d1A006f9415aF32`
-* Stable Debt: `0x1F267FBa2ca543EFb4b31bBb8d47abD9c436Aa01`
 * Variable Debt: `0xCD5A1FF3AD6EDd7e85ae6De3854f3915dD8c9103`
 
 ### KARATE
 
 * Token: `0x000000000000000000000000000000000022d6de` (Mainnet)
 * aToken: `0x98262552C8246Ffb55E3539Ceb51838912402959`
-* Stable Debt: `0x26BE85fc10dd1D51350F4c1C33Da9fC2Df9C3B24`
 * Variable Debt: `0xB6209F33982CE99139Ab325b13B260d32287A807`
 
 ### DOVU
 
 * Token: `0x000000000000000000000000000000000038b3db` (Mainnet)
 * aToken: `0x89D2789481cB4CB5B6949Ff55EBA5629c5bC5B1E`
-* Stable Debt: `0x483B64Fcc59D8C79FEa1CEa94d7003151c6c4f36`
 * Variable Debt: `0x9d81E1676A7e116ec725208DdeAB11929eA3F7A6`
 
 ### HST
 
 * Token: `0x00000000000000000000000000000000000ec585` (Mainnet)
 * aToken: `0x2e63e864AAD2ce87b45d2C93bc126850DC5122c9`
-* Stable Debt: `0x441588e3842e3E56388B38DCf360a52FBbC3AEfb`
 * Variable Debt: `0xdc6e9E967648cd28E8BaF2EB1124ef7C9C5Bd027`
 
 ### PACK
 
 * Token: `0x0000000000000000000000000000000000492a28` (Mainnet)
 * aToken: `0x5F98C43ce4b4765638d69B4a2407a2186A347CB9`
-* Stable Debt: `0x6972dCfd48FC7A1aDAc34F9B5E589C4AB2800912`
 * Variable Debt: `0x63c7EF5398E8Fe23D95E762802F011590A7816a1`
 
 ### STEAM
 
 * Token: `0x000000000000000000000000000000000030fb8b` (Mainnet)
 * aToken: `0x46BEf910150a3880ce6eAC60A059E70494A4805e`
-* Stable Debt: `0x89666a4f1F69241dbCFf568F3322c84A9E7f56Be`
 * Variable Debt: `0xdFD1D43cbd700AEC5bcc151d028274412d31db70`
 
 ## Interest Rate Strategy Contracts
@@ -119,8 +109,6 @@ These are the underlying implementation contracts used by the protocol:
 | Volatile One   | 0x82a278be934D9Ba2e4e46cad5d818647E2Ef0990 | 0x0eaD7dDfC2Bb172D4a899aad8E7b4d882067a001 |
 | Volatile Two   | 0x58812c9430fc9C1e246E34a92a11ecea057DB049 | 0xDa47ecEC5ba98eF6a8C3c4F7EaDa3FBda6f7EED9 |
 | Volatile Three | 0x5c5a27079728FCB66522760032e19cf5d94Fd823 | -                                          |
-| Stable Two     | 0x901B7458A3F0039b51A0A603Ac1867aE1745FE0f | -                                          |
-| Stable Three   | 0x737AA6910dcC478F226b0C0eA22340aCE345C147 | -                                          |
 
 ### Asset-Specific Strategies
 
