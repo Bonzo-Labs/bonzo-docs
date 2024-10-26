@@ -78,66 +78,66 @@ GET /dashboard/{accountId}
 
 ```typescript
 {
-  "chain_id": string, //the EIP155 identifier of the hedera network used to create Ethereum transactions.
-  "network_name": string, //the name identifier of the hedera network compatible with forNetwork and other native SDK toolkits.
-  "hts_address": string, //the native hedera address for the account in question
-  "evm_address": string, //the 20-byte EVM address for the account as seen by the network’s mirror node, this is the form of account address that must be used when interacting with Bonzo contracts.
+  "chain_id": string, //The EIP155 identifier of the hedera network used to create Ethereum transactions.
+  "network_name": string, //The name identifier of the hedera network compatible with forNetwork and other native SDK toolkits.
+  "hts_address": string, //The native hedera address for the account in question
+  "evm_address": string, //The 20-byte EVM address for the account as seen by the network’s mirror node, this is the form of account address that must be used when interacting with Bonzo contracts.
   "reserves": [ //A list of reserve currencies and their statistics related to the account in question:
+  "average_supply_apy": number, //The average return from supply of all holdings in the pool.
+  "average_borrow_apy": number, //The average interest rate from all borrowed tokens from the pool.
+  "average_net_apy": number //The average net APY on supplied assets minus the interest rate from borrowed tokens.
     {
       "id": number, //The ID of the reserve currency (typically the index of the currency in the pool’s internal list of reserve currencies.)
-      "name": string,
-      "symbol": string,
-      "coingecko_id": string,
-      "hts_address": string,
-      "evm_address": string,
-      "atoken_address": string,
-      "stable_debt_address": string,
-      "variable_debt_address": string,
-      "protocol_treasury_address": string,
-      "decimals": number,
-      "ltv": number,
-      "liquidation_threshold": number,
-      "liquidation_bonus": number,
-      "active": boolean,
-      "frozen": boolean,
-      "variable_borrowing_enabled": boolean,
-      "stable_borrowing_enabled": boolean,
-      "reserve_factor": number,
-      "token_balance": BalanceInfo,
-      "atoken_balance": BalanceInfo,
-      "stable_debt_balance": BalanceInfo,
-      "variable_debt_balance": BalanceInfo,
-      "available_liquidity": BalanceInfo,
-      "total_stable_debt": BalanceInfo,
-      "total_variable_debt": BalanceInfo,
-      "total_supply": BalanceInfo,
-      "borrow_cap": BalanceInfo,
-      "supply_cap": BalanceInfo,
-      "utilization_rate": number,
-      "supply_apy": number,
-      "variable_borrow_apy": number,
-      "stable_borrow_apy": number,
-      "use_as_collateral_enabled": boolean,
-      "price_weibars": string,
-      "price_usd_wad": string,
-      "price_usd_display": string
+      "name": string, //Name of the reserve currency.
+      "symbol": string, // The symbol for the reserve currency.
+      "coingecko_id": string, //The CoinGecko ID associated with reserve token. Useful to 3rd party external wishing to lookup reserve prices without having to call the Supra Oracle.
+      "hts_address": string, //The Native Hedera HTS address of the currency.
+      "evm_address": string, //The EVM 20byte address for the currency.
+      "atoken_address": string, //The EVM ERC20 address for the corresponding aToken for the reserve currency.
+      "stable_debt_address": string, //The EVM ERC20 address for the corresponding stable debt for the reserve currency.
+      "variable_debt_address": string, //The EVM ERC20 address for the corresponding variable debt for the reserve currency.
+      "protocol_treasury_address": string, //The address of the treasury that receives the protocol's interest reserve payments.
+      "decimals": number, //The native number of decimals of the currency.
+      "ltv": number, //Loan-to-Value (LTV) of the reserve currency.
+      "liquidation_threshold": number, //The liquidation Threshold for the reserve currency.
+      "liquidation_bonus": number, //The liquidation bonus of the reserve currency.
+      "active": boolean, //The active state of the reserve currency.
+      "frozen": boolean, //The frozen state of the reserve currency.
+      "variable_borrowing_enabled": boolean, //The variable borrowing state of the reserve currency.
+      "stable_borrowing_enabled": boolean, //The stable rate borrowing state of the reserve currency.
+      "reserve_factor": number, //The reserve factor.
+      "token_balance": BalanceInfo, //The current balance information for the account’s holdings of the reserve token.
+      "atoken_balance": BalanceInfo, //The amount of token this account supplied to the liquidity pool contract.
+      "stable_debt_balance": BalanceInfo, //The amount of stable rate debt this account has accumulated.
+      "variable_debt_balance": BalanceInfo, //The amount of variable rate debt this account has accumulated.
+      "available_liquidity": BalanceInfo, //The total system wide liquidity available for this token.
+      "total_stable_debt": BalanceInfo, //The total system wide stable debt for this token.
+      "total_variable_debt": BalanceInfo, //The total system wide variable debt for this token.
+      "total_supply": BalanceInfo, //The sum total of all supplied value of this token across all accounts.
+      "borrow_cap": BalanceInfo, //The total system wide borrow limit for this token.
+      "supply_cap": BalanceInfo, //The total system wide supply limit for this token.
+      "utilization_rate": number, //The total system utilization of supplied token as a percentage.
+      "supply_apy": number, //The current supply APY yield in percent.
+      "variable_borrow_apy": number, //The current variable borrow APY cost in percent.
+      "stable_borrow_apy": number, //The current stable borrow APY cost in percent.
+      "use_as_collateral_enabled": boolean, //If true, the supplied balance of this token can be used by account as Collateral for borrowing purposes.
+      "price_weibars": string, //The current market price in weibars (hex encoded binary integer)
+      "price_usd_wad": string, //The equivalent USD price value in WAD (hex encoded binary integer)
+      "price_usd_display": string //The equivalent USD price value for display purposes (string lossy representation).
     }
   ],
-  "user_credit": {
-    "hbar_balance": BalanceInfo,
-    "total_supply": BalanceInfo,
-    "total_collateral": BalanceInfo,
-    "total_debt": BalanceInfo,
-    "credit_limit": BalanceInfo,
-    "liquidation_ltv": number,
-    "current_ltv": number,
-    "max_ltv": number,
-    "health_factor": number,
-    "average_supply_apy": number,
-    "average_borrow_apy": number,
-    "average_net_apy": number
+  "user_credit": { //Additional credit information attributed to the account in question.
+    "hbar_balance": BalanceInfo, //The current account’s native crypto balance.
+    "total_supply": BalanceInfo, //The total amount of value this account has supplied across reserve currencies, normalized to value in hbar.
+    "total_collateral": BalanceInfo, //The sum total amount of supply that is enabled as collateral, normalized in hbar.
+    "total_debt": BalanceInfo, //The sum total amount of account debt, normalized in hbar.
+    "credit_limit": BalanceInfo, //The remaining value that this account may borrow, normalized in hbar.
+    "liquidation_ltv": number, //Loan to Value threshold at which the borrower can be liquidated.
+    "current_ltv": number, //The average loan to value position of this account.
+    "max_ltv": number, //Loan-to-Value (LTV) allowed.
+    "health_factor": number, //Acocunt’s health factor.
   },
-  "timestamp": string
+  "timestamp": string //The consensus timestamp this information was generated.
 }
 ```
 
@@ -158,10 +158,10 @@ Get a list of all accounts with outstanding debt.
 
 ```typescript
 {
-  "chain_id": string,
-  "network_name": string,
+  "chain_id": string, //The EIP155 identifier of the hedera network used to create Ethereum transactions.
+  "network_name": string, //The name identifier of the hedera network compatible with forNetwork and other native SDK toolkits.
   "debtors": string[],  // Array of EVM addresses
-  "timestamp": string
+  "timestamp": string //The consensus timestamp this information was generated.
 }
 ```
 
@@ -183,20 +183,20 @@ GET /market
 
 ```typescript
 {
-  "chain_id": string,
-  "network_name": string,
-  "reserves": [
+  "chain_id": string, //The EIP155 identifier of the hedera network used to create Ethereum transactions.
+  "network_name": string, //The name identifier of the hedera network compatible with forNetwork and other native SDK toolkits.
+  "reserves": [ //A list of reserve currencies and their global statistics:
     {
-      "id": number,
-      "name": string,
-      "symbol": string,
-      "coingecko_id": string,
-      "hts_address": string,
-      "evm_address": string,
+      "id": number, //The ID of the reserve currency (typically the index of the currency in the pool’s internal list of reserve currencies.)
+      "name": string, //Name of the reserve currency.
+      "symbol": string, //The symbol for the reserve currency.
+      "coingecko_id": string, //The CoinGecko ID associated with reserve token. Useful to 3rd party external wishing to lookup reserve prices without having to call the Supra Oracle.
+      "hts_address": string, //The Native Hedera HTS address of the currency.
+      "evm_address": string, //The EVM 20byte address for the currency/
       // ... same as reserves object in dashboard endpoint
     }
   ],
-  "timestamp": string
+  "timestamp": string //The consensus timestamp this information was generated.
 }
 ```
 
@@ -212,34 +212,34 @@ GET /stats
 
 ```typescript
 {
-  "chain_id": string,
-  "network_name": string,
-  "total_supply_value": BalanceInfo,
-  "total_borrowed_value": BalanceInfo,
-  "total_liquidity_value": BalanceInfo,
-  "total_deposits_count": number,
-  "total_withdraws_count": number,
-  "total_borrows_count": number,
-  "total_repays_count": number,
-  "total_enable_collateral_count": number,
-  "total_disable_collateral_count": number,
-  "total_flash_loan_count": number,
-  "total_flash_loan_fees": BalanceInfo,
-  "total_liquidations_count": number,
-  "total_liquidation_payoffs": BalanceInfo,
-  "total_liquidation_rewards": BalanceInfo,
-  "total_liquidation_bonuses": BalanceInfo,
-  "total_protocol_fees": BalanceInfo,
-  "total_interest_earned": BalanceInfo,
-  "total_gas_consumed": number,
-  "total_gas_charged": number,
-  "total_network_fees": number,
-  "total_successful_transactions": number,
-  "total_failed_transactions": number,
-  "active_users": string[],
+  "chain_id": string, //The EIP155 identifier of the hedera network used to create Ethereum transactions.
+  "network_name": string, //The name identifier of the hedera network compatible with forNetwork and other native SDK toolkit
+  "total_supply_value": BalanceInfo, //The total amount of reserves supplied to the entire system, normalized in hBar value.
+  "total_borrowed_value": BalanceInfo, //The total amount of reserves borrowed from the entire system, normalized in hBar value.
+  "total_liquidity_value": BalanceInfo, //The total amount of supplied reserves minus borrowed, normalized in hBar value.
+  "total_deposits_count": number, //Total number of deposits that occurred in the past 24-hour period.
+  "total_withdraws_count": number, //Total number of withdrawals that occurred in the past 24-hour period.
+  "total_borrows_count": number, //Total number of borrowings that occurred in the past 24-hour period.
+  "total_repays_count": number, //Total number of repayments that occurred in the past 24-hour period.
+  "total_enable_collateral_count": number, //Total number of times an account approved a deposit can be used as collateral in the past 24-hour period.
+  "total_disable_collateral_count": number, //Total number of times an account removed a deposit as collateral in the past 24-hour period.
+  "total_flash_loan_count": number, //Total count of flash loans executed in the past 24-hour period.
+  "total_flash_loan_fees": BalanceInfo, //Total value of flash loan fees paid to the protocol in the past 24-hour period.
+  "total_liquidations_count": number, //Total count of loan liquidations in the past 24-hour period.
+  "total_liquidation_payoffs": BalanceInfo, //Total value of loans paid off via liquidations in the past 24-hour period.
+  "total_liquidation_rewards": BalanceInfo, //Total value of collateral rewarded to liquidators in the past 24-hour period.
+  "total_liquidation_bonuses": BalanceInfo, //Total value of the portion of collateral rewarded to liquidators that is considered the bonus value (value in excess of payoff value) in the past 24-hour  period.
+  "total_protocol_fees": BalanceInfo, //Total value of fees collected by the protocol in the past 24-hour period.
+  "total_interest_earned": BalanceInfo, //Total value of interest earned by liquidity suppliers in the past 24-hour period.
+  "total_gas_consumed": number, //Total value of gas consumed by the Hedera EVM all protocol activity in the past 24-hour period.
+  "total_gas_charged": number, //Total value of gas charged by the Hedera Network to execute the protocol activities in the past 24-hour period, this value may exceed the total gas consumed due to the nature of how hedera manages EVM gas authorizations.
+  "total_network_fees": number, //Total native hedera fees beyond gas fees charged to execute protocol activities in the past 24-hour period.
+  "total_successful_transactions": number, //Count of all successful transactions submitted to the protocol in the past 24-hour period.
+  "total_failed_transactions": number, //Count of transactions submitted to the protocol that failed to execute in the past 24-hour period.
+  "active_users": string[], //A array list of accounts (EVM 20byte addresses) that have interacted with the protocol in the past 24-hour period.
   "reserves": [...],  // Same as market endpoint
-  "timestamp_start": string,
-  "timestamp_end": string
+  "timestamp_start": string, //The consensus timestamp at the beginning of this 24-hour period.
+  "timestamp_end": string //The consensus timestamp at the end of this 24-hour period.
 }
 ```
 
@@ -255,15 +255,15 @@ GET /info
 
 ```typescript
 {
-  "chain_id": string,
-  "network_name": string,
-  "mirror_node": string,
-  "lending_pool_address": string,
-  "price_oracle_address": string,
-  "protocol_data_provider_address": string,
-  "lending_pool_configurator_address": string,
-  "whbar_hts_address": string,
-  "whbar_evm_address": string,
+  "chain_id": string, //The EIP155 identifier of the hedera network used to create Ethereum transactions.
+  "network_name": string, //The name identifier of the hedera network compatible with forNetwork and other native SDK toolkits.
+  "mirror_node": string, //The upstream mirror node this system relies upon to retrieve information from the hedera network.
+  "lending_pool_address": string, //Address of the lending pool contract, the providing the lending and borrowing interfaces.
+  "price_oracle_address": string, //Address of the price oracle contract, the contract the protocol relies upon for current market prices.
+  "protocol_data_provider_address": string, //Address of the protocol data provider contract, this is the root contract upon which all other information regarding the protocol, pools, reserves and oracles can be obtained.
+  "lending_pool_configurator_address": string, //The configuration module for the protocol.  Monitoring events from this contract can alert applications of changes in the protocol configuration.
+  "whbar_hts_address": string, //The Native Hedera HTS address of the token wrapping native hbar crypto.
+  "whbar_evm_address": string, //The EVM 20byte address for the address of the token wrapping native hbar crypto.
   "reserves": [...]  // Basic reserve configuration info
 }
 ```
@@ -284,23 +284,23 @@ GET /bonzo
 
 ```typescript
 {
-  "chain_id": string,
-  "network_name": string,
-  "token_id": string,
-  "symbol": string,
-  "name": string,
-  "memo": string,
-  "total_supply": string,
-  "circulating_supply": string,
-  "decimals": number,
-  "treasuries": [
+  "chain_id": string, //The EIP155 identifier of the hedera network used to create Ethereum transactions.
+  "network_name": string, //The name identifier of the hedera network compatible with forNetwork and other native SDK toolkits.
+  "token_id": string, //The native hedera address for the BONZO token.
+  "symbol": string, //The string symbol representing the token.
+  "name": string, //The name of the token.
+  "memo": string, //The memo record associated with the token.
+  "total_supply": string, //The total minted supply of the token, in smallest denomination.
+  "circulating_supply": string, //The circulating supply of the token, in smallest denomination.
+  "decimals": number, //The number of decimals associated with the token.
+  "treasuries": [ //A list of Hedera accounts that make up the various identified treasuries of $BONZO; the balances held by these accounts do not count towards circulating supply.
     {
-      "address": string,
-      "name": string,
-      "balance": string
+      "address": string, //The native Hedera address of the treasury account.
+      "name": string, //The name of the treasury.
+      "balance": string //The balance of token held by the treasury, in smallest denomination.
     }
   ],
-  "timestamp": string
+  "timestamp": string //The consensus timestamp this information was generated.
 }
 ```
 
