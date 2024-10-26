@@ -1,4 +1,4 @@
-# 💻 Bonzo v1 Data API
+# 📊 Bonzo v1 Data API
 
 The Bonzo Data API provides comprehensive access to lending pool market statistics and individual account information for the Bonzo Finance protocol. This documentation will help you integrate with our API endpoints and access real-time lending and borrowing data.
 
