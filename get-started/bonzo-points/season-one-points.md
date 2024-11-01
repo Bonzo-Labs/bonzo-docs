@@ -2,7 +2,7 @@
 
 After the [pre-season](pre-season-points-airdrop.md) has concluded and the Bonzo Finance protocol launches on mainnet, season one will begin.&#x20;
 
-Cumulative point earnings are used to inform claimable $BONZO at the end of a every season; each lasts for 3 months and there are 3 seasons in total.
+Cumulative point earnings are used to inform claimable $BONZO at the end of a every season; each lasts for 6 months and there are 3 seasons in total.
 
 Points earnings are based on the dollar value of assets supplied to and borrowed from the protocol on a 24 hour basis. All assets supported by Bonzo Finance are eligible for earning points; the full list of assets supported by Bonzo Finance can be found on the [Bonzo Finance homepage](https://bonzo.finance/).
 
