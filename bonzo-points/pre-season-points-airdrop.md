@@ -7,7 +7,7 @@ The [token-weighted airdrop of points](https://app.bonzo.finance/points) in pre-
 * Non-linear token-weighted distribution of points
 * Unique regression curve per each asset (made available in the documentation)
 * Leaderboard and earnings updated every 24 hours in [Bonzo Finance](https://app.bonzo.finance/points) app
-* Accumulated points determine $BONZO token claims post-Token Generation Event (TGE)
+* Accumulated points determine $BONZO token claims at the Token Generation Event (TGE)
 * TGE occurs within 3 months of Bonzo Finance mainnet launch
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>

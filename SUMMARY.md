@@ -15,3 +15,7 @@
 * [🔒 Security & Audits](security-and-audits.md)
 * [❓ FAQ & Support](faq-and-support.md)
 * [⚖️ Disclaimer](disclaimer.md)
+* [⏮️ V1 Tokenomics Archive](v1-tokenomics-archive/README.md)
+  * [V1 $BONZO Allocations (Archive)](v1-tokenomics-archive/v1-usdbonzo-allocations-archive.md)
+  * [V1 $BONZO Unlock Schedule (Deprecated)](v1-tokenomics-archive/v1-usdbonzo-unlock-schedule-deprecated.md)
+  * [V1 NFT Collectibles (Deprecated)](v1-tokenomics-archive/v1-nft-collectibles-deprecated.md)
