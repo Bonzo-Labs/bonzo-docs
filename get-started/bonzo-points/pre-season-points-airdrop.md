@@ -1,13 +1,13 @@
 # Pre-Season Points Airdrop
 
-The [token-weighted airdrop of points](https://app.bonzo.finance/points) in pre-season kicks off on **Friday, September 13th at 4:00pm ET**, starting with a snapshot of holders and amounts of assets in the program. The first distribution of Bonzo Points will be made on **Monday, September 16th** for the $HBARX asset and continue every other business day with a new points airdrop for every HTS asset supported by the program.
+The [token-weighted airdrop of points](https://app.bonzo.finance/points) in pre-season kicked off on **Friday, September 13th at 4:00pm ET**, starting with a snapshot of holders and amounts of assets in the program. The first distribution of Bonzo Points will be made on **Monday, September 16th** for the $HBARX asset and continue every other business day with a new points airdrop for every HTS asset supported by the program.
 
 ### **Key Points**
 
 * Non-linear token-weighted distribution of points
 * Unique regression curve per each asset (made available in the documentation)
 * Leaderboard and earnings updated every 24 hours in [Bonzo Finance](https://app.bonzo.finance/points) app
-* Accumulated points determine $BONZO token claims post-Token Generation Event (TGE)
+* Accumulated points determine $BONZO token claims at the Token Generation Event (TGE)
 * TGE occurs within 3 months of Bonzo Finance mainnet launch
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
