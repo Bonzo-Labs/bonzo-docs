@@ -24,7 +24,7 @@ Once all 400,000,000 $BONZO tokens have entered circulation, the token allocatio
 
 ## Token Genesis Allocation
 
-Shortly after mainnet launch of the Bonzo Finance protocol, 10.39791% of the max supply (\~41,591,641 $BONZO) will enter circulation and be distributed as follows:
+Shortly after mainnet launch of the Bonzo Finance protocol, 17.08125175% of the max supply (\~68,325,007 $BONZO) will enter circulation and be distributed as follows:
 
 <table><thead><tr><th width="190" align="center">Category</th><th width="226" align="center">Total Amount</th><th align="center">% of Max Supply</th></tr></thead><tbody><tr><td align="center"><strong>Community</strong></td><td align="center">~36,708,339</td><td align="center">9.17708475%</td></tr><tr><td align="center"><strong>Investor</strong></td><td align="center">~2,333,333</td><td align="center">0.58333325%</td></tr><tr><td align="center"><strong>Ecosystem Development</strong></td><td align="center">~24,666,667</td><td align="center">6.16666675%</td></tr><tr><td align="center"><strong>Core Development</strong></td><td align="center">~2,777,777</td><td align="center">0.6944445%</td></tr><tr><td align="center"><strong>DAO Treasury</strong></td><td align="center">~1,838,890</td><td align="center">0.4597225%</td></tr></tbody></table>
 
