@@ -29,6 +29,6 @@ const chainData = {
 };
 ```
 
-#### 3. Set Up Environment Variables
+### 3. Set Up Environment Variables
 
 Ensure your **`.env`** file contains all necessary variables, as shown in the [Prerequisites](environment-setup.md) section.
