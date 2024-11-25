@@ -28,7 +28,7 @@ The testnet instance of Bonzo Finance is available on desktop web browsers and m
 3. Navigate to the "DAPPS" tab in the wallet and enter [https://testnet.bonzo.finance/](https://testnet.bonzo.finance/) into the `Load custom dapp URL` field at the top of the section and press the `Load` button.
 4. You'll be directed to connect your HashPack testnet wallet to the Bonzo Finance testnet dashboard.\
    \
-   _**Note: Once the Bonzo Finance application is live on mainnet, it will receive a dapp listing in HashPack.**_
+   &#xNAN;_**Note: Once the Bonzo Finance application is live on mainnet, it will receive a dapp listing in HashPack.**_
 
 ### 🪙 Get Testnet HTS Assets ($HBARX, $SAUCE, $XSAUCE, $USDC, $KARATE)
 
