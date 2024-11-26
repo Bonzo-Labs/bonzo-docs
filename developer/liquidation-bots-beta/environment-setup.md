@@ -1,5 +1,14 @@
 # Environment Setup
 
+## Prerequisites
+
+Before we begin, make sure you have the following:
+
+* **Basic understanding** of Solidity, Hardhat, and JavaScript/TypeScript.
+* **Node.js and npm** installed on your machine.
+* [**HashPack**](https://hashpack.app) or another wallet configured for the Hedera network.
+* **Hedera testnet** account credentials.
+
 ### 1. Clone the Repository
 
 First, clone the repository containing the smart contract and script:

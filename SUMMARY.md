@@ -39,7 +39,8 @@
 
 * [📊 Bonzo v1 Data API](developer/bonzo-v1-data-api.md)
 * [📜 Contract Deployments](developer/contract-deployments.md)
-* [💸 Liquidation Bots (Beta)](developer/liquidation-bots-beta/README.md)
+* [🤖 Liquidation Bots (Beta)](developer/liquidation-bots-beta/README.md)
+  * [🛸 SaucerSwap DEX](developer/liquidation-bots-beta/saucerswap-dex.md)
   * [Environment Setup](developer/liquidation-bots-beta/environment-setup.md)
   * [Liquidator Contract](developer/liquidation-bots-beta/liquidator-contract.md)
   * [Configuring Hardhat](developer/liquidation-bots-beta/configuring-hardhat.md)
