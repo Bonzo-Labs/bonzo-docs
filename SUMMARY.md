@@ -21,7 +21,7 @@
   * [Hedera Wallet Setup](get-started/hedera-usdhbar/hedera-wallet-setup.md)
   * [Obtaining $HBAR](get-started/hedera-usdhbar/obtaining-usdhbar.md)
   * [Bridging Assets](get-started/hedera-usdhbar/bridging-assets.md)
-* [🖼️ Bonzo NFT Collectables](get-started/bonzo-nft-collectables.md)
+* [🖼️ Bonzo NFT Collectables](get-started/bonzo-nft-collectables/README.md)
   * [1st Edition Bonzo NFTs](get-started/bonzo-nft-collectables/1st-edition-bonzo-nfts.md)
   * [Cybernetic NFT](get-started/bonzo-nft-collectables/cybernetic-nft.md)
   * [Ownership & License Terms](get-started/bonzo-nft-collectables/ownership-and-license-terms.md)
@@ -32,7 +32,7 @@
 
 ## CONTRIBUTORS
 
-* [🐵 Team](contributors/bonzo-labs-team.md)
+* [🐵 Team](contributors/team.md)
 * [👷 Careers](contributors/careers.md)
 * [🎉 Community](contributors/community.md)
 
