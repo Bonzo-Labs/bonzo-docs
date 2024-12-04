@@ -12,35 +12,19 @@ layout:
     visible: true
 ---
 
-# 🖼️ NFT Collectibles
+# 1st Edition Bonzo NFTs
 
 ## Bonzo NFT Collectibles
 
 Bonzo NFT Collectibles can now be purchased on secondary NFT marketplaces across the Hedera ecosystem, such as [SentX](https://sentx.io/nft-marketplace/creators/bonzo-finance) and [Kabila](https://market.kabila.app/en/collections).
 
-<div>
-
-<figure><img src=".gitbook/assets/1desert.jpg" alt=""><figcaption><p>Desert Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6178137">0.0.6178137</a></p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/2ocean.jpg" alt=""><figcaption><p>Ocean Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6178141">0.0.6178141</a></p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/3space.jpg" alt=""><figcaption><p>Space Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6178143">0.0.6178143</a></p></figcaption></figure>
-
- 
-
-<figure><img src=".gitbook/assets/4singularity.jpg" alt=""><figcaption><p>Singularity Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6173820?p=1&#x26;k=1">0.0.6173820</a></p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/1desert.jpg" alt=""><figcaption><p>Desert Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6178137">0.0.6178137</a></p></figcaption></figure> <figure><img src="../.gitbook/assets/2ocean.jpg" alt=""><figcaption><p>Ocean Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6178141">0.0.6178141</a></p></figcaption></figure> <figure><img src="../.gitbook/assets/3space.jpg" alt=""><figcaption><p>Space Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6178143">0.0.6178143</a></p></figcaption></figure> <figure><img src="../.gitbook/assets/4singularity.jpg" alt=""><figcaption><p>Singularity Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.6173820?p=1&#x26;k=1">0.0.6173820</a></p></figcaption></figure></div>
 
 ## **🪙  Distribution of $BONZO tokens**
 
 * Accounts holding Bonzo NFT Collectibles are eligible to receive airdrop distributions of $BONZO. The distribution schedule of $BONZO tokens to NFT holders is found in the table below.
 * Prior to each distribution, a snapshot will be taken to determine which accounts are holding a Bonzo NFT Collectible.
-* The dates and times of these snapshots will be communicated through the official Bonzo Finance [𝕏](https://www.x.com/bonzo\_finance) and [Discord](https://bonzo.finance/discord).&#x20;
+* The dates and times of these snapshots will be communicated through the official Bonzo Finance [𝕏](https://www.x.com/bonzo_finance) and [Discord](https://bonzo.finance/discord).&#x20;
 * In order to best serve the health of the Bonzo Finance protocol and needs of the Bonzo Finance community, the distribution dates and fractional amounts per distribution are subject to change. Regardless of these changes, holders of Bonzo Finance NFTs upon snapshot(s) will receive the guaranteed amount of $BONZO tokens per NFT no later than 12 months post-TGE (token generation event).
 
 <table><thead><tr><th width="204"></th><th width="252">Distribution Date(s)</th><th>Amount</th></tr></thead><tbody><tr><td><strong>Distribution #1</strong></td><td>Upon TGE  (token generation event) <br>[no later than 3 months after mainnet launch of the Bonzo Finance protocol]</td><td>75% of "claimable" $BONZO per NFT</td></tr><tr><td><strong>Distribution #2</strong></td><td>End of Season 2 points<br>[May 31 2025]</td><td>25% of "claimable" $BONZO per NFT</td></tr></tbody></table>
