@@ -1,14 +1,16 @@
 # Season One Points
 
-Season one of the Bonzo Points program has officially started with the launch of Bonzo Finance on mainnet. Point earnings convert to claimable $BONZO at the end of a every points season, each lasting \~3 months, with three seasons in total.
+### **Bonzo Points Season Dates & Earnings**
 
-**The first season of Bonzo Points will end in February 2025 with a specific date to be announced.**&#x20;
+Season one of the Bonzo Points program has officially started with the launch of Bonzo Finance on mainnet. Point earnings convert to claimable $BONZO at the end of a every points season. The start and end dates for each season are found in the table below:
 
-Points earnings are based on the dollar value of assets supplied to and borrowed from the protocol, distributed on a 24 hour basis — supported assets of the protocol can be found on the [Bonzo Finance homepage](https://bonzo.finance/).
+<table><thead><tr><th width="138">Season</th><th width="226">Start</th><th>End</th></tr></thead><tbody><tr><td>1</td><td>TGE (Oct 28 2024)</td><td>February 28 2025</td></tr><tr><td>2</td><td>March 1 2025</td><td>May 31 2025</td></tr><tr><td>3</td><td>June 1 2025</td><td>August 31 2025</td></tr></tbody></table>
+
+Points earnings are based on the dollar value of assets supplied to and borrowed from the protocol, distributed on a 24 hour basis — supported assets of the protocol can be found on [Bonzo Finance.](https://app.bonzo.finance)
 
 Details of points earning calculations for season one are found in the table below:
 
-<table data-header-hidden><thead><tr><th width="191"></th><th width="277"></th><th></th></tr></thead><tbody><tr><td></td><td><strong>Mainnet Launch</strong></td><td><strong>Once Borrowing is Enabled</strong></td></tr><tr><td><strong>Supply Points</strong></td><td>4 points per $1 USD of token value supplied every 24 hours</td><td>2 points per $1 USD of token value supplied every 24 hours</td></tr><tr><td><strong>Borrow Points</strong></td><td>(<em>Borrowing disabled)</em></td><td>8 points per $1 USD of token value borrowed every 24 hours</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="161"></th><th width="270"></th><th></th></tr></thead><tbody><tr><td></td><td><strong>Mainnet Launch</strong> <br><em>(Supply only until TGE)</em></td><td><strong>After Token Generation Event (TGE)</strong> <em>(Borrowing enabled)</em></td></tr><tr><td><strong>Supply Points</strong></td><td>4 points / $1 USD of token value</td><td>2 points / $1 USD of token value</td></tr><tr><td><strong>Borrow Points</strong></td><td>(<em>Borrowing disabled)</em></td><td>8 points / $1 USD of token value</td></tr></tbody></table>
 
 ### **1st Edition Bonzo NFT Points Multiplier**
 
@@ -35,18 +37,6 @@ The Bonzo Cybernetic NFT Collectible features a 1.05x points multiplier, stackab
 **The multiplier applied to point earnings is based on the number of Bonzo Cybernetic NFTs stacked on both themselves and 1st Edition Bonzo NFTs for a maximum multiplier of 2.0x.  Please see the table below for an example.**
 {% endhint %}
 
-| NFT Type                | Points Multiplier | Running Total Multiplier |
-| ----------------------- | ----------------- | ------------------------ |
-| 1st Edition Singularity | 1.5x              | 1.5x                     |
-| Cybernetic NFT #1       | 1.05x             | 1.55x                    |
-| Cybernetic NFT #2       | 1.05x             | 1.60x                    |
-| Cybernetic NFT #3       | 1.05x             | 1.65x                    |
-| Cybernetic NFT #4       | 1.05x             | 1.7x                     |
-| Cybernetic NFT #5       | 1.05x             | 1.75x                    |
-| Cybernetic NFT #6       | 1.05x             | 1.8x                     |
-| Cybernetic NFT #7       | 1.05x             | 1.85x                    |
-| Cybernetic NFT #8       | 1.05x             | 1.9x                     |
-| Cybernetic NFT #9       | 1.05x             | 1.95x                    |
-| Cybernetic NFT #10      | 1.05x             | 2.0x                     |
+<table><thead><tr><th width="251">NFT Type</th><th width="264">Points Multiplier</th><th>Running Total Multiplier</th></tr></thead><tbody><tr><td>1st Edition Singularity</td><td>1.5x</td><td>1.5x</td></tr><tr><td>Cybernetic NFT #1</td><td>1.05x</td><td>1.55x</td></tr><tr><td>Cybernetic NFT #2</td><td>1.05x</td><td>1.60x</td></tr><tr><td>Cybernetic NFT #3</td><td>1.05x</td><td>1.65x</td></tr><tr><td>Cybernetic NFT #4</td><td>1.05x</td><td>1.7x</td></tr><tr><td>Cybernetic NFT #5</td><td>1.05x</td><td>1.75x</td></tr><tr><td>Cybernetic NFT #6</td><td>1.05x</td><td>1.8x</td></tr><tr><td>Cybernetic NFT #7</td><td>1.05x</td><td>1.85x</td></tr><tr><td>Cybernetic NFT #8</td><td>1.05x</td><td>1.9x</td></tr><tr><td>Cybernetic NFT #9</td><td>1.05x</td><td>1.95x</td></tr><tr><td>Cybernetic NFT #10</td><td>1.05x</td><td>2.0x</td></tr></tbody></table>
 
 <figure><img src="../../.gitbook/assets/CyberneticBonzo (1).png" alt="" width="188"><figcaption><p>Cybernetic Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.7743905">0.0.7743905</a></p></figcaption></figure>
