@@ -26,7 +26,7 @@ Details of points earning calculations for season one are found in the table bel
 
 ### **1st Edition Bonzo NFT Points Multiplier**
 
-Every [1st Edition Bonzo NFT](broken-reference) comes with a "Bonzo Points" multiplier that automatically multiplies points earned each day during season one, giving you an extra edge in the race to the top of the leaderboard.
+Every [1st Edition Bonzo NFT](../bonzo-nft-collectibles/1st-edition-bonzo-nfts.md) comes with a "Bonzo Points" multiplier that automatically multiplies points earned each day during season one, giving you an extra edge in the race to the top of the leaderboard.
 
 {% hint style="info" %}
 **The multiplier applied to point earnings is based on the single highest tier 1st Edition Bonzo NFT held in the same account receiving points.**
@@ -43,7 +43,7 @@ Make sure your NFTs are held during snapshot periods to lock in these rewards an
 
 ### **Cybernetic NFT Points Multiplier(s)**
 
-The Bonzo Cybernetic NFT Collectible features a 1.05x points multiplier, stackable on itself and 1st Edition Bonzo NFT Collectibles held in the account receiving points. This multiplier is active until the Cybernetic NFT is [burned for $BONZO](broken-reference), with a total stacking cap of 2.0x.
+The Bonzo Cybernetic NFT Collectible features a 1.05x points multiplier, stackable on itself and 1st Edition Bonzo NFT Collectibles held in the account receiving points. This multiplier is active until the Cybernetic NFT is [burned for $BONZO](../bonzo-nft-collectibles/cybernetic-nft.md#distribution-of-usdbonzo-tokens), with a maximum stacking cap of 2.0x.
 
 {% hint style="info" %}
 **The multiplier applied to point earnings is based on the number of Bonzo Cybernetic NFTs stacked on both themselves and 1st Edition Bonzo NFTs for a maximum multiplier of 2.0x.  Please see the table below for an example.**
