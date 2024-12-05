@@ -24,15 +24,33 @@ Details of points earning calculations for season one are found in the table bel
 
 <table data-header-hidden><thead><tr><th width="161"></th><th width="270"></th><th></th></tr></thead><tbody><tr><td></td><td><strong>Mainnet Launch</strong> <br><em>(Supply only until TGE)</em></td><td><strong>After Token Generation Event (TGE)</strong> <em>(Borrowing enabled)</em></td></tr><tr><td><strong>Supply Points</strong></td><td>4 points / $1 USD of token value</td><td>2 points / $1 USD of token value</td></tr><tr><td><strong>Borrow Points</strong></td><td>(<em>Borrowing disabled)</em></td><td>8 points / $1 USD of token value</td></tr></tbody></table>
 
-### **Bonzo NFT Points Multipliers**
+### **1st Edition Bonzo NFT Points Multiplier**
 
-Make sure your NFTs are held during snapshot periods to lock in these rewards and accelerate your path to more points and $BONZO earnings. To purchase an NFT on secondary markets, please visit [SentX](https://sentx.io/nft-marketplace/creators/bonzo-finance).
+Every [1st Edition Bonzo NFT](broken-reference) comes with a "Bonzo Points" multiplier that automatically multiplies points earned each day during season one, giving you an extra edge in the race to the top of the leaderboard.
+
+{% hint style="info" %}
+**The multiplier applied to point earnings is based on the single highest tier 1st Edition Bonzo NFT held in the same account receiving points.**
+{% endhint %}
 
 * 🏜️ **Desert Bonzo**: 1.1x multiplier
 * 🌊 **Ocean Bonzo**: 1.2x multiplier
 * 🚀 **Space Bonzo**: 1.3x multiplier
 * 🌌 **Singularity Bonzo**: 1.5x multiplier
 
-Every Bonzo NFT comes with a multiplier that automatically multiplies the points earned during season one, giving you an extra edge in the race to the top of the leaderboard. The multiplier applied to point earnings is based on the single highest tier NFT held in the same account receiving points.
+Make sure your NFTs are held during snapshot periods to lock in these rewards and accelerate your path to more points and $BONZO earnings. To purchase an NFT on secondary markets, please visit [SentX](https://sentx.io/nft-marketplace/creators/bonzo-finance).
 
 <figure><img src="../.gitbook/assets/Sentx_collectibles.jpg" alt=""><figcaption></figcaption></figure>
+
+### **Cybernetic NFT Points Multiplier(s)**
+
+The Bonzo Cybernetic NFT Collectible features a 1.05x points multiplier, stackable on itself and 1st Edition Bonzo NFT Collectibles held in the account receiving points. This multiplier is active until the Cybernetic NFT is [burned for $BONZO](broken-reference), with a total stacking cap of 2.0x.
+
+{% hint style="info" %}
+**The multiplier applied to point earnings is based on the number of Bonzo Cybernetic NFTs stacked on both themselves and 1st Edition Bonzo NFTs for a maximum multiplier of 2.0x.  Please see the table below for an example.**
+{% endhint %}
+
+<table><thead><tr><th width="251">NFT Type</th><th width="264">Points Multiplier</th><th>Running Total Multiplier</th></tr></thead><tbody><tr><td>1st Edition Singularity</td><td>1.5x</td><td>1.5x</td></tr><tr><td>Cybernetic NFT #1</td><td>1.05x</td><td>1.55x</td></tr><tr><td>Cybernetic NFT #2</td><td>1.05x</td><td>1.60x</td></tr><tr><td>Cybernetic NFT #3</td><td>1.05x</td><td>1.65x</td></tr><tr><td>Cybernetic NFT #4</td><td>1.05x</td><td>1.7x</td></tr><tr><td>Cybernetic NFT #5</td><td>1.05x</td><td>1.75x</td></tr><tr><td>Cybernetic NFT #6</td><td>1.05x</td><td>1.8x</td></tr><tr><td>Cybernetic NFT #7</td><td>1.05x</td><td>1.85x</td></tr><tr><td>Cybernetic NFT #8</td><td>1.05x</td><td>1.9x</td></tr><tr><td>Cybernetic NFT #9</td><td>1.05x</td><td>1.95x</td></tr><tr><td>Cybernetic NFT #10</td><td>1.05x</td><td>2.0x</td></tr></tbody></table>
+
+<figure><img src="../.gitbook/assets/CyberneticBonzo (1).png" alt="" width="188"><figcaption><p>Cybernetic Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.7743905">0.0.7743905</a></p></figcaption></figure>
+
+sdfsf
