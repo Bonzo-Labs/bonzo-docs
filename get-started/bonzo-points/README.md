@@ -1,8 +1,8 @@
 # 🎟️ Bonzo Points
 
-Points incentive programs for protocols and networks are ubiquitous across web3 — from LayerZero, to Kamino and Marginfi on Solana, points programs have been employed across the industry to incentivize protocol growth, liquidity, and adoption, rewarding users for these activities.
+Points incentive programs for protocols and networks are ubiquitous across web3 — from LayerZero, to WalletConnect (ReOwn), and Kamino and Marginfi on Solana, points programs have been employed across the industry to incentivize protocol growth, liquidity, and adoption, rewarding users for these activities.
 
-The Bonzo Points program rewards active community members who supply liquidity to and borrow liquidity from the Bonzo Finance protocol. Earnings are based on the dollar value of supported HTS assets supplied and borrowed, and distributed on a 24 hour basis. Point earnings convert to claimable $BONZO at the end of a every points season, each lasting 6 months, with three seasons in total.
+The Bonzo Points program rewards active community members who supply liquidity to and borrow liquidity from the Bonzo Finance protocol. Point earnings are based on the dollar value of supported HTS assets supplied and borrowed, and distributed on a 24 hour basis. Point earnings are used to inform claimable $BONZO at the end of every points season, each lasting 3-4 months, with three seasons in total.
 
 In addition to the regular seasons of points, Bonzo Finance is hosting a [token weighted pre-season airdrop of points](pre-season-points-airdrop.md) for holder of HTS assets supported by Bonzo Finance.
 
