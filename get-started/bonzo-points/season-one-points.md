@@ -10,7 +10,7 @@ Points earnings are based on the dollar value of assets supplied to and borrowed
 
 Details of points earning calculations for season one are found in the table below:
 
-<table data-header-hidden><thead><tr><th width="161"></th><th width="270"></th><th></th></tr></thead><tbody><tr><td></td><td><strong>Mainnet Launch</strong> <br><em>(Supply only until TGE)</em></td><td><strong>After Borrowing Enabled</strong></td></tr><tr><td><strong>Supply Points</strong></td><td>4 points / $1 USD of token value</td><td>2 points / $1 USD of token value</td></tr><tr><td><strong>Borrow Points</strong></td><td>(<em>Borrowing disabled)</em></td><td>8 points / $1 USD of token value</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="161"></th><th width="270"></th><th></th></tr></thead><tbody><tr><td></td><td><strong>Mainnet Launch</strong> <br><em>(Supply only)</em></td><td><strong>After Borrowing Enabled</strong></td></tr><tr><td><strong>Supply Points</strong></td><td>4 points / $1 USD of token value</td><td>2 points / $1 USD of token value</td></tr><tr><td><strong>Borrow Points</strong></td><td>(<em>Borrowing disabled)</em></td><td>8 points / $1 USD of token value</td></tr></tbody></table>
 
 ### **1st Edition Bonzo NFT Points Multiplier**
 
