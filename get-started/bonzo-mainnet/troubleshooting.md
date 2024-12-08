@@ -10,7 +10,7 @@ It's still possible for errors to occur — if you've encountered an error using
 \
 **If you still experience issues, please join the official** [**Bonzo Finance Discord**](https://www.bonzo.finance/discord) **server and open a support ticket.**
 
-### **Desktop Browser + Wallet Extensions (HashPack, Kabila)**
+### **Desktop Browser + Chrome Extension (HashPack, Kabila)**
 
 1. Disconnect wallet
 2. Disconnect all Bonzo Finance wallet connection(s) \[globe icon on top right of wallet interface]
@@ -20,7 +20,7 @@ It's still possible for errors to occur — if you've encountered an error using
 6. Re-connect wallet
 7. Attempt transaction again
 
-### **Desktop Browser + Pairing String (HashPack, Kabila)**
+### **Desktop Browser + Mobile Pairing String (HashPack, Kabila)**
 
 1. Disconnect wallet
 2. Disconnect all Bonzo Finance wallet connection(s) \[globe icon on top right of wallet interface]
