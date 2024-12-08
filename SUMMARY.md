@@ -6,6 +6,7 @@
 ## GET STARTED
 
 * [🏦 Bonzo Mainnet](get-started/bonzo-mainnet/README.md)
+  * [Troubleshooting](get-started/bonzo-mainnet/troubleshooting.md)
   * [Connect Wallet](get-started/bonzo-mainnet/connect-wallet.md)
   * [Supply Assets](get-started/bonzo-mainnet/supply-assets.md)
   * [Withdraw Assets](get-started/bonzo-mainnet/withdraw-assets.md)
