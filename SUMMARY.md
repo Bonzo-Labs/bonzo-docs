@@ -54,6 +54,7 @@
 
 ## RESOURCES
 
+* [🟢 Status Page](http://status.bonzo.finance/)
 * [🎨 Brand Assets](resources/brand-assets.md)
 * [📚 Glossary](resources/glossary.md)
 * [🛡️ Audits](resources/audits.md)
