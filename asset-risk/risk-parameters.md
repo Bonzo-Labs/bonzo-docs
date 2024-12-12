@@ -1,20 +1,12 @@
-# Risk Parameters Methodology
+# Risk Parameters
 
-## From Risk Factors to Risk Parameters
-
-Using the risk score calculations from the [Risk Score per Asset](risk-score-per-asset.md) section of the documentation, we can derive risk parameters based on the following methodology.
-
-<table><thead><tr><th width="111"></th><th width="138">Loan-to-Value</th><th width="195">Liquidation Threshold</th><th width="170">Liquidation Bonus</th><th>Reserve Factor</th></tr></thead><tbody><tr><td>A Range</td><td>75% - 80%</td><td>2% (Stables) / 5% (Crypto) </td><td>5% - 7.5% (Crypto) / 2% - 3% (Stables)</td><td>20%</td></tr><tr><td>B Range</td><td>56% - 75%</td><td>3% (Stables) / 6% - 10% (Crypto)</td><td>7.5% - 10% (Crypto) / 3% - 5% (Stables)</td><td>20%</td></tr><tr><td>C Range</td><td>40% - 55%</td><td>10% - 15%</td><td>10% - 12.5%</td><td>20%</td></tr><tr><td>D Range</td><td>&#x3C; 40%</td><td>15%+</td><td>12.5-15%</td><td>20%</td></tr></tbody></table>
-
-## Risk Parameters Defined & Explained
-
-Bonzo Finance utilizes several key risk parameters configured per asset to manage the protocol's risk exposure and ensure its stability. These parameters are carefully calibrated based on various risk factors to provide optimal security for lenders while maintaining flexibility for borrowers.
+Bonzo Finance utilizes several key risk parameters configured per asset to manage the protocol's risk exposure and ensure its stability. These parameters are carefully calibrated by Ledger Works, and are based on various risk factors to provide optimal security for lenders while maintaining flexibility for borrowers.
 
 ### **Loan-to-Value (LTV)** <a href="#loan-to-value" id="loan-to-value"></a>
 
 The Loan-to-Value (LTV) ratio defines the maximum amount of currency that can be borrowed with a specific collateral. It’s expressed in percentage: at LTV=75%, for every 1 HBAR worth of collateral, borrowers will be able to borrow 0.75 HBAR worth of the corresponding currency.&#x20;
 
-* **Risk Consideration**: A lower LTV indicates a more conservative lending approach, reducing the risk of undercollateralization during market volatility.\
+* **Risk Consideration**: A lower LTV indicates a more conservative lending approach, reducing the risk of under-collateralization during market volatility.\
 
 * **Calculation:** For each connected account the maximum LTV is calculated as the weighted average of the LTVs of the collateral assets supplied and their value:
 

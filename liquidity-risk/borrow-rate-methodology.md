@@ -34,11 +34,7 @@ Variable loans see their rate constantly evolving with utilization. This means t
 
 Bonzo Finance calibrates interest rate parameters for clusters of currencies with similar risk profiles on Hedera:
 
-|                 | Optimal Utilization                                     | Slope 1   | Slope 2      |
-| --------------- | ------------------------------------------------------- | --------- | ------------ |
-| **Stablecoins** | 80-90%                                                  | 4% - 6%   | 100% - 200%  |
-| **Majors**      | 70-80% (Liquid Staking Tokens) / 60-70% (Crypto Assets) | 6% - 8%   | 100% - 200%  |
-| **Minors**      | ≤ 55%                                                   | 8% - 10%+ | 150% - 300%+ |
+<table><thead><tr><th width="148"></th><th width="214">Optimal Utilization</th><th>Slope 1</th><th>Slope 2</th></tr></thead><tbody><tr><td><strong>Stablecoins</strong></td><td>70-90%</td><td>4% - 6%</td><td>100% - 200%</td></tr><tr><td><strong>Majors</strong></td><td>70-80% (Liquid Staking Tokens) / 60-70% (Crypto Assets)</td><td>6% - 8%</td><td>100% - 200%</td></tr><tr><td><strong>Minors</strong></td><td>≤ 55%</td><td>8% - 10%+</td><td>150% - 300%+</td></tr></tbody></table>
 
 ## **Optimization for Hedera**
 
