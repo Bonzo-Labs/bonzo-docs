@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 * [Adding an Asset](asset-risk/adding-an-asset.md)
-* [Risk Score Methodology](asset-risk/risk-score-methodology.md)
+* [Ledger Works](asset-risk/ledger-works.md)
 * [Risk Score per Asset](asset-risk/risk-score-per-asset.md)
 * [Risk Parameters Methodology](asset-risk/risk-parameters-methodology.md)
 * [Risk Parameters per Asset](asset-risk/risk-parameters-per-asset.md)
