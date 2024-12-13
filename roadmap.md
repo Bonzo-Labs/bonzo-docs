@@ -6,7 +6,7 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 
 **Projects actively being developed:**
 
-* Flash loan testing & developer templates&#x20;
+* Flash loan documentation & developer templates
 * HBAR liquidity incentive smart contracts & UI updates
 
 ## 🟨 Planned for Development
