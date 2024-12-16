@@ -113,3 +113,10 @@ These are the underlying implementation contracts (proxy contracts) used by the 
 ### Asset-Specific Strategies
 
 <table><thead><tr><th width="130">Asset</th><th>Testnet Address</th><th>Mainnet Address</th></tr></thead><tbody><tr><td>SAUCE</td><td>0xd1AfE10418B06729Dd01C0B6166E436E276a0018</td><td>0x9e472c982e1D482A04F4851410F70DF5D038D0DC</td></tr><tr><td>USDC</td><td>0x6966Fe23C576f741621d894F1c5e2dfEb8da4abA</td><td>0x2b8d1b9EC23D518e0541Ed3dD3E95a5F8B7Ac55b</td></tr><tr><td>HBARX</td><td>0x96Cd2b01Dd091f91C0245A12B9345607C8256FeE</td><td>0x8d9f6dC943bb43496E0C9a75C1D89Dc17Cf5F23A</td></tr><tr><td>HBAR</td><td>0x6dE7E16877c30cA25302C6693b764c844E663Af9</td><td>0x428F8b2143b0e8df135D1154F0A2F6e14f66Aa11</td></tr><tr><td>XSAUCE</td><td>-</td><td>-</td></tr><tr><td>KARATE</td><td>-</td><td>-</td></tr><tr><td>DOVU</td><td>-</td><td>-</td></tr><tr><td>HST</td><td>-</td><td>-</td></tr><tr><td>PACK</td><td>-</td><td>-</td></tr><tr><td>STEAM</td><td>-</td><td>-</td></tr></tbody></table>
+
+### HCS-20 Points
+
+| Topic ID                                                     | Season            | Ticker ID |
+| ------------------------------------------------------------ | ----------------- | --------- |
+| [0.0.7159077](https://hashscan.io/mainnet/topic/0.0.7159077) | Pre-Season Points | BZPT      |
+| [0.0.7159077](https://hashscan.io/mainnet/topic/0.0.7159077) | Season 1 Points   | BZ\_S1    |
