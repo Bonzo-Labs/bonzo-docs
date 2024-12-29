@@ -8,7 +8,7 @@ icon: info
 Please check the **Bonzo Finance status page** to determine if any errors experienced are due to known maintenance or issues: [http://status.bonzo.finance/](http://status.bonzo.finance/)
 {% endhint %}
 
-The Bonzo Finance Labs team is regularly optimizing its front-end, squashing bugs, and implementing  feedback to ensure the best end user experience.\
+The Bonzo Finance Labs team is regularly optimizing its front-end, squashing bugs, and implementing feedback to ensure a great end user experience.\
 \
 It's still possible for errors to occur — if you've encountered an error using the Bonzo Finance front-end application, such as failing transactions,  please follow the instructions found below to remediate.\
 \
