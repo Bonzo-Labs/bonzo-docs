@@ -10,8 +10,6 @@ When market conditions change, risks change; Bonzo Finance is continuously monit
 
 <table><thead><tr><th width="134">Date</th><th width="113">Asset</th><th width="194">Parameter Changed</th><th>From</th><th>To</th></tr></thead><tbody><tr><td>12/27/2024</td><td>$KARATE</td><td>Optimal Utilization<br>Slope 2</td><td>70%<br>100%</td><td>55%<br>300%</td></tr></tbody></table>
 
-
-
 ### HBAR Interest Rate Model
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
@@ -34,7 +32,7 @@ When market conditions change, risks change; Bonzo Finance is continuously monit
 
 ### KARATE Interest Rate Model
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-12-29 at 1.40.00 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### DOVU Interest Rate Model
 
