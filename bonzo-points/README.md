@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# 🕹️ Bonzo Points
+# 🎟️ Bonzo Points
 
 Points incentive programs for protocols and networks are ubiquitous across web3 — from LayerZero, to Kamino and Marginfi on Solana, points programs have been employed across the industry to incentivize protocol growth, liquidity, and adoption, rewarding users for these activities.
 
