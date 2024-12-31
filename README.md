@@ -27,15 +27,7 @@ The Bonzo Finance protocol inherits the Hedera network's high throughput, fast t
 | 🌐  **Website**       | [https://bonzo.finance/](https://www.bonzo.finance/)                     |
 | --------------------- | ------------------------------------------------------------------------ |
 | 💻  **Documentation** | [https://docs.bonzo.finance/](https://docs.bonzo.finance/)               |
+| 🚀  Mainnet           | [https://app.bonzo.finance/](https://app.bonzo.finance/)                 |
 | 🧪  **Testnet**       | [https://testnet.bonzo.finance/](https://testnet.bonzo.finance/)         |
 | 👥  **𝕏**            | [https://x.com/bonzo\_finance/](https://www.x.com/bonzo_finance/)        |
 | 👾 **Discord**        | [https://www.bonzo.finance/Discord/](https://www.bonzo.finance/Discord/) |
-
-### Key Dates
-
-| **🧪 Testnet Launch**           | Thursday, May 2nd ✅  |
-| ------------------------------- | -------------------- |
-| **🖼️  NFT Collectibles Sale**  | Monday, June 17th ☑️ |
-| **🔒 Est. Code Freeze / Audit** | Monday, June 17th ☑️ |
-| **🚀 Est. Mainnet Launch**      | Q3 2024 ☑️           |
-
