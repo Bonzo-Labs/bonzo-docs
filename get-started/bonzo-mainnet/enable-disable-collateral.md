@@ -4,7 +4,7 @@ Enabling and disabling supplied assets as collateral allows for more nuanced con
 
 Assets supplied to Bonzo Finance are enabled as collateral by default. This means that after an asset is supplied to the protocol, users can then borrow against a percentage of the total value supplied. This percentage is called the "loan-to-value ratio (LTV)" and varies for each asset based on its individual risk profile.
 
-It's important to note that assets supplied as collateral are only susceptible to liquidation if the user is borrowing other assets against its value. If you're not borrowing, your supplied assets cannot be liquidated, even if they are enabled as collateral.
+It's important to note that assets supplied as collateral are only susceptible to liquidation if the user is borrowing other assets against its value. If you're not borrowing, your supplied assets cannot be liquidated, even if they are enabled as collateral. In addition, reward APYs continue to accrue when supplying an asset, even if it's disabled as collateral.
 
 Bonzo Finance allows users to "enable" or "disable" whether an asset supplied is used as collateral or not. There are a few reasons why a user might want to utilize this feature on a per-asset basis:
 
