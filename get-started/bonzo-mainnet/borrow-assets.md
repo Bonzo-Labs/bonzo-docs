@@ -1,9 +1,5 @@
 # Borrow Assets
 
-{% hint style="warning" %}
-Upon mainnet launch of Bonzo Finance, borrowing will be disabled until sufficient liquidity has been supplied to the protocol. This is to protect users in the protocol's infancy by preventing erratic interest rates (borrowing APY), potentially resulting in liquidations. Follow us on [𝕏](https://x.com/bonzo\_finance) and join the [Bonzo Finance Discord](https://bonzo.finance/discord) to get notified when borrowing is enabled.
-{% endhint %}
-
 After supplying assets as collateral to Bonzo Finance, users can borrow any supported asset against a percentage of the supplied collateral value, known as the "loan-to-value (LTV)" ratio.
 
 ## **Desktop**
