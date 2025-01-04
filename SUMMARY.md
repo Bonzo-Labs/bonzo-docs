@@ -14,6 +14,7 @@
   * [Borrow Assets](get-started/bonzo-mainnet/borrow-assets.md)
   * [Repay Loan](get-started/bonzo-mainnet/repay-loan.md)
   * [Dashboard Metrics Explained](get-started/bonzo-mainnet/dashboard-metrics-explained.md)
+* [💧 Liquidations](get-started/liquidations.md)
 * [🎟️ Bonzo Points](get-started/bonzo-points/README.md)
   * [Pre-Season Points Airdrop](get-started/bonzo-points/pre-season-points-airdrop.md)
   * [Season One Points](get-started/bonzo-points/season-one-points.md)
@@ -26,7 +27,6 @@
   * [1st Edition Bonzo NFTs](get-started/bonzo-nft-collectables/1st-edition-bonzo-nfts.md)
   * [Cybernetic NFT](get-started/bonzo-nft-collectables/cybernetic-nft.md)
   * [Ownership & License Terms](get-started/bonzo-nft-collectables/ownership-and-license-terms.md)
-* [💧 Liquidations](get-started/liquidations.md)
 
 ## ASSET RISK
 
