@@ -26,6 +26,7 @@
   * [1st Edition Bonzo NFTs](get-started/bonzo-nft-collectables/1st-edition-bonzo-nfts.md)
   * [Cybernetic NFT](get-started/bonzo-nft-collectables/cybernetic-nft.md)
   * [Ownership & License Terms](get-started/bonzo-nft-collectables/ownership-and-license-terms.md)
+* [💧 Liquidations](get-started/liquidations.md)
 
 ## ASSET RISK
 
