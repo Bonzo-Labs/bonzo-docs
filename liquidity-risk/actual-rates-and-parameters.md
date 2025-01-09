@@ -8,7 +8,7 @@
 
 When market conditions change, risks change; Bonzo Finance is continuously monitoring the assets integrated into the protocol, which sometimes requires quickly adapting the risk parameters. The table below tacks parameter changes over time.
 
-<table><thead><tr><th width="134">Date</th><th width="113">Asset</th><th width="194">Parameter Changed</th><th>From</th><th>To</th></tr></thead><tbody><tr><td>12/27/2024</td><td>$KARATE</td><td>Optimal Utilization<br>Slope 2</td><td>70%<br>100%</td><td>55%<br>300%</td></tr><tr><td>1/8/2025</td><td>$USDC</td><td>Optimal Utilization<br>Slope 1</td><td>70.00%<br>5%</td><td>52%<br>12%</td></tr></tbody></table>
+<table><thead><tr><th width="134">Date</th><th width="113">Asset</th><th width="194">Parameter Changed</th><th>From</th><th>To</th></tr></thead><tbody><tr><td>12/27/2024</td><td>$KARATE</td><td>Optimal Utilization<br>Slope 2</td><td>70%<br>100%</td><td>55%<br>300%</td></tr><tr><td>1/8/2025</td><td>$USDC</td><td>Optimal Utilization<br>Slope 1</td><td>70%<br>5%</td><td>52%<br>12%</td></tr></tbody></table>
 
 ### HBAR Interest Rate Model
 
