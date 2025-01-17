@@ -32,7 +32,7 @@ Bonzo Finance Labs will determine rewards based on the bug's severity and its po
 
 ### Disclosure
 
-Report vulnerabilities to [security@bonzo.finance](mailto:security@bonzo.finance). An acknowledgment will be sent within two to three business days. Do not disclose the bug publicly until it is resolved and permitted by Bonzo Finance Labs.
+Report vulnerabilities to [contact@bonzo.finance](mailto:contact@bonzo.finance). An acknowledgment will be sent within two to three business days. Do not disclose the bug publicly until it is resolved and permitted by Bonzo Finance Labs.
 
 A detailed report of a vulnerability increases the likelihood of a reward and may increase the reward amount. Please provide as much information about the vulnerability as possible, including:
 
@@ -48,7 +48,7 @@ Anyone who reports a unique, previously-unreported vulnerability that results in
 To be eligible for a reward under this program, you must meet the following conditions:
 
 1. **Uniqueness:** Discover a previously unreported, non-public vulnerability that is not already known to our team and is within the scope of the program.
-2. **First Disclosure:** Be the first to disclose the unique vulnerability to [security@bonzo.finance](mailto:security@bonzo.finance), and adhere to the program's disclosure requirements.
+2. **First Disclosure:** Be the first to disclose the unique vulnerability to [contact@bonzo.finance](mailto:contact@bonzo.finance) and adhere to the program's disclosure requirements.
 3. **Detailed Reporting:** Provide comprehensive information that enables our engineers to reproduce and remedy the vulnerability.
 4. **Non-Exploitation:** Do not exploit the vulnerability in any form, including publicizing it or seeking other forms of profit, except under this program.
 5. **Non-Publicization:** Do not disclose the vulnerability to the public or any third party without our explicit approval.
