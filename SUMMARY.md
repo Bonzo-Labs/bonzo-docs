@@ -1,23 +1,24 @@
 # Table of contents
 
-* [🏠 Overview & Resources](README.md)
-* [🏆 Team](team.md)
-* [🖼️ Bonzo NFT Collectibles](bonzo-nft-collectibles/README.md)
-  * [1st Edition Bonzo NFTs](bonzo-nft-collectibles/1st-edition-bonzo-nfts.md)
-  * [Cybernetic NFT](bonzo-nft-collectibles/cybernetic-nft.md)
-* [🪙 $BONZO Token](usdbonzo-token/README.md)
-  * [⚙️ $BONZO Utility](usdbonzo-utility.md)
-  * [🥧 $BONZO Allocations](usdbonzo-tokenomics.md)
-  * [📊 $BONZO Unlock Schedule](usdbonzo-token/usdbonzo-unlock-schedule.md)
-* [🎟️ Bonzo Points](bonzo-points/README.md)
-  * [Pre-Season Points Airdrop](bonzo-points/pre-season-points-airdrop.md)
-  * [Season One Points](bonzo-points/season-one-points.md)
-* [🗳️ Bonzo Finance DAO](bonzo-finance-dao.md)
-* [💸 Protocol Fees & Revenue](protocol-fees-and-revenue.md)
-* [🔒 Security & Audits](security-and-audits.md)
-* [❓ FAQ & Support](faq-and-support.md)
-* [⚖️ Disclaimer](disclaimer.md)
-* [⏮️ V1 Tokenomics Archive](v1-tokenomics-archive/README.md)
-  * [V1 $BONZO Allocations (Archive)](v1-tokenomics-archive/v1-usdbonzo-allocations-archive.md)
-  * [V1 $BONZO Unlock Schedule (Deprecated)](v1-tokenomics-archive/v1-usdbonzo-unlock-schedule-deprecated.md)
-  * [V1 NFT Collectibles (Deprecated)](v1-tokenomics-archive/v1-nft-collectibles-deprecated.md)
+## 🪙 Asset Risk
+
+* [Introduction](README.md)
+* [Adding an Asset](asset-risk/adding-an-asset.md)
+* [Ledger Works](asset-risk/risk-score-methodology.md)
+* [Risk Parameters](asset-risk/risk-parameters.md)
+* [Risk Parameters per Asset](asset-risk/risk-parameters-per-asset.md)
+* [Oracle Price Feeds](asset-risk/oracle-price-feeds.md)
+
+## 💸 Liquidity Risk
+
+* [Introduction](liquidity-risk/introduction.md)
+* [Historical Utilization](liquidity-risk/historical-utilization.md)
+* [Borrow Rate Methodology](liquidity-risk/borrow-rate-methodology.md)
+* [Supply Rate Methodology](liquidity-risk/supply-rate-methodology.md)
+* [Actual Rates & Parameters](liquidity-risk/actual-rates-and-parameters.md)
+* [Smart Contracts & HTS Tokens](liquidity-risk/smart-contracts-and-hts-tokens.md)
+
+## 🔐 Audits & Analysis
+
+* [Introduction](audits-and-analysis/introduction.md)
+* [Smart Contract Audit](audits-and-analysis/smart-contract-audit.md)

@@ -1,33 +1,9 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
+# Introduction
 
-# 🏠 Overview & Resources
+Asset risk is a critical component of the overall risk management framework in decentralized finance (DeFi) protocols. Bonzo Finance, a lending and borrowing protocol built on the Hedera network, assesses the risks associated with supported assets is essential to maintaining the stability and security of the protocol.
 
-The [Bonzo Finance](https://www.bonzo.finance/) protocol is an open source, non-custodial lending and borrowing protocol built on the Hedera network. It is designed to facilitate the lending and borrowing of cryptocurrencies, with a focus on HBAR, Hedera Token Service (HTS) tokens, and wrapped major assets. Bonzo prioritizes censorship resistance, security, and self-custody, enabling users to transact without reliance on trusted intermediaries.
-
-> _Suppliers provide liquidity to Bonzo Finance asset markets to earn a passive income, while borrowers are able to borrow in an overcollateralized (perpetually) or undercollateralized (a single “atomic” flash loan) fashion._
-
-Bonzo Finance is based on [Aave v2](https://docs.aave.com/developers/v/2.0) — the most utilized lending & borrowing protocol on Ethereum — and adapted to the Hedera EVM (Ethereum Virtual Machine) and native Hedera Token Service (HTS).
-
-The Bonzo Finance protocol inherits the Hedera network's high throughput, fast transaction finality, and a low, fixed, U.S. dollar-denominated fee structure. Additionally, Hedera's architecture ensures fair transaction ordering, [mitigating the risk of MEV attacks](https://hedera.com/blog/does-maximal-extractable-value-mev-exist-on-hedera) commonly seen on alternative EVM-based DeFi protocols.
-
-### Bonzo Finance Web & Community Resources
-
-| 🌐  **Website**       | [https://bonzo.finance/](https://www.bonzo.finance/)                     |
-| --------------------- | ------------------------------------------------------------------------ |
-| 💻  **Documentation** | [https://docs.bonzo.finance/](https://docs.bonzo.finance/)               |
-| 🚀  Mainnet           | [https://app.bonzo.finance/](https://app.bonzo.finance/)                 |
-| 🧪  **Testnet**       | [https://testnet.bonzo.finance/](https://testnet.bonzo.finance/)         |
-| 👥  **𝕏**            | [https://x.com/bonzo\_finance/](https://www.x.com/bonzo_finance/)        |
-| 👾 **Discord**        | [https://www.bonzo.finance/Discord/](https://www.bonzo.finance/Discord/) |
+Bonzo Finance has developed a comprehensive methodology informed by Aave's methodology for evaluating risk related to assets supported by the protocol. This assessment takes into account various factors, including market risk, liquidity risk, and smart contract risk, among others.\
+\
+By carefully analyzing these risk factors, Bonzo Finance aims to ensure that the assets supported by the protocol meet stringent safety and stability criteria. This approach helps to protect users' funds, maintain the integrity of the protocol, and promote a secure lending and borrowing environment.\
+\
+The following sections explain the specific risk assessment methodologies employed by Bonzo Finance for each category of asset risk. This documentation also covers an overview of the current assets supported by the protocol and their respective risk profiles and parameter configurations.
