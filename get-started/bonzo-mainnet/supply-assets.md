@@ -1,6 +1,6 @@
 # Supply Assets
 
-After connecting your HashPack to the Bonzo Finance protocol, you can supply any supported asset to start earning yield and [Bonzo Points](../bonzo-points/season-one-points.md).
+After connecting your HashPack to the Bonzo Finance protocol, you can supply any supported asset to start earning yield and [Bonzo Points](../../rewards-and-incentives/bonzo-points/season-one-points.md).
 
 ## **Desktop**
 

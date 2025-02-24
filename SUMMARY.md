@@ -14,20 +14,23 @@
   * [Borrow Assets](get-started/bonzo-mainnet/borrow-assets.md)
   * [Repay Loan](get-started/bonzo-mainnet/repay-loan.md)
   * [Dashboard Metrics Explained](get-started/bonzo-mainnet/dashboard-metrics-explained.md)
-* [💧 Liquidations](get-started/liquidations.md)
-* [✨ Native APYs & Incentives](get-started/native-apys-and-incentives.md)
-* [🎟️ Bonzo Points](get-started/bonzo-points/README.md)
-  * [Pre-Season Points Airdrop](get-started/bonzo-points/pre-season-points-airdrop.md)
-  * [Season One Points](get-started/bonzo-points/season-one-points.md)
 * [🧪 Bonzo Testnet](get-started/bonzo-testnet.md)
+* [💧 Liquidations](get-started/liquidations.md)
 * [🌐 Hedera ($HBAR)](get-started/hedera-usdhbar/README.md)
   * [Hedera Wallet Setup](get-started/hedera-usdhbar/hedera-wallet-setup.md)
   * [Obtaining $HBAR](get-started/hedera-usdhbar/obtaining-usdhbar.md)
   * [Bridging Assets](get-started/hedera-usdhbar/bridging-assets.md)
-* [🖼️ Bonzo NFT Collectables](get-started/bonzo-nft-collectables/README.md)
-  * [1st Edition Bonzo NFTs](get-started/bonzo-nft-collectables/1st-edition-bonzo-nfts.md)
-  * [Cybernetic NFT](get-started/bonzo-nft-collectables/cybernetic-nft.md)
-  * [Ownership & License Terms](get-started/bonzo-nft-collectables/ownership-and-license-terms.md)
+
+## Rewards & Incentives
+
+* [✨ Native APYs & Liquidity Incentives](rewards-and-incentives/native-apys-and-liquidity-incentives.md)
+* [🎟️ Bonzo Points](rewards-and-incentives/bonzo-points/README.md)
+  * [Pre-Season Points Airdrop](rewards-and-incentives/bonzo-points/pre-season-points-airdrop.md)
+  * [Season One Points](rewards-and-incentives/bonzo-points/season-one-points.md)
+* [🖼️ Bonzo NFT Collectables](rewards-and-incentives/bonzo-nft-collectables/README.md)
+  * [1st Edition Bonzo NFTs](rewards-and-incentives/bonzo-nft-collectables/1st-edition-bonzo-nfts.md)
+  * [Cybernetic NFT](rewards-and-incentives/bonzo-nft-collectables/cybernetic-nft.md)
+  * [Ownership & License Terms](rewards-and-incentives/bonzo-nft-collectables/ownership-and-license-terms.md)
 
 ## ASSET RISK
 
