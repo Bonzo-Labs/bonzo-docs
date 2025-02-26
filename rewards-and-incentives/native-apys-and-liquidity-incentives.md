@@ -1,8 +1,10 @@
-# ✨ Native APYs & Incentives
+# ✨ Native APYs & Liquidity Incentives
 
 When lending (supplying) an asset on Bonzo Finance, the asset is supplied into single-asset liquidity pool.  For example, the HBAR market consists of an HBAR liquidity pool, which everyone supplies into. Inversely, users borrowing an asset from Bonzo Finance borrow it from same single-asset liquidity pools lenders supplied into.
 
 When supplying assets to Bonzo Finance, there are two types of rewards, a "Native APY" and a "Liquidity Incentives APY" (indicated by a ✨ icon in the dashboard, next to the native APY).
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### 1. Native APY Rewards
 
