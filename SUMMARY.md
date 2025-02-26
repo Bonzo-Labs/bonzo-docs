@@ -55,6 +55,7 @@
 * [⚡ Flash Loans](developer/flash-loans.md)
 * [🔮 Oracles](developer/oracles/README.md)
   * [Supra](developer/oracles/supra.md)
+  * [Chainlink](developer/oracles/chainlink.md)
 * [👾 GitHub](developer/github.md)
 * [🐞 Bug Bounty](developer/bug-bounty.md)
 
