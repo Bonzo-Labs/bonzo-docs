@@ -6,25 +6,19 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 
 **Projects actively being developed:**
 
-* Flash loan documentation & developer templates
-* HBAR liquidity incentive smart contracts & UI updates
+* Single-sided staking for $XBONZO
 
 ## 🟨 Planned for Development
 
 **Projects planned for development:**
 
-* Bonzo Finance protocol analytics page (UI/UX + Data API integration)
-* Individual asset analytics page(s) (UI/UX + Data API integration)
-* Safety Module Staking Page
+* Discord faucet for $BONZO tokens
 
 ## 🟧 Prioritized for Development
 
 **Projects prioritized for development:**
 
-* Chainlink Oracles implementation
-* Bonzo v1 API
-* Discord faucet for mainnet $HBAR & $BONZO
-* Axelar Bridge Integration (UI/UX + Development)
+* Cross-Chain Bridging Integration for Axelar, LayerZero  (UI/UX + Development)
 
 ## 🏁 Completed
 
@@ -45,4 +39,10 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 * Liquidation bot testing & developer templates
 * DeFi Llama Adapters
 * Data API
-* WalletConnect integration (HashPack, Blade, Kaliba, MetaMask, etc.)
+* WalletConnect integration (HashPack, Kaliba, etc.)
+* HBAR liquidity incentive smart contracts & UI updates
+* Flash loan documentation & developer templates
+* CoinGecko Integration
+* Bonzo Finance protocol analytics page (UI/UX + Data API integration)
+* Individual asset analytics page(s) (UI/UX + Data API integration)
+* Chainlink Oracles implementation
