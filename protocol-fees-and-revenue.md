@@ -18,36 +18,39 @@ As a decentralized lending and borrowing protocol, Bonzo Finance is committed to
 
 ## Protocol Fees
 
-At the core of Bonzo Finance's revenue model are four key fee types: Reserve Factor Fee, Liquidation Fee, Stability Fee, and Flash Loan Fee. These fees are carefully calibrated to maintain the protocol's financial stability, mitigate risks associated with volatile assets, and cover the costs of platform operations and development.
+At the core of Bonzo Finance's fee model are four distinct fee types that work together to ensure platform sustainability, incentivize optimal behavior, and protect all participants. These carefully calibrated fees maintain the protocol's financial health, compensate liquidity providers fairly, and create the right market dynamics for long-term growth while distributing value across the ecosystem.
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+### **Borrowing Rate**
 
-As the protocol matures and adoption grows, revenue generated through the fees cited below will be used to support a variety of initiatives, such as platform enhancements, liquidity incentives, and community grants. By reinvesting in the ecosystem and fostering a strong community of stakeholders, Bonzo Finance is laying the foundation for long-term success and economic sustainability.
+The Borrowing Rate is a dynamic (variable) and annualized interest rate (APY) that borrowers pay when taking loans from the protocol. Unlike fees that primarily benefit the protocol, borrowing rates primarily flow to suppliers (lenders) who provide the liquidity being borrowed, with only a portion (the [Reserve Factor](protocol-fees-and-revenue.md#reserve-factor)) going to the protocol itself. The most up-to-date interest rate models per asset are found in the [Risk Framework](https://docs.bonzo.finance/bonzo-risk-framework/liquidity-risk/actual-rates-and-parameters) documentation.
 
-## Fee Revenue & Modeling
+* **Purpose**: To compensate suppliers for providing liquidity and to regulate market demand for borrowing based on supply and utilization
+* **Mechanism**: Dynamic rates that increase as utilization increases, incentivizing repayments during high utilization and encouraging borrowing during low utilization
+* **Calculation**: Uses a two-slope model based on utilization:
+  * When utilization < optimal: Rate = Base + (Utilization/Optimal) × Slope1
+  * When utilization ≥ optimal: Rate = Base + Slope1 + ((Utilization-Optimal)/(1-Optimal)) × Slope2
+* **Beneficiaries**: Primarily suppliers (lenders) of the asset, with a portion (Reserve Factor) going to the protocol treasury
 
-The strongest metric correlated with fee revenue for protocols based on Aave v2 is the "Total Borrows" or "Total Value Borrowed" metric. This metric represents the total value of assets borrowed from the protocol at any given time. As the total borrows increase, the protocol earns more interest through fees, leading to higher revenue.
+### **Reserve Factor**
 
-Users taking out overcollateralized loans on Bonzo Finance (with stable & variable interest rates determined by the protocol’s asset markets) are charged a **Reserve Factor Fee** and **Stability Fee**, as described below.
+The Reserve Factor Fee is a percentage of interest paid by borrowers that is allocated to the protocol's reserves and set on a per-asset basis. These reserves act as a safety buffer for the platform, creating a financial cushion that protects lenders from potential losses during market volatility or unexpected events. The most up-to-date Reserve Factor fee(s) per asset are found in the [Risk Framework](https://docs.bonzo.finance/bonzo-risk-framework/asset-risk/risk-parameters-per-asset) documentation.
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+* **Purpose**: To build a protocol safety reserve that serves as the first line of defense against shortfall events
+* **Mechanism**: A fixed percentage of all interest payments made by borrowers is automatically directed to the protocol treasury
+* **Beneficiary**: The protocol treasury, which can be used by the Bonzo Finance DAO for various purposes, including but not limited to providing rewards to Safety Module participants
 
-Additionally, through the use of uncollateralized “atomic transaction” flash loans, users are charged a Flash Loan Fee as a fixed percentage on the total value of borrowed assets.
+### **Liquidation Bonus**
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+The Liquidation Bonus (sometimes referred to as Liquidation Fee from the borrower's perspective) is applied when a borrower's collateral is liquidated due to their position falling below the required collateralization ratio. This fee is a percentage of the liquidated collateral and is paid to the liquidator as an incentive for maintaining the health of the platform. The most up-to-date Liquidation Bonus fee(s) per asset are found in the [Risk Framework](https://docs.bonzo.finance/bonzo-risk-framework/asset-risk/risk-parameters-per-asset) documentation.&#x20;
 
-The borrowing volume or the total amount of loans originated is the most relevant metric that aligns with Bonzo Finance’s primary fee structure and is the best indicator of the protocol's revenue. While other health metrics like the total value locked (TVL) or the number of active users provide insights into the platform's adoption and liquidity, they do not directly correlate with revenue generation.
+* **Purpose**: To incentivize third-party liquidators to repay at-risk loans and maintain the solvency of the protocol.
+* **Mechanism**: When a position becomes undercollateralized, liquidators can repay a portion of the debt and receive the equivalent value plus a bonus in collateral assets.
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+### **Flash Loans**
 
-### **Aave v2 | FY2021 | TVL, Borrowed, & Fees (USD)**
+Flash Loans are uncollateralized loans that must be borrowed and repaid within a single blockchain transaction. The Flash Loan Fee is a fixed percentage charged on the borrowed amount for using this service.
 
-The following table aggregates FY2021 key health metrics for Aave v2. In particular, the **utilization %** and **fee %** metrics will remain constant regardless of the values found in the **TVL** and **Borrowed** columns. FY2021 financial data was chosen because Aave v2 was released in December of 2020 and was the most utilized version of Aave during the FY2021 - FY2022 time period.
-
-This allows for transposing of these rates into a revenue projection model — which includes Bonzo Finance’s conservative estimates for **TVL** and **Borrowed** values — to output estimated fee revenue for the protocol during year 1 operations, found in the subsequent section.
-
-<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-
-### Bonzo Finance | Year 1  | Projected TVL, Borrowed, & Fees (USD)
-
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+* **Purpose**: To generate revenue from users leveraging Flash Loans for arbitrage, liquidations, and other financial operations.
+* **Mechanism**: A fixed percentage (0.09%) of the total borrowed amount is charged when a Flash Loan is executed.
+* **Current Value**: 0.09% of the Flash Loan volume.
+* **Beneficiary**: The majority of the fee (excluding the asset's Reserve Factor) is distributed to liquidity providers of the respective asset.

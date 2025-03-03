@@ -14,7 +14,7 @@ layout:
 
 # 🗳️ Bonzo Finance DAO
 
-As part of its long-term vision, Bonzo Finance is committed to transitioning to a fully decentralized governance model by establishing the Bonzo Finance DAO, which will be overseen by the Bonzo Finance Foundation. The DAO is scheduled to be introduced in early 2025, marking a significant milestone in the protocol's evolution towards community-driven governance and decision-making.
+As part of its long-term vision, Bonzo Finance is committed to transitioning to a fully decentralized governance model by establishing the Bonzo Finance DAO, which will be overseen by the Bonzo Finance Foundation. The DAO is scheduled to be introduced in 2025, marking a significant milestone in the protocol's evolution towards community-driven governance and decision-making.
 
 ### **☝️ Centralized Operation with DAO Principles**
 
