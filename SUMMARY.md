@@ -28,9 +28,11 @@
 * [🎟️ Bonzo Points](rewards-and-incentives/bonzo-points/README.md)
   * [Pre-Season Points Airdrop](rewards-and-incentives/bonzo-points/pre-season-points-airdrop.md)
   * [Season One Points](rewards-and-incentives/bonzo-points/season-one-points.md)
+  * [Season Two Points](rewards-and-incentives/bonzo-points/season-two-points.md)
 * [🖼️ Bonzo NFT Collectables](rewards-and-incentives/bonzo-nft-collectables/README.md)
   * [1st Edition Bonzo NFTs](rewards-and-incentives/bonzo-nft-collectables/1st-edition-bonzo-nfts.md)
   * [Cybernetic NFT](rewards-and-incentives/bonzo-nft-collectables/cybernetic-nft.md)
+  * [Commemorative NFT](rewards-and-incentives/bonzo-nft-collectables/commemorative-nft.md)
   * [Ownership & License Terms](rewards-and-incentives/bonzo-nft-collectables/ownership-and-license-terms.md)
 
 ## ASSET RISK

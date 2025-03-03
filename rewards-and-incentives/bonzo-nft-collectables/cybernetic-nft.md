@@ -2,7 +2,7 @@
 
 ## Bonzo Cybernetic NFT
 
-The Bonzo Cybernetic NFT collectible is available for trading on secondary NFT marketplaces across the Hedera ecosystem, such as [SentX](https://sentx.io/nft-marketplace/cybernetic-bonzo) and [Kabila](https://market.kabila.app/en/collections/7743905/items).
+The Bonzo Cybernetic NFT collectible is available for trading on secondary NFT marketplaces across the Hedera ecosystem, such as [SentX](https://sentx.io/nft-marketplace/cybernetic-bonzo) and [Kabila](https://market.kabila.app/en/collections/7743905/items). The Cybernetic NFT collectible must be [burned on the HeadStarter platform](https://app.headstarter.org/portfolio/redeem-tokens?tab=other-tokens) in order to claim $BONZO governance tokens. Upon burning, the account will be airdropped a [Bonzo Commemorative NFT](commemorative-nft.md) collectible within 5 days.
 
 <figure><img src="../../.gitbook/assets/CyberneticBonzo (1).png" alt="" width="375"><figcaption><p>Cybernetic Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.7743905">0.0.7743905</a></p></figcaption></figure>
 
@@ -23,14 +23,3 @@ In order to claim $BONZO tokens from this NFT, it must be [burned on the HeadSta
 There are royalty fees configured for the Cybernetic NFT as outlined in the table below.
 
 <table><thead><tr><th width="244">Description</th><th>% Fee</th></tr></thead><tbody><tr><td>Bonzo Finance</td><td>4.5%</td></tr><tr><td>InAMaze Artist</td><td>0.5%</td></tr></tbody></table>
-
-## Bonzo Commemorative NFT
-
-The Bonzo Commemorative NFT collectible is airdropped to users who burn their Cybernetic Bonzo NFT on the HeadStarter platform within 5 days of burning.
-
-<figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
-
-### **🖼️ Commemorative NFT Collectable Utility**
-
-<table><thead><tr><th width="201">Category</th><th align="center">Details</th></tr></thead><tbody><tr><td>Token ID</td><td align="center"><a href="https://hashscan.io/mainnet/token/0.0.8370668">0.0.8370668</a></td></tr><tr><td><strong>Circulating Supply</strong></td><td align="center">Up to 500</td></tr><tr><td><strong>Original Mint Cost</strong> </td><td align="center"><strong>Airdropped after burning Cybernetic Bonzo</strong> <br><strong>NFT within 5 days of burning</strong></td></tr><tr><td><strong>Current Utility</strong></td><td align="center"><p>Commemorative Bonzo is a token of appreciation provided to community members who burned their Cybernetic Bonzo NFT and offers community-centric utility.</p><ul><li><strong>Cybernetic Role in Discord</strong>: Owning Bonzo Cybernetic NFT Collectible grants holders a unique Discord role, and a memento NFT will be provided to maintain this role after the burn.</li></ul></td></tr></tbody></table>
-
