@@ -6,7 +6,6 @@ Protocol security is a top priority for Bonzo Finance Labs. To encourage respons
 
 * Bonzo Finance [testnet contracts](contract-deployments.md) and [GitHub repositories](https://github.com/bonzo-labs)
 * Bonzo Finance [testnet interface](https://testnet.bonzo.finance)
-* Safety Module testnet contracts and functionality (coming soon)
 
 ### Out of Scope <a href="#scope" id="scope"></a>
 
