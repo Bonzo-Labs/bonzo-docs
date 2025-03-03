@@ -15,6 +15,7 @@
   * [Repay Loan](get-started/bonzo-mainnet/repay-loan.md)
   * [Dashboard Metrics Explained](get-started/bonzo-mainnet/dashboard-metrics-explained.md)
 * [🧪 Bonzo Testnet](get-started/bonzo-testnet.md)
+* [💸 Protocol Fees & Revenue](get-started/protocol-fees-and-revenue.md)
 * [💧 Liquidations](get-started/liquidations.md)
 * [🌐 Hedera ($HBAR)](get-started/hedera-usdhbar/README.md)
   * [Hedera Wallet Setup](get-started/hedera-usdhbar/hedera-wallet-setup.md)
