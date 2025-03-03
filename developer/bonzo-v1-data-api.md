@@ -24,25 +24,6 @@ All API requests are made to the following base URL:
 https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/
 ```
 
-## Swagger Interface
-
-For interactive API exploration and testing, visit the Swagger UI:
-
-<pre><code><strong>https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/swagger/index.html
-</strong></code></pre>
-
-## OpenAPI Specification
-
-The OpenAPI 3.0 specification for the API is available at:
-
-```
-https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/swagger/v1/swagger.json
-```
-
-{% hint style="info" %}
-You can use this specification with tools like Postman or Swagger Codegen to generate client libraries.
-{% endhint %}
-
 ## Common Response Structure
 
 ### Balance Information Object
