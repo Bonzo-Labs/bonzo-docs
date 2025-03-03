@@ -31,7 +31,7 @@ Shortly after mainnet launch of the Bonzo Finance protocol, 17.08125175% of the 
 ### **Community**
 
 * 7.5% of the max supply (30,000,000 $BONZO) will be distributed to community members who participated in the first Bonzo Finance NFT sale.
-* 0.0179165% of the max supply (71,666 $BONZO) is allocated to the Safety Module incentive program\*, to be distributed throughout month 1 post-TGE, incentivizing $BONZO holders to participate in this activity.
+* 0.0179165% of the max supply (71,666 $BONZO) is allocated to the Single-Sided staking incentive program\*, to be distributed throughout month 1 post-TGE, incentivizing $BONZO holders to participate in this activity.
 * 0.03369225% of the max supply (134,769 $BONZO) will be unlocked for community marketing campaigns to incentivize awareness, growth, and adoption.
 * 1.06875% of the max supply (4,275,000 $BONZO) will be unlocked for a second Bonzo Finance NFT sale to be announced in or before December 2024.
 * 0.056726% of the max supply (226,904 $BONZO) will be unlocked for DEX liquidity pool token staking rewards from within the Bonzo Finance protocol.
@@ -50,15 +50,3 @@ Shortly after mainnet launch of the Bonzo Finance protocol, 17.08125175% of the 
 ### **Core Development**
 
 * 0.6944445% of the max token supply (\~2,777,778 $BONZO) will be unlocked and allocated for development costs related to building the protocol.
-
-## **Safety Module Incentive Program Calculations**
-
-Users who participate in staking (locking up) tokens for a limited amount of time in the Safety Module reserve are rewarded. A portion of the “Community” token unlock schedule for $BONZO includes rewards. The APY reward for locking up $BONZO tokens is based on the following formula:
-
-```java
-0.007 * (.15 * Circulating Supply [Pre-Safety Module] Per Month)
-```
-
-This formula ensures that a minimum of 8.40% APY is rewarded for $BONZO token holders who stake to the safety module, based on 15% of the circulating supply, calculated on a monthly basis. If more (or less) than 15% of the circulating supply is staked to the safety module, the APY will be lower or higher, respectively.
-
-As the Bonzo Finance protocol achieves economic sustainability, rather than relying on token unlocks allocated to the “community” category for reward, as it exists today, a portion of protocol fees generated will be used to reward users who continue participating in this activity. The Bonzo Finance DAO (est. launch in early 2025) will regularly reassess and vote on the reward allocation based on various economic factors.
