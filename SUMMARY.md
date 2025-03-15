@@ -49,7 +49,7 @@
 ## DEVELOPER
 
 * [📊 Bonzo v1 Data API](developer/bonzo-v1-data-api.md)
-* [📜 Contract Deployments](developer/contract-deployments.md)
+* [📜 Contracts & Accounts](developer/contracts-and-accounts.md)
 * [🤖 Liquidation Bots (Beta)](developer/liquidation-bots-beta/README.md)
   * [🛸 SaucerSwap DEX](developer/liquidation-bots-beta/saucerswap-dex.md)
   * [Environment Setup](developer/liquidation-bots-beta/environment-setup.md)
