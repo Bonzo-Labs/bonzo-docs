@@ -39,7 +39,7 @@
 ## SECURITY & RISK
 
 * [⚠️ Risk Framework](https://docs.bonzo.finance/bonzo-risk-framework/)
-* [🛡️ Audits](security-and-risk/audits.md)
+* [🛡️ Audits](resources/audits.md)
 
 ## CONTRIBUTORS
 
@@ -50,7 +50,7 @@
 ## DEVELOPER
 
 * [📊 Bonzo v1 Data API](developer/bonzo-v1-data-api.md)
-* [📜 Protocol Contracts](developer/protocol-contracts.md)
+* [📜 Protocol Contracts](developer/contracts-and-accounts.md)
 * [🤖 Liquidation Bots (Beta)](developer/liquidation-bots-beta/README.md)
   * [🛸 SaucerSwap DEX](developer/liquidation-bots-beta/saucerswap-dex.md)
   * [Environment Setup](developer/liquidation-bots-beta/environment-setup.md)
