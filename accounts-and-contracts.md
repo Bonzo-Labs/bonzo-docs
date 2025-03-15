@@ -2,7 +2,6 @@
 description: >-
   Associated with the unlocking, distribution, and operations of the Bonzo
   Finance protocol's native $BONZO token.
-hidden: true
 ---
 
 # 🏦 Accounts & Contracts
