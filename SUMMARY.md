@@ -36,9 +36,10 @@
   * [Commemorative NFT](rewards-and-incentives/bonzo-nft-collectables/commemorative-nft.md)
   * [Ownership & License Terms](rewards-and-incentives/bonzo-nft-collectables/ownership-and-license-terms.md)
 
-## ASSET RISK
+## SECURITY & RISK
 
 * [⚠️ Risk Framework](https://docs.bonzo.finance/bonzo-risk-framework/)
+* [🛡️ Audits](security-and-risk/audits.md)
 
 ## CONTRIBUTORS
 
@@ -49,7 +50,7 @@
 ## DEVELOPER
 
 * [📊 Bonzo v1 Data API](developer/bonzo-v1-data-api.md)
-* [📜 Contracts & Accounts](developer/contracts-and-accounts.md)
+* [📜 Protocol Contracts](developer/protocol-contracts.md)
 * [🤖 Liquidation Bots (Beta)](developer/liquidation-bots-beta/README.md)
   * [🛸 SaucerSwap DEX](developer/liquidation-bots-beta/saucerswap-dex.md)
   * [Environment Setup](developer/liquidation-bots-beta/environment-setup.md)
@@ -68,10 +69,13 @@
 * [🟢 Status Page](http://status.bonzo.finance/)
 * [🎨 Brand Assets](resources/brand-assets.md)
 * [📚 Glossary](resources/glossary.md)
-* [🛡️ Audits](resources/audits.md)
 * [📞 Contact](resources/contact/README.md)
   * [Support](resources/contact/support.md)
   * [Community](resources/contact/community.md)
+
+## TRANSPARENCY
+
+* [🏦 Accounts & Contracts](transparency/accounts-and-contracts.md)
 
 ## LEGAL
 

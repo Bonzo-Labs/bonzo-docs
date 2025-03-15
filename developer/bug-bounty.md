@@ -4,7 +4,7 @@ Protocol security is a top priority for Bonzo Finance Labs. To encourage respons
 
 ### Within Scope <a href="#scope" id="scope"></a>
 
-* Bonzo Finance [testnet contracts](contracts-and-accounts.md) and [GitHub repositories](https://github.com/bonzo-labs)
+* Bonzo Finance [testnet contracts](protocol-contracts.md) and [GitHub repositories](https://github.com/bonzo-labs)
 * Bonzo Finance [testnet interface](https://testnet.bonzo.finance)
 
 ### Out of Scope <a href="#scope" id="scope"></a>
