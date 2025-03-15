@@ -75,7 +75,9 @@
 
 ## TRANSPARENCY
 
-* [🏦 Accounts & Contracts](transparency/accounts-and-contracts.md)
+***
+
+* [🏦 Accounts & Contracts](accounts-and-contracts.md)
 
 ## LEGAL
 
