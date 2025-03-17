@@ -1,33 +1,29 @@
----
-hidden: true
----
-
 # 🥩 Single-Sided Staking
 
-[Single-sided staking](https://app.bonzo.finance/stake) allows $BONZO token holders to earn yield without providing liquidity pairs or taking on impermanent loss risk. By staking $BONZO tokens, you receive $xBONZO tokens which automatically increase in value relative to $BONZO over time.
+[Single-sided staking](https://app.bonzo.finance/stake) allows $BONZO token holders to earn yield without providing liquidity or incurring impermanent loss. By staking $BONZO tokens, users receive $xBONZO tokens as a receipt that represents their share of the staking pool. Over time, as rewards are continuously compounded into the pool, the conversion rate between $BONZO and $xBONZO improves, resulting in higher returns when unstaking.
 
 ## How Staking Works
 
-The staking mechanism is built around a conversion rate between $BONZO and $xBONZO that continuously improves, providing passive yield to stakers.
+The staking mechanism is designed around a continuously improving conversion rate between $BONZO and $xBONZO. This dynamic rate reflects both user contributions and ongoing reward emissions:
 
-### The Staking Process
+### **Staking Process**
 
-1. **Stake Your $BONZO Tokens**: Convert your $BONZO tokens to $xBONZO tokens at the current exchange rate
-2. **Hold $xBONZO Tokens**: Your $xBONZO appreciates in value relative to $BONZO automatically
-3. **Unstake When Ready**: Convert $xBONZO back to $BONZO at the improved conversion rate whenever you choose
+1. **Stake $BONZO Tokens:** When staking $BONZO tokens, receive $xBONZO receipt tokens at the current exchange rate.  For example, if the rate is 1 $BONZO = 0.9 $xBONZO, staking 1,000 $BONZO will mint 900 $xBONZO.
+2. **Hold $xBONZO Tokens:** The $xBONZO tokens appreciate in value over time as the staking pool grows via continuous reward emissions.
+3. **Unstake When Ready: C**onvert  $xBONZO tokens back to $BONZO at any time at the improved conversion rate, without a mandatory lock-up period or unstaking fees (aside from Hedera network fees).
 
 ## Key Features
 
 ### Token Locking
 
-When you stake $BONZO, your tokens are securely locked in the staking smart contract. In return, you receive $xBONZO tokens at the current conversion rate. These $xBONZO tokens represent your stake in the protocol and your claim on the underlying $BONZO tokens.
+When staking $BONZO,  tokens are securely locked in the staking smart contract. In return, users receive $xBONZO tokens at the current conversion rate. These $xBONZO tokens represent the user's stake in the protocol and their claim on the underlying $BONZO tokens.
 
 ```
 Example:
 - Current Conversion Rate: 1 $BONZO = 0.9 $xBONZO
-- You stake 1,000 $BONZO
-- You receive 900 $xBONZO tokens
-- Your 1,000 $BONZO remains locked in the contract
+- User stakes 1,000 $BONZO
+- User receives 900 $xBONZO tokens
+- 1,000 $BONZO remains locked in the contract
 ```
 
 ### Automatic Yield Generation
@@ -38,7 +34,7 @@ Unlike traditional staking models that distribute rewards at fixed intervals, ou
 * No tracking of reward distribution epochs
 * Value accrues seamlessly in the background
 
-The yield is reflected in the continuously improving conversion rate between $BONZO and $xBONZO. The longer you hold your $xBONZO tokens, the more $BONZO you'll receive when you eventually unstake.
+The yield is reflected in the continuously improving conversion rate between $BONZO and $xBONZO. The longer user hold their $xBONZO tokens, the more $BONZO they'll receive when they eventually unstake.
 
 ### Variable APR
 
@@ -46,19 +42,20 @@ The Annual Percentage Rate (APR) for staking is not fixed and varies based on:
 
 * The total number of $BONZO tokens currently staked in the protocol
 * Current $BONZO allocations to the staking rewards contract
-* Market conditions
 
-You can check the current effective APR on the [staking dashboard](https://app.bonzo.finance/stake). This rate determines how quickly the conversion rate between $BONZO and $xBONZO improves over time.
+Users can check the current effective APR on the [staking dashboard](https://app.bonzo.finance/stake). This rate determines how quickly the conversion rate between $BONZO and $xBONZO improves over time.
+
+<table><thead><tr><th width="334.68487548828125">Monthly Schedule</th><th>$BONZO Token Rewards</th></tr></thead><tbody><tr><td>March 17, 2025 - April 17, 2025</td><td>100,000</td></tr><tr><td>April 17, 2025 - May 17, 2025</td><td>Coming Soon</td></tr></tbody></table>
 
 ### Unstaking Flexibility
 
-One of the primary advantages of  staking is  flexibility — users can unstake $xBONZO tokens at any time with:
+One of the primary advantages of  staking is  flexibility — users can unstake $xBONZO staking receipt tokens at any time with:
 
 * No minimum lock-up period
 * No unstaking fees (except standard Hedera network transaction fees)
 * No vesting schedules
 
-When unstaking,  $xBONZO tokens are burned, and the user receives $BONZO tokens at the current conversion rate, which will be higher than when initially staked.
+When unstaking,  $xBONZO tokens are burned, and the user receives $BONZO tokens at the current conversion rate, which should be higher than when initially staked.
 
 ```
 CopyExample:
@@ -70,7 +67,7 @@ CopyExample:
 
 ### Growth Effect
 
-The improving conversion rate creates an effect similar to compound interest. The longer you hold your $xBONZO tokens, the more $BONZO you'll receive when you unstake. This incentivizes long-term holding and participation in the protocol ecosystem.
+The improving conversion rate creates an effect similar to compound interest. The longer $xBONZO tokens are held, the more $BONZO will be received when unstaked. This incentivizes long-term participation in the protocol's ecosystem.
 
 ### Governance Rights (Coming Soon)
 
