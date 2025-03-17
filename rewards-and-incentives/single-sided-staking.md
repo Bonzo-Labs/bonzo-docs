@@ -2,6 +2,8 @@
 
 [Single-sided staking](https://app.bonzo.finance/stake) allows $BONZO token holders to earn yield without providing liquidity or incurring impermanent loss. By staking $BONZO tokens, users receive $xBONZO tokens as a receipt that represents their share of the staking pool. Over time, as rewards are continuously compounded into the pool, the conversion rate between $BONZO and $xBONZO improves, resulting in higher returns when unstaking.
 
+The $xBONZO Token ID is [**0.0.8490541**](https://hashscan.io/mainnet/token/0.0.8490541)
+
 ## How Staking Works
 
 The staking mechanism is designed around a continuously improving conversion rate between $BONZO and $xBONZO. This dynamic rate reflects both user contributions and ongoing reward emissions:
