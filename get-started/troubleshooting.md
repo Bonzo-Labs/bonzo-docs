@@ -1,8 +1,4 @@
----
-icon: info
----
-
-# Troubleshooting
+# ❗ Troubleshooting
 
 {% hint style="info" %}
 Please check the **Bonzo Finance status page** to determine if any errors experienced are due to known maintenance or issues: [http://status.bonzo.finance/](http://status.bonzo.finance/)
