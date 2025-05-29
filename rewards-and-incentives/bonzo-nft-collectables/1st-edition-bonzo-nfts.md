@@ -15,22 +15,24 @@ Bonzo NFT Collectibles can now be purchased on secondary NFT marketplaces across
 
 <table><thead><tr><th width="204"></th><th width="252">Distribution Date(s)</th><th>Amount</th></tr></thead><tbody><tr><td><strong>Distribution #1</strong></td><td>Upon TGE  (token generation event) <br>[no later than 3 months after mainnet launch of the Bonzo Finance protocol]</td><td>75% of "claimable" $BONZO per NFT</td></tr><tr><td><strong>Distribution #2</strong></td><td>End of Season 2 points<br>[June 3, 2025]</td><td>25% of "claimable" $BONZO per NFT</td></tr></tbody></table>
 
-## **⭐️  Bonus $BONZO Tokens**
+## **⭐️  Bonus $BONZO Tokens -** Distribution Complete
 
-If a single account purchases and holds 20+ of the Desert Bonzo, 20+ of the Ocean Bonzo, or 20+ of the Space Bonzo NFT, they will receive a bonus of:
+As part of the NFT sale campaign, bonus $BONZO tokens were awarded to accounts that held 20 or more of a single Bonzo NFT type:
 
 * 4,125 $BONZO (for holding 20+ of Desert)
 * 12,375 $BONZO (for holding 20+ of Ocean)&#x20;
 * 24,875 $BONZO (for holding 20+ of Space)
-* \*Cannot combine Desert, Ocean, and Space NFTs to reach the 20+ amount.
 
-This bonus distribution will be made in full to the NFT holding account upon TGE (token generation event)
+_Note: NFT types could not be combined to meet the 20+ threshold._
 
-**In order to receive this bonus distribution:**&#x20;
 
-* The purchasing account must be holding the NFT(s) during the first snapshot taken at the end of the NTF sale
-* They must still be holding the NFTs in their account during a second snapshot that will randomly take place prior to the TGE.
-* The second snapshot date and time will not be disclosed.
+
+**To qualify, eligible accounts had to:**
+
+* Hold the required quantity during the first snapshot at the end of the NFT sale
+* Still hold the NFTs during a randomly timed second snapshot that occurred prior to the Token Generation Event (TGE)
+
+Both snapshots have been taken, and bonus distributions were sent in full to qualifying accounts at the time of the TGE.
 
 ## **🖼️ Bonzo NFT Collectables Utility**
 
