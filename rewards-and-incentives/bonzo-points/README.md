@@ -8,7 +8,7 @@ Earn 2 points per $1 USD in value supplied & 8 points per $1 USD in value borrow
 \
 The start and end date(s) for each season are found in the table below:
 
-<table><thead><tr><th width="138">Season</th><th width="226">Start</th><th>End</th></tr></thead><tbody><tr><td>1</td><td>Oct 28 2024</td><td>February 28 2025</td></tr><tr><td>2</td><td>March 1 2025</td><td>May 31 2025</td></tr><tr><td>3</td><td>June 1 2025</td><td>August 31 2025</td></tr></tbody></table>
+<table><thead><tr><th width="138">Season</th><th width="226">Start</th><th>End</th></tr></thead><tbody><tr><td>1</td><td>Oct 28 2024</td><td>February 28 2025</td></tr><tr><td>2</td><td>March 1 2025</td><td>May 31 2025</td></tr><tr><td>3</td><td>June 1 2025</td><td>September 3 2025</td></tr></tbody></table>
 
 In addition to the regular seasons of points, Bonzo Finance is hosting a [token weighted pre-season airdrop of points](pre-season-points-airdrop.md) for holder of HTS assets supported by Bonzo Finance.
 
