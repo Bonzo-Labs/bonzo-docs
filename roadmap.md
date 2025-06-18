@@ -53,3 +53,4 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 * Chainlink Oracles implementation
 * Single-sided staking for $XBONZO
 * $BONZO Faucet in Discord for Bonzo Finance NFT holders
+* New Loan Health Monitor added to the Bonzo Dashboard
