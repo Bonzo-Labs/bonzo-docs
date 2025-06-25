@@ -14,7 +14,7 @@ Details of points earning calculations for season one are found in the table bel
 
 ### **1st Edition Bonzo NFT Points Multiplier**
 
-Every [1st Edition Bonzo NFT](../bonzo-nft-collectables/1st-edition-bonzo-nfts.md) comes with a "Bonzo Points" multiplier that automatically multiplies points earned each day during season one, giving you an extra edge in the race to the top of the leaderboard.
+Every [1st Edition Bonzo NFT](../bonzo-nft-collectables/1st-edition-bonzo-nfts.md) gave a "Bonzo Points" multiplier that automatically multiplied the points earned each day during Season Two, giving holders an extra edge in the race to the top of the leaderboard.
 
 {% hint style="info" %}
 **The multiplier applied to point earnings is based on the single highest tier 1st Edition Bonzo NFT held in the same account receiving points.**
@@ -25,7 +25,7 @@ Every [1st Edition Bonzo NFT](../bonzo-nft-collectables/1st-edition-bonzo-nfts.m
 * 🚀 **Space Bonzo**: 1.3x multiplier
 * 🌌 **Singularity Bonzo**: 1.5x multiplier
 
-Make sure your NFTs are held during snapshot periods to lock in these rewards and accelerate your path to more points and $BONZO earnings. To purchase an NFT on secondary markets, please visit [SentX](https://sentx.io/nft-marketplace/creators/bonzo-finance).
+To purchase an NFT on secondary markets, please visit [SentX](https://sentx.io/nft-marketplace/creators/bonzo-finance).
 
 <figure><img src="../../.gitbook/assets/Sentx_collectibles.jpg" alt=""><figcaption></figcaption></figure>
 

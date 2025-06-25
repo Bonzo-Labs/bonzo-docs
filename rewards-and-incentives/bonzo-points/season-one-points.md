@@ -25,6 +25,8 @@ Every [1st Edition Bonzo NFT](../bonzo-nft-collectables/1st-edition-bonzo-nfts.m
 * 🚀 **Space Bonzo**: 1.3x multiplier
 * 🌌 **Singularity Bonzo**: 1.5x multiplier
 
+To purchase an NFT on secondary markets, please visit [SentX](https://sentx.io/nft-marketplace/creators/bonzo-finance).
+
 <figure><img src="../../.gitbook/assets/Sentx_collectibles.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Cybernetic NFT Points Multiplier(s)**
