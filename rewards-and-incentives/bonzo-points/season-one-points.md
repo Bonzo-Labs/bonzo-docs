@@ -4,7 +4,7 @@
 
 Season One of the [Bonzo Points program](https://app.bonzo.finance/points) officially started on October 28, 2024, with the launch of Bonzo Finance on mainnet. Point earnings convert to claimable $BONZO at the end of every points season. The start and end dates for each season are found in the table below:
 
-<table><thead><tr><th width="138">Season</th><th width="226">Start</th><th>End</th></tr></thead><tbody><tr><td>1</td><td>Oct 28 2024</td><td>February 28 2025</td></tr><tr><td>2</td><td>March 1 2025</td><td>May 31 2025</td></tr><tr><td>3</td><td>June 1 2025</td><td>September 3 2025</td></tr></tbody></table>
+<table><thead><tr><th width="138">Season</th><th width="226">Start</th><th>End</th></tr></thead><tbody><tr><td>1</td><td>Oct 28 2024</td><td>February 28 2025</td></tr><tr><td>2</td><td>March 1 2025</td><td>June 2 2025</td></tr><tr><td>3</td><td>June 3 2025</td><td>September 3 2025</td></tr></tbody></table>
 
 Point earnings are based on the dollar value of assets supplied to and borrowed from the protocol, distributed on a 24-hour basis. Supported assets of the protocol can be found on [Bonzo Finance.](https://app.bonzo.finance/dashboard)
 

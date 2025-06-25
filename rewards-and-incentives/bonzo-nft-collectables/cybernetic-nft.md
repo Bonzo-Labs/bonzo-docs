@@ -2,7 +2,7 @@
 
 ## Bonzo Cybernetic NFT
 
-The Bonzo Cybernetic NFT collectible is available for trading on secondary NFT marketplaces across the Hedera ecosystem, such as [SentX](https://sentx.io/nft-marketplace/cybernetic-bonzo) and [Kabila](https://market.kabila.app/en/collections/7743905/items). The Cybernetic NFT collectible must be [burned on the HeadStarter platform](https://app.headstarter.org/portfolio/redeem-tokens?tab=other-tokens) in order to claim $BONZO governance tokens. Upon burning, the account will be airdropped a [Bonzo Commemorative NFT](commemorative-nft.md) collectible within 5 days.
+The Bonzo Cybernetic NFT collectible is available for trading on secondary NFT marketplaces across the Hedera ecosystem, such as [SentX](https://sentx.io/nft-marketplace/cybernetic-bonzo) and [Kabila](https://market.kabila.app/en/collections/7743905/items). The Cybernetic NFT collectible must be [burned on the HeadStarter platform](https://app.headstarter.org/portfolio/redeem-tokens?tab=other-tokens) in order to claim $BONZO governance tokens. Upon burning, the account will be airdropped a [Bonzo Commemorative NFT](commemorative-nft.md) collectible.
 
 <figure><img src="../../.gitbook/assets/CyberneticBonzo (1).png" alt="" width="375"><figcaption><p>Cybernetic Bonzo<br><a href="https://hashscan.io/mainnet/token/0.0.7743905">0.0.7743905</a></p></figcaption></figure>
 
@@ -20,6 +20,7 @@ In order to claim $BONZO tokens from this NFT, it must be [burned on the HeadSta
 
 ### **👑  Royalty Fee**
 
-There are royalty fees configured for the Cybernetic NFT as outlined in the table below.
+There are royalty fees configured for the Cybernetic NFT as outlined in the table below.\
+
 
 <table><thead><tr><th width="244">Description</th><th>% Fee</th></tr></thead><tbody><tr><td>Bonzo Finance</td><td>4.5%</td></tr><tr><td>InAMaze Artist</td><td>0.5%</td></tr></tbody></table>

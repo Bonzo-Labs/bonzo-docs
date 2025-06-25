@@ -2,7 +2,7 @@
 
 ## 1st Edition Bonzo NFT Collectibles
 
-Bonzo NFT Collectibles can now be purchased on secondary NFT marketplaces across the Hedera ecosystem, such as [SentX](https://sentx.io/nft-marketplace/creators/bonzo-finance) and [Kabila](https://market.kabila.app/en/collections).\
+Bonzo NFT Collectibles can be purchased on secondary NFT marketplaces across the Hedera ecosystem, such as [SentX](https://sentx.io/nft-marketplace/creators/bonzo-finance) and [Kabila](https://market.kabila.app/en/collections).\
 \
 For more information about Bonzo NFT Collectibles, please see the [1st Edition Bonzo NFTs](./#id-1st-edition-bonzo-nft-collectibles) section of the documentation.
 
@@ -10,7 +10,7 @@ For more information about Bonzo NFT Collectibles, please see the [1st Edition B
 
 ## Cybernetic NFT Collectible
 
-The Bonzo Cybernetic NFT collectible will become available for trading on secondary NFT marketplaces across the Hedera ecosystem, such as [SentX](https://sentx.io/nft-marketplace/creators/bonzo-finance) and [Kabila](https://market.kabila.app/en/collections), after its initial sale has concluded.\
+The Bonzo Cybernetic NFT collectible is available for trading on secondary NFT marketplaces across the Hedera ecosystem, such as [SentX](https://sentx.io/nft-marketplace/creators/bonzo-finance) and [Kabila](https://market.kabila.app/en/collections).\
 \
 For more information about Bonzo NFT Collectibles, please see the [Cybernetic NFT](./#cybernetic-nft-collectible) section of the documentation.
 
