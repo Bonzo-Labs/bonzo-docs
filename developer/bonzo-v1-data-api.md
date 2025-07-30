@@ -13,7 +13,6 @@ The **Bonzo Data API Service** provides current lending pool market statistics a
 * **Real-Time Market Data**: Access up-to-date information on supply and borrow pools for supported Hedera tokens.
 * **Account Insights**: Retrieve detailed account information, including balances and solvency computations.
 * **Public Endpoints**: Open API for developers to build custom solutions and integrations.
-* **Swagger Interface**: User-friendly interface for exploring and testing API endpoints.
 * **OpenAPI Specification**: Comprehensive API definitions for easy integration.
 
 ## Base URL
