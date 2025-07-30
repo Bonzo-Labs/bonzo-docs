@@ -21,7 +21,7 @@ The **Bonzo Data API Service** provides current lending pool market statistics a
 All API requests are made to the following base URL:
 
 ```
-https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/
+https://data.bonzo.finance/
 ```
 
 ## Common Response Structure
