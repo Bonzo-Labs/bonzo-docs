@@ -124,7 +124,7 @@ GET /dashboard/{accountId}
 #### Example Request
 
 ```bash
-curl https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/dashboard/0.0.1234
+curl https://data.bonzo.finance/dashboard/0.0.1234
 ```
 
 ### 2. List of Debtors
@@ -148,7 +148,7 @@ Get a list of all accounts with outstanding debt.
 #### Example Request
 
 ```bash
-curl https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/debtors
+curl https://data.bonzo.finance/debtors
 ```
 
 ### 3. Market Information
@@ -252,10 +252,6 @@ GET /info
 
 Get circulation information for the BONZO token.
 
-{% hint style="info" %}
-Note: Before the Token Generation Event (TGE), this endpoint returns placeholder data.
-{% endhint %}
-
 ```http
 GET /bonzo
 ```
@@ -285,10 +281,6 @@ GET /bonzo
 ```
 
 ### 7. BONZO Circulation Supply
-
-{% hint style="info" %}
-Note: Before the Token Generation Event (TGE), this endpoint returns placeholder data.
-{% endhint %}
 
 Get current circulating supply of BONZO token in decimal notation.
 
@@ -329,7 +321,7 @@ Here's a simple JavaScript example to fetch market data:
 ```javascript
 async function getBonzoMarketData() {
   try {
-    const response = await fetch('https://bonzo-data-api-eceac9d8a2aa.herokuapp.com/market');
+    const response = await fetch('https://data.bonzo.finance/market');
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
@@ -349,5 +341,4 @@ async function getBonzoMarketData() {
 
 ## Support
 
-* GitHub Issues: [Bonzo-Labs/bonzo-finance](https://github.com/bonzo-labs)
 * Discord: [Join Bonzo Finance Discord](https://www.bonzo.finance/Discord/)
