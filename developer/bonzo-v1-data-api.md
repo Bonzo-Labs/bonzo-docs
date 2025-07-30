@@ -210,7 +210,7 @@ GET /stats
   "total_liquidation_rewards": BalanceInfo, //Total value of collateral rewarded to liquidators in the past 24-hour period.
   "total_liquidation_bonuses": BalanceInfo, //Total value of the portion of collateral rewarded to liquidators that is considered the bonus value (value in excess of payoff value) in the past 24-hour  period.
   "total_protocol_fees": BalanceInfo, //Total value of fees collected by the protocol in the past 24-hour period.
-  "total_interest_earned": BalanceInfo, //Total value of interest earned by liquidity suppliers in the past 24-hour period.
+  "total_intrest_earned": BalanceInfo, //Total value of interest earned by liquidity suppliers in the past 24-hour period.
   "total_gas_consumed": number, //Total value of gas consumed by the Hedera EVM all protocol activity in the past 24-hour period.
   "total_gas_charged": number, //Total value of gas charged by the Hedera Network to execute the protocol activities in the past 24-hour period, this value may exceed the total gas consumed due to the nature of how hedera manages EVM gas authorizations.
   "total_network_fees": number, //Total native hedera fees beyond gas fees charged to execute protocol activities in the past 24-hour period.
