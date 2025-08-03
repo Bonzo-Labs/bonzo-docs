@@ -1,5 +1,21 @@
 # Risk Parameters per Asset
 
+<details>
+
+<summary>ℹ  New: Supply Caps on Asset Markets (Expand to Read)</summary>
+
+Bonzo Finance has crossed $70 million Total Value Locked (TVL) — an all-time high of TVL in $hbar denominated value, as well — powered by institutional inflows and a growing Hedera retail user base. **As the protocol continues to mature and evolve, larger amounts of liquidity, relative to the size of Hedera's ecosystem, calls for additional risk controls.** In coordination with risk partners, the **Bonzo Finance protocol has implemented supply caps across asset markets** for more adequate protection of lenders, the protocol, and supported tokens.&#x20;
+
+Supply and borrow caps in Bonzo Finance are configured as fixed token amounts (versus total value). At a high-level, supply caps are set on a per-asset basis and determined based on asset and liquidity attributes, including, but not limited to, their relative available liquidity across Hedera DeFi (DEXs, etc.).&#x20;
+
+With the introduction of supply caps, certain asset markets may have a cap configured lower than the amount currently supplied; this is often common in lending protocols across web3, as changing market dynamics shift risks, especially during volatile seasons.&#x20;
+
+**If an asset's supply cap is configured below the amount currently supplied, funds can remain supplied and used as collateral (or “supply only”), until withdrawn, without issue.** If an asset's supply has reached or is above its cap, users will not be able to supply this asset to a pool (or re-supply after withdrawing, if already in the pool) until the pool's total supply drops below the cap.
+
+Safety for users, the protocol, and broader ecosystem is priority #1 to ensure long-term success — while certain limitations can feel restricting, they serve as critical safeguards which support the current state of Hedera's ecosystem as it continues on its trajectory towards more liquidity, users, and protocols.
+
+</details>
+
 Each asset in the Bonzo Finance protocol has configurable risk parameters, which influences how they are supplied and borrowed. The calibration of the parameters will be conservative as the protocol launches, to ensure safety, and become more aggressive as the Bonzo Finance ecosystem matures with educated users, greater liquidity, and a thriving liquidation ecosystem.
 
 The table below offers a summary of the latest risk parameters per asset:
