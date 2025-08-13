@@ -4,7 +4,7 @@
 * **Implementation Date:** August 13th, 2025
 * **Author(s):** [Re7 Labs](https://www.re7labs.xyz/) / [Bonzo Finance Labs](https://bonzo.finance)
 * **Bonzo Finance Voting Interface:** Change Memo
-* **Related Memos / Discussion:** Interest Rate & Borrow Cap Update - USDC, [Risk Parameter LTV Updates - Ecosystem Assets](risk-parameter-ltv-updates-ecosystem-assets.md)
+* **Related Memos / Discussion:** [Interest Rate & Borrow Cap Update - USDC](interest-rate-and-borrow-cap-update-usdc.md), [Risk Parameter LTV Updates - Ecosystem Assets](risk-parameter-ltv-updates-ecosystem-assets.md)
 * **Historical Risk Parameter Updates:** [Link](https://docs.bonzo.finance/bonzo-risk-framework/asset-risk/risk-parameters-per-asset)
 
 ## Simple Summary
@@ -34,7 +34,7 @@ The motivation for reducing the Supply / Borrow Caps of these asset markets is t
 1. For Supply Caps, this sets maximum limits on potential liquidations that can be withstood by their respective markets, when these assets are used as collateral
 2. For Borrow Caps, this sets maximum limits on potential downwards pressure that can be withstood by their respective markets, for scenarios involving the sale of these assets upon borrow
 
-While this change memo is specific to reductions of Supply / Borrow Caps for cited ecosystem assets, it is being performed in conjunction with LTV Updates for Ecosystem Assets and Interest Rate & Borrow Cap Updates to USDC market parameters.&#x20;
+While this change memo is specific to reductions of Supply / Borrow Caps for cited ecosystem assets, it is being performed in conjunction with [LTV Updates for Ecosystem Assets](risk-parameter-ltv-updates-ecosystem-assets.md) and [Interest Rate & Borrow Cap Updates to USDC](interest-rate-and-borrow-cap-update-usdc.md) market parameters.&#x20;
 
 The combined impact of these changes is meant to not only to support limiting maximum negative impact on supported assets, users, and the protocol itself, but also to support the protocol’s overall market structure to allow the Hedera native USDC market to operate with maximum capital efficiency.
 

@@ -4,7 +4,7 @@
 * **Implementation Date:** August 13th, 2025
 * **Author(s):** [Re7 Labs](https://www.re7labs.xyz/) / [Bonzo Finance Labs](https://bonzo.finance)
 * **Bonzo Finance Voting Interface:** Change Memo
-* **Related Memos / Discussion:** Interest Rate & Borrow Cap Update - USDC, Supply / Borrow Cap Updates - Ecosystem Assets
+* **Related Memos / Discussion:** [Interest Rate & Borrow Cap Update - USDC](interest-rate-and-borrow-cap-update-usdc.md), [Supply / Borrow Cap Updates - Ecosystem Assets](supply-borrow-cap-updates-ecosystem-assets.md)
 * **Historical Risk Parameter Updates:** [Link](https://docs.bonzo.finance/bonzo-risk-framework/asset-risk/risk-parameters-per-asset)
 
 ## Simple Summary
@@ -34,7 +34,7 @@ Modifications to these ecosystem asset risk parameters will continue to be revis
 
 ### USDC Market Note
 
-While this change memo is specific to both increases and reductions of LTV for cited ecosystem assets, it is being performed in conjunction with updating USDC market parameters, under the motivation of ensuring the USDC market operates safely with maximum capital efficiency. See Interest Rate & Borrow Cap Update - USDC.
+While this change memo is specific to both increases and reductions of LTV for cited ecosystem assets, it is being performed in conjunction with updating USDC market parameters, under the motivation of ensuring the USDC market operates safely with maximum capital efficiency. See [Interest Rate & Borrow Cap Update - USDC](interest-rate-and-borrow-cap-update-usdc.md).
 
 ## Impact & Implementation
 
