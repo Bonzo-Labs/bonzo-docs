@@ -22,6 +22,8 @@
 
 * [August 2025](change-memos/august-2025/README.md)
   * [Risk Parameter LTV Updates - Ecosystem Assets](change-memos/august-2025/risk-parameter-ltv-updates-ecosystem-assets.md)
+  * [Supply / Borrow Cap Updates - Ecosystem Assets](change-memos/august-2025/supply-borrow-cap-updates-ecosystem-assets.md)
+  * [Interest Rate & Borrow Cap Update - USDC](change-memos/august-2025/interest-rate-and-borrow-cap-update-usdc.md)
 
 ## 🔐 Audits & Analysis
 

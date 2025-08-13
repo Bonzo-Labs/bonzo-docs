@@ -1,7 +1,7 @@
 # Risk Parameter LTV Updates - Ecosystem Assets
 
 * **Submission Date:** August 13, 2025
-* **Change Date:** August 13th, 2025
+* **Implementation Date:** August 13th, 2025
 * **Author(s):** [Re7 Labs](https://www.re7labs.xyz/) / [Bonzo Finance Labs](https://bonzo.finance)
 * **Bonzo Finance Voting Interface:** Change Memo
 * **Related Memos / Discussion:** Interest Rate & Borrow Cap Update - USDC, Supply / Borrow Cap Updates - Ecosystem Assets
