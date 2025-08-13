@@ -18,6 +18,11 @@
 * [Actual Rates & Parameters](liquidity-risk/actual-rates-and-parameters.md)
 * [Smart Contracts & HTS Tokens](liquidity-risk/smart-contracts-and-hts-tokens.md)
 
+## 📝 Change Memos
+
+* [August 2025](change-memos/august-2025/README.md)
+  * [Risk Parameter LTV Updates - Ecosystem Assets](change-memos/august-2025/risk-parameter-ltv-updates-ecosystem-assets.md)
+
 ## 🔐 Audits & Analysis
 
 * [Introduction](audits-and-analysis/introduction.md)
