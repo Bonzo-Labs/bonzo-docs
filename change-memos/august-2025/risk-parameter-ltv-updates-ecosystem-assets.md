@@ -50,7 +50,18 @@ This Bonzo Finance Change Memo details the recommended (Rec.) adjustments to the
 
 Other parameters (LT: Liquidation Threshold; Liq. Bonus: Liquidation Bonus for liquidators; RF: Reserve Factor) remain unchanged. Potential Liqs. indicates no expected liquidations from these changes.
 
-<table data-header-hidden><thead><tr><th width="96.17578125">Asset</th><th width="130.65625">Current LTV</th><th width="108.171875">Rec. LTV</th><th width="120.3359375">Current LT</th><th width="96.46484375">Rec. LT</th><th width="168.83984375">Current Liq. Bonus</th><th width="149.73046875">Rec. Liq. Bonus</th><th width="119.49609375">Current RF</th><th width="99.91796875">Rec. RF</th><th>Potential Liqs.</th></tr></thead><tbody><tr><td>SAUCE</td><td>30.00%</td><td>40.00%</td><td>68.04%</td><td>“</td><td>3.95%</td><td>“</td><td>14.60%</td><td>“</td><td>$0</td></tr><tr><td>XSAUCE</td><td>30.00%</td><td>40.00%</td><td>67.59%</td><td>“</td><td>3.95%</td><td>“</td><td>10.94%</td><td>“</td><td>$0</td></tr><tr><td>BONZO</td><td>30.00%</td><td>40.00%</td><td>59.00%</td><td>“</td><td>6.66%</td><td>“</td><td>17.25%</td><td>“</td><td>$0</td></tr><tr><td>KARATE</td><td>25.00%</td><td>20.00%</td><td>65.00%</td><td>“</td><td>3.46%</td><td>“</td><td>19.60%</td><td>“</td><td>$0</td></tr><tr><td>$GRELF</td><td>20.00%</td><td>“</td><td>59.00%</td><td>“</td><td>6.66%</td><td>“</td><td>17.25%</td><td>“</td><td>$0</td></tr><tr><td>$DOVU</td><td>20.00%</td><td>“</td><td>59.00%</td><td>“</td><td>6.66%</td><td>“</td><td>17.25%</td><td>“</td><td>$0</td></tr><tr><td>PACK</td><td>25.00%</td><td>10%</td><td>57.00%</td><td>“</td><td>6.91%</td><td>“</td><td>12.97%</td><td>“</td><td>$0</td></tr><tr><td>STEAM</td><td>20.00%</td><td>10%</td><td>57.00%</td><td>“</td><td>8.14%</td><td>“</td><td>13.88%</td><td>“</td><td>$0</td></tr><tr><td>HST</td><td>20.00%</td><td>10%</td><td>52.00%</td><td>“</td><td>6.17%</td><td>“</td><td>15.22%</td><td>“</td><td>$0</td></tr><tr><td>KBL</td><td>25.00%</td><td>10%</td><td>57.00%</td><td>“</td><td>6.66%</td><td>“</td><td>17.25%</td><td>“</td><td>$0</td></tr></tbody></table>
+| Asset  | Current LTV | Rec. LTV | Current LT | Rec. LT | Current Liq. Bonus | Rec. Liq. Bonus | Current RF | Rec. RF | Potential Liqs. |
+| ------ | ----------- | -------- | ---------- | ------- | ------------------ | --------------- | ---------- | ------- | --------------- |
+| SAUCE  | 30.00%      | 40.00%   | 68.04%     | “       | 3.95%              | “               | 14.60%     | “       | $0              |
+| XSAUCE | 30.00%      | 40.00%   | 67.59%     | “       | 3.95%              | “               | 10.94%     | “       | $0              |
+| BONZO  | 30.00%      | 40.00%   | 59.00%     | “       | 6.66%              | “               | 17.25%     | “       | $0              |
+| KARATE | 25.00%      | 20.00%   | 65.00%     | “       | 3.46%              | “               | 19.60%     | “       | $0              |
+| $GRELF | 20.00%      | “        | 59.00%     | “       | 6.66%              | “               | 17.25%     | “       | $0              |
+| $DOVU  | 20.00%      | “        | 59.00%     | “       | 6.66%              | “               | 17.25%     | “       | $0              |
+| PACK   | 25.00%      | 10%      | 57.00%     | “       | 6.91%              | “               | 12.97%     | “       | $0              |
+| STEAM  | 20.00%      | 10%      | 57.00%     | “       | 8.14%              | “               | 13.88%     | “       | $0              |
+| HST    | 20.00%      | 10%      | 52.00%     | “       | 6.17%              | “               | 15.22%     | “       | $0              |
+| KBL    | 25.00%      | 10%      | 57.00%     | “       | 6.66%              | “               | 17.25%     | “       | $0              |
 
 \
 

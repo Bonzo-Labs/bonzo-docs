@@ -41,12 +41,13 @@ These changes will be implemented immediately after approval, with ongoing monit
 
 This Bonzo Finance Change Memo details the recommended (Rec.) adjustments to the interest rate model of the USDC market for Bonzo Finance on Hedera.
 
-| Base Variable Interest Rate | 0%        | 2%        |
-| --------------------------- | --------- | --------- |
-| Slope 1                     | 12%       | 13%       |
-| Slope 2                     | 200%      | 50%       |
-| Optimal Utilization         | 52%       | 85%       |
-| Borrow Cap                  | 5,500,000 | 10,00,000 |
+| Parameter                   | Current Value | Rec. Value |
+| --------------------------- | ------------- | ---------- |
+| Base Variable Interest Rate | 0%            | 2%         |
+| Slope 1                     | 12%           | 13%        |
+| Slope 2                     | 200%          | 50%        |
+| Optimal Utilization         | 52%           | 85%        |
+| Borrow Cap                  | 5,500,000     | 10,00,000  |
 
 \
 \

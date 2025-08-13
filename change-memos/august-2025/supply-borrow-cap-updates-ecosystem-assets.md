@@ -44,6 +44,17 @@ Modifications to ecosystem asset risk parameters will continue to be revisited a
 
 This Bonzo Finance Change Memo details the recommended (Rec.) adjustments to the Supply/Borrow Caps for the SAUCE, XSAUCE, BONZO, KARATE, GRELF, DOVU, PACK, STEAM, HST, and KBL markets on Hedera.
 
-<table data-header-hidden><thead><tr><th width="93.21484375">Asset</th><th width="175.21484375">Current Supply Cap</th><th width="156.953125">Rec. Supply Cap</th><th width="177.890625">Current Borrow Cap</th><th>Rec. Borrow Cap</th></tr></thead><tbody><tr><td>SAUCE</td><td>10,000,000</td><td>18,138,944</td><td>3,000,000</td><td>4,534,736</td></tr><tr><td>XSAUCE</td><td>35,000,000</td><td>14,936,519</td><td>10,750,000</td><td>3,734,129</td></tr><tr><td>BONZO</td><td>30,000,000</td><td>14,116,318</td><td>8,400,000</td><td>3,529,079</td></tr><tr><td>KARATE</td><td>2,000,000,000</td><td>385,208,012</td><td>803,014,392</td><td>77,041,602</td></tr><tr><td>GRELF</td><td>949,834</td><td>107,642</td><td>450,000</td><td>21,528</td></tr><tr><td>DOVU</td><td>102,000,000</td><td>19,379,844</td><td>230,000,000</td><td>3,875,968</td></tr><tr><td>PACK</td><td>10,120,275</td><td>480,307</td><td>16,053,200</td><td>0</td></tr><tr><td>STEAM</td><td>19,781,362</td><td>1,226,843</td><td>11,372,200</td><td>0</td></tr><tr><td>HST</td><td>26,725,453</td><td>1,077,934</td><td>5,537,875</td><td>0</td></tr><tr><td>KBL</td><td>45,450,838</td><td>1,161,440</td><td>16,000,000</td><td>0</td></tr></tbody></table>
+| Asset  | Current Supply Cap | Rec. Supply Cap | Current Borrow Cap | Rec. Borrow Cap |
+| ------ | ------------------ | --------------- | ------------------ | --------------- |
+| SAUCE  | 10,000,000         | 18,138,944      | 3,000,000          | 4,534,736       |
+| XSAUCE | 35,000,000         | 14,936,519      | 10,750,000         | 3,734,129       |
+| BONZO  | 30,000,000         | 14,116,318      | 8,400,000          | 3,529,079       |
+| KARATE | 2,000,000,000      | 385,208,012     | 803,014,392        | 77,041,602      |
+| GRELF  | 949,834            | 107,642         | 450,000            | 21,528          |
+| DOVU   | 102,000,000        | 19,379,844      | 230,000,000        | 3,875,968       |
+| PACK   | 10,120,275         | 480,307         | 16,053,200         | 0               |
+| STEAM  | 19,781,362         | 1,226,843       | 11,372,200         | 0               |
+| HST    | 26,725,453         | 1,077,934       | 5,537,875          | 0               |
+| KBL    | 45,450,838         | 1,161,440       | 16,000,000         | 0               |
 
 \
