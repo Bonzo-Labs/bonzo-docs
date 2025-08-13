@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>ℹ  New: Supply Caps on Asset Markets (Expand to Read)</summary>
+<summary>ℹ  7/28/25 | Note: Supply Caps on Asset Markets (Expand to Read)</summary>
 
 Bonzo Finance has crossed $70 million Total Value Locked (TVL) — an all-time high of TVL in $hbar denominated value, as well — powered by institutional inflows and a growing Hedera retail user base. **As the protocol continues to mature and evolve, larger amounts of liquidity, relative to the size of Hedera's ecosystem, calls for additional risk controls.** In coordination with risk partners, the **Bonzo Finance protocol has implemented supply caps across asset markets** for more adequate protection of lenders, the protocol, and supported tokens.&#x20;
 
