@@ -10,11 +10,11 @@ Points earnings are based on the dollar value of assets supplied to and borrowed
 
 Details of points earning calculations for season one are found in the table below:
 
-<table data-header-hidden><thead><tr><th width="161"></th><th width="270"></th><th></th></tr></thead><tbody><tr><td></td><td><strong>Mainnet Launch</strong> <br><em>(Supply only)</em></td><td><strong>After Borrowing Enabled</strong></td></tr><tr><td><strong>Supply Points</strong></td><td>4 points / $1 USD of token value</td><td>2 points / $1 USD of token value</td></tr><tr><td><strong>Borrow Points</strong></td><td>(<em>Borrowing disabled)</em></td><td>8 points / $1 USD of token value</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="161"></th><th></th></tr></thead><tbody><tr><td><strong>Supply Points</strong></td><td>2 points / $1 USD of token value</td></tr><tr><td><strong>Borrow Points</strong></td><td>8 points / $1 USD of token value</td></tr></tbody></table>
 
 ### **1st Edition Bonzo NFT Points Multiplier**
 
-Every [1st Edition Bonzo NFT](../bonzo-nft-collectables/1st-edition-bonzo-nfts.md) gave a "Bonzo Points" multiplier that automatically multiplied the points earned each day during Season Two, giving holders an extra edge in the race to the top of the leaderboard.
+Every [1st Edition Bonzo NFT](../bonzo-nft-collectables/1st-edition-bonzo-nfts.md) gave a "Bonzo Points" multiplier that automatically multiplied the points earned each day during Season Three, giving holders an extra edge in the race to the top of the leaderboard.
 
 {% hint style="info" %}
 **The multiplier applied to point earnings is based on the single highest tier 1st Edition Bonzo NFT held in the same account receiving points.**
