@@ -31,6 +31,7 @@
   * [Season One Points](rewards-and-incentives/bonzo-points/season-one-points.md)
   * [Season Two Points](rewards-and-incentives/bonzo-points/season-two-points.md)
   * [Season Three Points](rewards-and-incentives/bonzo-points/season-three-points.md)
+  * [Season Four Points](rewards-and-incentives/bonzo-points/season-four-points.md)
 * [🖼️ Bonzo NFT Collectables](rewards-and-incentives/bonzo-nft-collectables/README.md)
   * [1st Edition Bonzo NFTs](rewards-and-incentives/bonzo-nft-collectables/1st-edition-bonzo-nfts.md)
   * [Cybernetic NFT](rewards-and-incentives/bonzo-nft-collectables/cybernetic-nft.md)
