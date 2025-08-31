@@ -1,87 +1,31 @@
 # Table of contents
 
-* [🤠 Overview](README.md)
-* [🗺️ Roadmap](roadmap.md)
+## 🪙 Asset Risk
 
-## GET STARTED
+* [Introduction](README.md)
+* [Adding an Asset](asset-risk/adding-an-asset.md)
+* [Ledger Works](asset-risk/risk-score-methodology.md)
+* [Risk Parameters](asset-risk/risk-parameters.md)
+* [Risk Parameters per Asset](asset-risk/risk-parameters-per-asset.md)
+* [Oracle Price Feeds](asset-risk/oracle-price-feeds.md)
 
-* [🏦 Bonzo Mainnet](get-started/bonzo-mainnet/README.md)
-  * [Connect Wallet](get-started/bonzo-mainnet/connect-wallet.md)
-  * [Supply Assets](get-started/bonzo-mainnet/supply-assets.md)
-  * [Withdraw Assets](get-started/bonzo-mainnet/withdraw-assets.md)
-  * [Enable / Disable Collateral](get-started/bonzo-mainnet/enable-disable-collateral.md)
-  * [Borrow Assets](get-started/bonzo-mainnet/borrow-assets.md)
-  * [Repay Loan](get-started/bonzo-mainnet/repay-loan.md)
-  * [Dashboard Metrics Explained](get-started/bonzo-mainnet/dashboard-metrics-explained.md)
-* [❗ Troubleshooting](get-started/troubleshooting.md)
-* [🧪 Bonzo Testnet](get-started/bonzo-testnet.md)
-* [💸 Protocol Fees & Revenue](get-started/protocol-fees-and-revenue.md)
-* [💧 Liquidations](get-started/liquidations.md)
-* [🌐 Hedera ($HBAR)](get-started/hedera-usdhbar/README.md)
-  * [Hedera Wallet Setup](get-started/hedera-usdhbar/hedera-wallet-setup.md)
-  * [Obtaining $HBAR](get-started/hedera-usdhbar/obtaining-usdhbar.md)
-  * [Bridging Assets](get-started/hedera-usdhbar/bridging-assets.md)
+## 💸 Liquidity Risk
 
-## Rewards & Incentives
+* [Introduction](liquidity-risk/introduction.md)
+* [Historical Utilization](liquidity-risk/historical-utilization.md)
+* [Borrow Rate Methodology](liquidity-risk/borrow-rate-methodology.md)
+* [Supply Rate Methodology](liquidity-risk/supply-rate-methodology.md)
+* [Actual Rates & Parameters](liquidity-risk/actual-rates-and-parameters.md)
+* [Smart Contracts & HTS Tokens](liquidity-risk/smart-contracts-and-hts-tokens.md)
 
-* [🥩 Single-Sided Staking](rewards-and-incentives/single-sided-staking.md)
-* [✨ Native APYs & Liquidity Incentives](rewards-and-incentives/native-apys-and-liquidity-incentives.md)
-* [🎟️ Bonzo Points](rewards-and-incentives/bonzo-points/README.md)
-  * [Pre-Season Points Airdrop](rewards-and-incentives/bonzo-points/pre-season-points-airdrop.md)
-  * [Season One Points](rewards-and-incentives/bonzo-points/season-one-points.md)
-  * [Season Two Points](rewards-and-incentives/bonzo-points/season-two-points.md)
-  * [Season Three Points](rewards-and-incentives/bonzo-points/season-three-points.md)
-  * [Season Four Points](rewards-and-incentives/bonzo-points/season-four-points.md)
-* [🖼️ Bonzo NFT Collectables](rewards-and-incentives/bonzo-nft-collectables/README.md)
-  * [1st Edition Bonzo NFTs](rewards-and-incentives/bonzo-nft-collectables/1st-edition-bonzo-nfts.md)
-  * [Cybernetic NFT](rewards-and-incentives/bonzo-nft-collectables/cybernetic-nft.md)
-  * [Commemorative NFT](rewards-and-incentives/bonzo-nft-collectables/commemorative-nft.md)
-  * [Ownership & License Terms](rewards-and-incentives/bonzo-nft-collectables/ownership-and-license-terms.md)
+## 📝 Change Memos
 
-## SECURITY & RISK
+* [August 2025](change-memos/august-2025/README.md)
+  * [Risk Parameter LTV Updates - Ecosystem Assets](change-memos/august-2025/risk-parameter-ltv-updates-ecosystem-assets.md)
+  * [Supply / Borrow Cap Updates - Ecosystem Assets](change-memos/august-2025/supply-borrow-cap-updates-ecosystem-assets.md)
+  * [Interest Rate & Borrow Cap Update - USDC](change-memos/august-2025/interest-rate-and-borrow-cap-update-usdc.md)
 
-* [⚠️ Risk Framework](https://docs.bonzo.finance/bonzo-risk-framework/)
-* [🛡️ Audits](resources/audits.md)
+## 🔐 Audits & Analysis
 
-## CONTRIBUTORS
-
-* [🐵 Team](contributors/team.md)
-* [👷 Careers](contributors/careers.md)
-* [🎉 Community](contributors/community.md)
-
-## DEVELOPER
-
-* [📊 Bonzo v1 Data API](developer/bonzo-v1-data-api.md)
-* [📜 Protocol Contracts](developer/contracts-and-accounts.md)
-* [🤖 Liquidation Bots (Beta)](developer/liquidation-bots-beta/README.md)
-  * [🛸 SaucerSwap DEX](developer/liquidation-bots-beta/saucerswap-dex.md)
-  * [Environment Setup](developer/liquidation-bots-beta/environment-setup.md)
-  * [Liquidator Contract](developer/liquidation-bots-beta/liquidator-contract.md)
-  * [Configuring Hardhat](developer/liquidation-bots-beta/configuring-hardhat.md)
-  * [Performing a Liquidation](developer/liquidation-bots-beta/performing-a-liquidation.md)
-* [⚡ Flash Loans](developer/flash-loans.md)
-* [🔮 Oracles](developer/oracles/README.md)
-  * [Supra](developer/oracles/supra.md)
-  * [Chainlink](developer/oracles/chainlink.md)
-* [👾 GitHub](developer/github.md)
-* [🐞 Bug Bounty](developer/bug-bounty.md)
-
-## RESOURCES
-
-* [🟢 Status Page](http://status.bonzo.finance/)
-* [🎨 Brand Assets](resources/brand-assets.md)
-* [📚 Glossary](resources/glossary.md)
-* [📞 Contact](resources/contact/README.md)
-  * [Support](resources/contact/support.md)
-  * [Community](resources/contact/community.md)
-
-## TRANSPARENCY
-
-***
-
-* [🏦 Accounts & Contracts](accounts-and-contracts.md)
-
-## LEGAL
-
-* [📃 Terms of Service](legal/terms-of-service.md)
-* [🔒 Privacy Policy](legal/privacy-policy.md)
+* [Introduction](audits-and-analysis/introduction.md)
+* [Smart Contract Audit](audits-and-analysis/smart-contract-audit.md)
