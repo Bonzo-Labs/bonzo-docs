@@ -21,6 +21,8 @@ It's still possible for errors to occur — if you've encountered an error using
 7. Re-connect wallet
 8. Attempt transaction again
 
+**⏰ Additional Check**: Some users have experienced transaction failures due to the clock on their machine / device not being in-sync with the actual time — please ensure that your system's time reflects the accurate time.&#x20;
+
 ### **Desktop Browser + Mobile Pairing String (HashPack, Kabila)**
 
 1. Close any other windows / tabs that have SaucerSwap, Bonzo Finance, etc. active
@@ -32,6 +34,8 @@ It's still possible for errors to occur — if you've encountered an error using
 7. Re-connect wallet
 8. Attempt transaction again
 
+**⏰ Additional Check**: Some users have experienced transaction failures due to the clock on their device not being in-sync with the actual time — please ensure that your device's time reflects the accurate time.&#x20;
+
 ### **Mobile Wallet (HashPack, Kabila) + In-Wallet Browser**
 
 1. Close any other windows / tabs that have SaucerSwap, Bonzo Finance, etc. active
@@ -42,3 +46,5 @@ It's still possible for errors to occur — if you've encountered an error using
 6. Visit https://app.bonzo.finance (or tap Bonzo Finance in dapp marketplace)
 7. Re-connect wallet
 8. Attempt transaction again
+
+**⏰ Additional Check**: Some users have experienced transaction failures due to the clock on their device not being in-sync with the actual time — please ensure that your device's time reflects the accurate time.&#x20;
