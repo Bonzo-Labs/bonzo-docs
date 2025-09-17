@@ -85,3 +85,4 @@
 
 * [📃 Terms of Service](legal/terms-of-service.md)
 * [🔒 Privacy Policy](legal/privacy-policy.md)
+* [📜 MiCAR Whitepaper](legal/micar-whitepaper.md)
