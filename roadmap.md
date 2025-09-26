@@ -14,7 +14,6 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 **Projects planned for development:**
 
 * Additional Asset Listings
-* UI/UX Revamp
 * DAO Governance Implementation
 
 ## 🟧 Prioritized for Development
@@ -51,6 +50,7 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 * Bonzo Finance protocol analytics page (UI/UX + Data API integration)
 * Individual asset analytics page(s) (UI/UX + Data API integration)
 * Chainlink Oracles implementation
-* Single-sided staking for $XBONZO
+* Single-sided staking for $xBONZO
 * $BONZO Faucet in Discord for Bonzo Finance NFT holders
 * New Loan Health Monitor added to the Bonzo Dashboard
+* UI/UX Revamp
