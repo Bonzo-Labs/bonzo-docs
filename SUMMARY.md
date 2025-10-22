@@ -86,3 +86,5 @@
 * [📃 Terms of Service](legal/terms-of-service.md)
 * [🔒 Privacy Policy](legal/privacy-policy.md)
 * [📜 MiCAR Whitepaper](legal/micar-whitepaper.md)
+* [📃 ToS 1-866-BONZO-FI](legal/tos-1-866-bonzo-fi.md)
+* [🔒 Privacy 1-866-BONZO-FI](legal/privacy-1-866-bonzo-fi.md)
