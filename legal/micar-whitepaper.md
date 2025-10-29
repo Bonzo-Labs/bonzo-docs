@@ -1,6 +1,6 @@
 # 📜 MiCAR Whitepaper
 
-Bonzo Reserve Ltd. has published and notified the MiCA crypto-asset white paper for $BONZO to its home Member State (MFSA).\
+Bonzo Reserve Ltd. has published and notified the MiCAR crypto-asset white paper for $BONZO to its home Member State (MFSA).\
 \
 This crypto-asset marketing communication has not been reviewed or approved by any competent authority in any Member State of the European Union. The person seeking admission to trading is solely responsible for the content of this crypto-asset marketing communication.
 
