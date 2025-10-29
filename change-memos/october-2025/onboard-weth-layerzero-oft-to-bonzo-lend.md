@@ -72,7 +72,7 @@ Re7 modeled DEX price impact vs. liquidation profitability, linking caps to swap
 
 * **Liquidation feasibility first:** With LT 75%, LB 10%, CF 50%, worst-case unwinds remain profitable for liquidators under modeled price impact bands, reducing bad-debt risk if markets gap.
 * **Conservative vs. Aave:** Aave’s WETH often sits around LTV ≈ 80/LT ≈ 82.5 with LB ≈ 5%; Bonzo starts at 70/75/10 to account for Hedera liquidity and OFT bridge risks, then ratchets up as liquidity deepens.
-* **IR curve choice:** 0% base, &#x55;_&#x6F;pt_ 80%, and modest Slope1 (3.3%) encourage healthy utilization without inducing rate spikes; Slope2 60% sharply disincentivizes >80% utilization, preserving on-chain liquidity for liquidations.
+* **IR curve choice:** 0% base, &#x55;_&#x6F;pt_ 80%, and modest Slope1 (3.3%) encourage healthy utilization without inducing rate spikes; Slope2 85% sharply disincentivizes >80% utilization, preserving on-chain liquidity for liquidations.
 
 ### **Bridge/OFT risk notes**
 
