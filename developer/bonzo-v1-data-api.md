@@ -17,6 +17,10 @@ The **Bonzo Data API Service** provides current lending pool market statistics a
 
 ## Base URL
 
+{% hint style="warning" %}
+With the introduction of EVM ERC-20 assets on "Bonzo Lend" (e.g. $wETH LayerZero) — please utilize this temporary URL for live data, in place of the URL found below: [https://mainnet-data-staging.bonzo.finance/](https://mainnet-data-staging.bonzo.finance/) — notices will be provided via [𝕏](https://x.com/bonzo_finance) and [Discord](https://bonzo.finance/discord) for when the URL below will become active again, after this period of temporary monitoring. Thank you. &#x20;
+{% endhint %}
+
 All API requests are made to the following base URL:
 
 ```
