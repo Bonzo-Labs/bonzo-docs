@@ -10,7 +10,7 @@ Upon request, you agree to provide certain personal information for identity ver
 
 > **NOTICE:** This Agreement contains important provisions, including a binding **arbitration clause** and a **class action waiver**, which affect your rights on how disputes are resolved. The Services are available to you **only if** you agree to these terms in full.
 
-**Clarification of Parties:** The Services are provided solely by the Foundation as a legal counterparty under this Agreement. **Bonzo Finance Labs FZC** (“**Bonzo Labs**”), an independent contributor to the open-source Bonzo Finance protocol, is **not** a party to this Agreement and assumes **no contractual liability** to you under these Terms.
+**Clarification of Parties:** The Services are provided solely by the Foundation as a legal counterparty under this Agreement. **Bonzo Finance Labs FZCO** (“**Bonzo Labs**”), an independent contributor to the open-source Bonzo Finance protocol, is **not** a party to this Agreement and assumes **no contractual liability** to you under these Terms.
 
 ### 1. Our Services
 
