@@ -157,10 +157,7 @@ If you need to contact us or give formal notice of any matter: you must **email 
 3. No Purchase Necessary:
    * To enter without a purchase, post any original Bonzo-themed photo, artwork, or image and tag @bonzo\_finance.
 4. Entry Deadline: All entries must be posted by December 29, 2025 at 11:59 PM UTC.
-5. Prizes:
-   * 1st Place: $100 Bonzo Merch Store gift card
-   * 2nd Place: Ocean Bonzo NFT
-   * 3rd Place: Desert Bonzo NFT
+5. Prizes: Three winners will each receive one Desert Bonzo NFT.
 6. Winner Selection: Three winners will be chosen by the Bonzo Finance Labs team based on creativity and presentation.
 7. Notification: Winners will be announced on 𝕏 (Twitter) and contacted via DM within 7 days of contest close.
 8. Rights: By entering, participants grant Bonzo Finance the right to repost or display submitted images on social media or promotional materials with credit.
