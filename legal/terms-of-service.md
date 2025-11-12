@@ -147,6 +147,26 @@ If you need to contact us or give formal notice of any matter: you must **email 
 
 **9.8 Regional Consumer Law.** Nothing in these Terms is intended to exclude or restrict any rights you may have under **mandatory consumer-protection laws** that apply to you (e.g., in the EEA or UK). To the extent of any **non-waivable conflict** with such mandatory laws, those laws will control for affected users in those jurisdictions.
 
+**9.9 Giveaway.** Bonzo Finance Merch Giveaway — Official Rules
+
+1. Eligibility: Open to individuals aged 18 or older. Void where prohibited by law.
+2. How to Enter:
+   * Post a photo on 𝕏 (Twitter) featuring Bonzo merch in a creative or original way.
+   * Tag @bonzo\_finance in your post.
+   * (Optional) Include #BonzoMerch for visibility.
+3. No Purchase Necessary:
+   * To enter without a purchase, post any original Bonzo-themed photo, artwork, or image and tag @bonzo\_finance.
+4. Entry Deadline: All entries must be posted by December 29, 2025 at 11:59 PM UTC.
+5. Prizes:
+   * 1st Place: $100 Bonzo Merch Store gift card
+   * 2nd Place: Ocean Bonzo NFT
+   * 3rd Place: Desert Bonzo NFT
+6. Winner Selection: Three winners will be chosen by the Bonzo Finance Labs team based on creativity and presentation.
+7. Notification: Winners will be announced on 𝕏 (Twitter) and contacted via DM within 7 days of contest close.
+8. Rights: By entering, participants grant Bonzo Finance the right to repost or display submitted images on social media or promotional materials with credit.
+9. General: This contest is not sponsored, endorsed, or administered by 𝕏 (Twitter). Participation constitutes acceptance of these rules.
+10. Contact: Questions may be directed through the Bonzo Finance Discord - [https://bonzo.finance/discord](https://bonzo.finance/discord)
+
 ### 10. Contact Us
 
 If you have any questions, comments, or concerns regarding the Services or this Agreement, please contact us at **legal@bonzo.finance**. We appreciate feedback and will do our best to address your inquiry.
