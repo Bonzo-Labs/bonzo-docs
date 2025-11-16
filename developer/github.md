@@ -1,7 +1,9 @@
-# 👾 GitHub
+---
+icon: github
+---
 
-Bonzo Finance Labs is a development shop which contributes to development of the Bonzo Finance protocol, along with its user interface.
+# GitHub
 
-The Bonzo Finance Labs GitHub can be found here: [https://github.com/bonzo-labs](https://github.com/bonzo-labs)
+Bonzo Finance Labs is an independent development shop which contributes to open source development of the Bonzo Finance protocol, along with its user interface.
 
-**Please note:** The Bonzo Finance codebase is currently set as private during initial development, but will be made completely open source prior to its mainnet deployment.
+The GitHub for Bonzo Finance Labs can be found here: [https://github.com/bonzo-labs](https://github.com/bonzo-labs)

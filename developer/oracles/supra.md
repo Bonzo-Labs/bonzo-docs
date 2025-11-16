@@ -1,3 +1,7 @@
+---
+icon: superpowers
+---
+
 # Supra
 
 [Supra](https://docs.supra.com/oracles/data-feeds/data-feeds-index#tab-crypto) push oracles are currently being utilized in the Bonzo Finance protocol on Hedera for accurate and reliable price feeds. To view live data feeds, please visit the [Supra data feed dashboard](https://supra.com/data).

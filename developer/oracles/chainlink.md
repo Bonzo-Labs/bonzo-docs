@@ -1,3 +1,7 @@
+---
+icon: link
+---
+
 # Chainlink
 
 [Chainlink](http://chain.link/) push oracles are currently being utilized in the Bonzo Finance protocol on Hedera for accurate and reliable price feeds for HBAR and USDC. To view live data feeds, please visit the Chainlink documentation.

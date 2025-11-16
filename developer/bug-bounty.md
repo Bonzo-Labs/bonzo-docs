@@ -1,10 +1,14 @@
-# 🐞 Bug Bounty
+---
+icon: spider-black-widow
+---
+
+# Bug Bounty
 
 Protocol security is a top priority for Bonzo Finance Labs. To encourage responsible disclosure of vulnerabilities, a Bug Bounty Program exists with financial rewards based on the severity of the identified issues.
 
 ### Within Scope <a href="#scope" id="scope"></a>
 
-* Bonzo Finance [testnet contracts](contracts-and-accounts.md) and [GitHub repositories](https://github.com/bonzo-labs)
+* Bonzo Finance [testnet contracts](bonzo-lend/lend-contracts.md) and [GitHub repositories](https://github.com/bonzo-labs)
 * Bonzo Finance [testnet interface](https://testnet.bonzo.finance)
 
 ### Out of Scope <a href="#scope" id="scope"></a>

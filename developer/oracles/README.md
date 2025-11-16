@@ -1,4 +1,8 @@
-# 🔮 Oracles
+---
+icon: crystal-ball
+---
+
+# Oracles
 
 Oracles are on-chain entities that bridge the gap between blockchain-based smart contracts and real-world data, such as cryptocurrency prices.\
 \
