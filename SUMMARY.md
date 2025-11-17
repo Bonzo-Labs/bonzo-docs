@@ -25,6 +25,7 @@
 
 * [🔒 Bonzo Vaults Quickstart](bonzo-vaults-coming-soon/bonzo-vaults-quickstart/README.md)
   * [Vaults Explained](bonzo-vaults-coming-soon/bonzo-vaults-quickstart/vaults-explained.md)
+  * [Concentrated Liquidity Explained](bonzo-vaults-coming-soon/bonzo-vaults-quickstart/concentrated-liquidity-explained.md)
   * [Connect Wallet](bonzo-vaults-coming-soon/bonzo-vaults-quickstart/connect-wallet.md)
   * [Deposit Assets](bonzo-vaults-coming-soon/bonzo-vaults-quickstart/deposit-assets.md)
   * [Withdraw Assets](bonzo-vaults-coming-soon/bonzo-vaults-quickstart/withdraw-assets.md)
@@ -36,6 +37,7 @@
     * [High - Wide](bonzo-vaults-coming-soon/vault-strategies/single-asset-dex/high-wide.md)
   * [Dual Asset DEX](bonzo-vaults-coming-soon/vault-strategies/dual-asset-dex.md)
   * [Leveraged LST](bonzo-vaults-coming-soon/vault-strategies/leveraged-lst.md)
+  * [DEX Strategy Risks](bonzo-vaults-coming-soon/vault-strategies/dex-strategy-risks.md)
 * [🧪 Vaults Testnet](bonzo-vaults-coming-soon/vaults-testnet.md)
 * [💸 Vault Fees & Revenue](bonzo-vaults-coming-soon/vault-fees-and-revenue.md)
 * [📊 APYs & Incentives](bonzo-vaults-coming-soon/apys-and-incentives.md)

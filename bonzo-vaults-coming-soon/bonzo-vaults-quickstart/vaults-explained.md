@@ -18,7 +18,7 @@ Participants don’t earn a separate “reward token” inside the vault itself 
 
 #### Are Funds Locked in a Vault?
 
-Despite the name, Bonzo Vaults do not lock user funds:
+Despite the name, **Bonzo Vaults do not lock user funds**:
 
 * Withdrawal from a vault can take place at any time — subject only to temporary "calm periods" for certain vaults, where an automated rebalancing that takes place frequently is required before participants can withdraw.
 * Bonzo Finance does not take custody of any assets; funds are always self-custody and controlled by audited smart contracts; your wallet address is the owner of the vault shares that map to a proportional slice of the vault’s assets.

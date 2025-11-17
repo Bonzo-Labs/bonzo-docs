@@ -16,23 +16,6 @@ Under the hood, **Dual Asset DEX** strategy vaults are liquidity management cont
 
 The complexity and maintenance of concentrated liquidity management is entirely automated inside of the vault strategy.
 
-### What Is Concentrated Liquidity On Decentralized Exchanges?
-
-Traditional automated market makers (AMMs) like **SaucerSwap v1-style pools** spread liquidity across **all prices from 0 → ∞**. Liquidity suppliers earn trading fees, but most of their capital "sits" where the market never trades.
-
-**Concentrated Liquidity (SaucerSwap v2-Style Pools) Changes This:**
-
-* Instead of liquidity existing everywhere, the liquidity supplier chooses a **price range** (a band) where their liquidity lives.
-* Inside that band, their liquidity is “thicker,” so they earn **more fees per dollar** of capital.
-* If the market price moves outside of their band, the liquidity goes **out of range** and stops earning fees.
-
-**Concentrated Liquidity is Powerful but Introduces Two Problems for Users:**
-
-1. The user has to **decide a range**, and keep adjusting / maintaining it manually as the price moves — if they don't, the user misses out on potential yield earnings and may experience impermanent loss.
-2. Positions are represented as **NFTs**, with custom interfaces rather than simple “fungible LP tokens".
-
-The **Dual Asset DEX** vault strategy exist to solve exactly this: let liquidity providers tap into higher yield opportunities offered by concentrated liquidity pools, while the vault strategy automatically handles range management and rebalancing.
-
 ### The Dual Asset DEX Vault Strategy Explained
 
 The **Dual Asset DEX vault strategy** has one job: **keep as close to 100% of the liquidity deployed in range and earning fees for users**. That includes all deposits, the trading fees currently building up in the pool, and all past fees that have already been compounded back into the position.
@@ -48,7 +31,7 @@ Over time, market prices move — if the vault never adjusted, the positions wou
 
 The net effect is that all liquidity in the vault is **continuously repositioned around the market price**, with a balanced core and a single-sided band for any excess, so almost all of the liquidity stays active and earning fees — without the strategy constantly selling tokens just to rebalance, which is where many users who manage liquidity themselves in a SaucerSwap v2 pool end up experiencing significant impermanent loss.
 
-### Yield Earnings: Trading Fees & LARI Rewards
+### Yield Earnings: DEX Trading Fees & LARI Rewards
 
 Liquidity that's been deposited by the vault into an underlying SaucerSwap v2 concentrated liquidity pool generates fees for every trade. In addition, if an underlying pool offers LARI token incentives, vault participants will receive these, as well.
 
@@ -81,18 +64,16 @@ As the strategy continues to **harvest trading fees**, **collect incentives**, a
 
 **When you’re ready to exit, you simply withdraw from the vault:**
 
-* Your vault shares are **burned**,
+* Your vault shares are burned,
 * And the vault sends you your slice of the current position in Token A and Token B — including any imbalance that’s built up from price moves and concentrated liquidity behavior.
 
 Day-to-day you do not have to think about fee claims, reward contracts, or compounding logic — you just need to know that your Dual Asset DEX vault token is a growing claim on the strategy’s assets.
 
-### Impermanent Loss & Risks
+### Impermanent Loss
 
-Providing concentrated liquidity in any DEX pool – including through a Dual Asset DEX vault – exposes you to market risk and impermanent loss (IL). The vault automates range management and compounding, but it cannot remove the underlying economic risk of being a liquidity provider.
+Providing concentrated liquidity in any DEX pool – including through a Dual Asset DEX or [Single Asset DEX](single-asset-dex/) vault – exposes you to market risk and impermanent loss (IL). The vault automates range management and compounding, but it cannot remove the underlying economic risk of being a liquidity provider.
 
-#### Dual Asset DEX Vault Strategy - Impermanent Loss
-
-The Dual Asset DEX vault strategy is **designed to keep liquidity in range and fee-earning as much as possible**, and to avoid unnecessary token selling when rebalancing. This helps in a few ways:
+The **Dual Asset DEX** strategy is **designed to keep liquidity in range and fee-earning as much as possible**, and to avoid unnecessary token selling when rebalancing. This helps in a few ways:
 
 * By staying in range, the position can continuously earn trading fees, which may offset some or all of the impermanent loss over time.
 * The “Alt Position” parks any “overweight” token in a single-sided band instead of instantly selling it back into a 50/50 mix, which reduces constant churn and slippage compared to manual rebalancing.
@@ -101,52 +82,3 @@ The Dual Asset DEX vault strategy is **designed to keep liquidity in range and f
 However, impermanent loss is still possible when utilizing a **Dual Asset DEX** strategy vault.  Impermanent loss is the difference between the value of your tokens if you had simply held them in your wallet, versus the value of your share of the liquidity pool when you withdraw.
 
 When prices move, the pool’s AMM math gradually rebalances you into more of the weaker token and less of the stronger token. If the relative price between the two tokens has changed a lot by the time you exit, your position may be worth less (in USD terms) than simply holding the original tokens, even after including fees and rewards.
-
-#### Dual Asset DEX Vault Strategy - Risks
-
-When using a Dual Asset DEX vault, you accept the following non-exhaustive set of risks:
-
-**1. Price & Market Risk**
-
-* If both tokens go down in USD terms, the value of your position (and your vault shares) also goes down.
-* If one token crashes or gets exploited, your share of the pool may end up heavily skewed toward that failing asset.
-* High volatility can increase both earned fees and impermanent loss; outcomes are not guaranteed to be positive.
-
-**2. Impermanent Loss Risk**
-
-* Large relative price moves between the two tokens (e.g., Token A 2–3x vs. Token B or vice versa) can lead to significant IL.
-* Even with active management, you may withdraw more of the underperforming token and less of the outperforming token than you initially contributed, after all rebalances.
-* If you exit after a big divergence without a price “reversion,” the IL is realized and may outweigh fees and rewards.
-
-**3. Range Management & Strategy Risk**
-
-* The vault relies on on-chain logic (e.g., `moveTicks()` functions) being called regularly to keep positions in a healthy band. If these calls are delayed, fail, or become uneconomical, positions can sit out of range and stop earning fees.
-* The chosen parameters  — how wide ranges are, how often to rebalance, how the main vs. alt positions are configured --  are strategy choices, not guarantees. Different choices would produce different results; past performance of a given configuration does not guarantee future outcomes.
-* During rebalances, harvests, and LARI reward function calls, there may be slippage and trading costs that reduce net returns.
-
-**4. LARI & Incentive Token Risk**
-
-* LARI (or any other reward token) has its own market and liquidity risk. If LARI’s price falls, the additional yield from incentives shrinks.
-* The vault typically swaps LARI into the underlying pool tokens; this adds DEX execution risk (slippage, price impact) each time rewards are harvested and converted.
-
-**5. Smart Contract & Protocol Risk**
-
-By using the vault, you are trusting multiple smart contract systems:
-
-* The vault contracts themselves,
-* The underlying SaucerSwap v2 concentrated liquidity pools, and
-* Any related reward or integrations contracts involved in the strategy.
-
-Even with audits and testing, smart contracts can contain bugs, vulnerabilities, or unexpected behaviors that may lead to loss of funds.
-
-Other protocol-level risks include:
-
-* Issues or exploits in the underlying blockchain or network,
-* Governance changes or upgrades to partner protocols,
-* Oracle or price-manipulation attacks on the pools where the strategy is deployed.
-
-**6. Liquidity, Slippage & Timing Risk**
-
-* Large deposits or withdrawals relative to vault size can experience **slippage** as the strategy rebalances and repositions liquidity.
-* Entering or exiting during periods of extreme volatility or low liquidity can lead to worse execution and a less favorable mix of tokens upon withdrawal.
-* Vault share prices move with underlying pool conditions; the value of shares can be higher or lower at any given moment depending on market behavior.
