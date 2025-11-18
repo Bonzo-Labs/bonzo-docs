@@ -103,7 +103,8 @@
 
 ## LEGAL
 
-* [📃 Terms of Service](legal/terms-of-service.md)
+* [📃 Protocol Terms of Service](legal/protocol-terms-of-service.md)
+* [📄 Bonzo Points Terms & Conditions](legal/bonzo-points-terms-and-conditions.md)
 * [🔒 Privacy Policy](legal/privacy-policy.md)
 * [📜 MiCAR Whitepaper](legal/micar-whitepaper.md)
 * [📃 ToS 1-866-BONZO-FI](legal/tos-1-866-bonzo-fi.md)
