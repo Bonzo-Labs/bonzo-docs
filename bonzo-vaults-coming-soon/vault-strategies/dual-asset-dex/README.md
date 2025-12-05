@@ -85,3 +85,17 @@ When prices move, the pool’s AMM math gradually rebalances you into more of th
 
 ### Calm Periods
 
+To ensure the **Dual Asset DEX** strategy only rebalances during healthy market conditions, Bonzo Vaults utilize a built-in safety feature known as the "**Calm Period**." This mechanism protects user positions from extreme volatility, flash crashes, or price manipulation on the underlying DEX.
+
+How the Calm Period works: Under the hood, before the strategy executes any rebalance or "moveTicks" function, it performs a price check. It compares the current spot price of the pool (the price right now) against a Time-Weighted Average Price (TWAP) calculated over a recent duration.
+
+If the current spot price deviates significantly from the average price, the strategy determines that the market is too volatile or potentially manipulated. When this happens:
+
+* The strategy enters a Calm Period.
+* Deposits into the vault during this period are paused; rebalancing is also paused.
+* Withdrawals can take place at any time.
+
+**Why this matters for your position:** Automated strategies rely on accurate pricing to place liquidity effectively. If the vault were to rebalance during a momentary price spike or a "whipsaw" event, it might sell tokens at an artificial loss or place liquidity in a range that becomes irrelevant seconds later.
+
+By utilizing the Calm Period, the vault ensures that it only adjusts positions when the price is confirmed to be stable. This prevents the strategy from realizing unnecessary impermanent loss or paying transaction fees to chase temporary volatility, ensuring that rebalancing actions are always productive for the long-term health of the position.
+
