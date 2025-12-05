@@ -82,3 +82,6 @@ The **Dual Asset DEX** strategy is **designed to keep liquidity in range and fee
 However, impermanent loss is still possible when utilizing a **Dual Asset DEX** strategy vault.  Impermanent loss is the difference between the value of your tokens if you had simply held them in your wallet, versus the value of your share of the liquidity pool when you withdraw.
 
 When prices move, the pool’s AMM math gradually rebalances you into more of the weaker token and less of the stronger token. If the relative price between the two tokens has changed a lot by the time you exit, your position may be worth less (in USD terms) than simply holding the original tokens, even after including fees and rewards.
+
+### Calm Periods
+
