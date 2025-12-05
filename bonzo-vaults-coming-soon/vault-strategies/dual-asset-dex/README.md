@@ -25,7 +25,7 @@ Whenever a user deposits or withdraws — or a scheduled "harvest" function runs
 * A M**ain Position**, where it uses a roughly 50/50 mix of the pair and deploys it into a symmetric price range around the current market price. This is the “core” concentrated liquidity position that earns most of the trading fees while the price stays in that band.
 * An **Alt Position**, built from any leftover of the token that has become "overweight" as prices moved. Instead of selling those extra "overweight" tokens to rebalance the pool, the strategy intentionally parks it in a narrower, single-sided band that hugs one side of the main position. This keeps the excess token deployed and fee-earning, instead of idle or immediately sold / deposited into the 50/50 range.
 
-<div align="center" data-with-frame="true"><figure><img src="../../.gitbook/assets/Screenshot 2025-11-14 at 3.01.11 AM.png" alt="" width="375"><figcaption><p>Main Position &#x26; Alt Position | SaucerSwap V2 Pool Visualization</p></figcaption></figure></div>
+<div align="center" data-with-frame="true"><figure><img src="../../../.gitbook/assets/Screenshot 2025-11-14 at 3.01.11 AM.png" alt="" width="375"><figcaption><p>Main Position &#x26; Alt Position | SaucerSwap V2 Pool Visualization</p></figcaption></figure></div>
 
 Over time, market prices move — if the vault never adjusted, the positions would drift out of range, stop earning, and leave the liquidity supplier overexposed to the weaker token. To avoid that, the strategy periodically checks the current pool price, chooses a fresh range around it, and **rebuilds the same main + alt structure around the new price**. In Bonzo Vaults, this is done through an on-chain `moveTicks()` style function that is called automatically every so often to keep things in a healthy band and resist short-term price manipulation.
 
@@ -71,7 +71,7 @@ Day-to-day you do not have to think about fee claims, reward contracts, or compo
 
 ### Impermanent Loss
 
-Providing concentrated liquidity in any DEX pool – including through a Dual Asset DEX or [Single Asset DEX](single-asset-dex/) vault – exposes you to market risk and impermanent loss (IL). The vault automates range management and compounding, but it cannot remove the underlying economic risk of being a liquidity provider.
+Providing concentrated liquidity in any DEX pool – including through a Dual Asset DEX or [Single Asset DEX](../single-asset-dex/) vault – exposes you to market risk and impermanent loss (IL). The vault automates range management and compounding, but it cannot remove the underlying economic risk of being a liquidity provider.
 
 The **Dual Asset DEX** strategy is **designed to keep liquidity in range and fee-earning as much as possible**, and to avoid unnecessary token selling when rebalancing. This helps in a few ways:
 

@@ -20,7 +20,6 @@ In order to claim $BONZO tokens from this NFT, it must be [burned on the HeadSta
 
 ### **👑  Royalty Fee**
 
-There are royalty fees configured for the Cybernetic NFT as outlined in the table below.\
-
+There are royalty fees configured for the Cybernetic NFT as outlined in the table below.<br>
 
 <table><thead><tr><th width="244">Description</th><th>% Fee</th></tr></thead><tbody><tr><td>Bonzo Finance</td><td>4.5%</td></tr><tr><td>InAMaze Artist</td><td>0.5%</td></tr></tbody></table>

@@ -1,6 +1,6 @@
 # Concentrated Liquidity Explained
 
-The [Dual Asset DEX](../vault-strategies/dual-asset-dex.md) and [Single Asset DEX](../vault-strategies/single-asset-dex/) strategy vaults route and actively manage vault deposits in underlying [SaucerSwap](https://saucerswap.finance/) V2 (decentralized exchange) pools, called **concentrated liquidity** pools. Found below is an explanation of how concentrated liquidity pools work.
+The [Dual Asset DEX](../vault-strategies/dual-asset-dex/) and [Single Asset DEX](../vault-strategies/single-asset-dex/) strategy vaults route and actively manage vault deposits in underlying [SaucerSwap](https://saucerswap.finance/) V2 (decentralized exchange) pools, called **concentrated liquidity** pools. Found below is an explanation of how concentrated liquidity pools work.
 
 ### What Is Concentrated Liquidity On Decentralized Exchanges?
 

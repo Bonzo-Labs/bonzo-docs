@@ -145,4 +145,4 @@ The CCPA provides California consumers the right to request to know more details
 
 California consumers may make a request pursuant to their rights under the CCPA by contacting us per the "Contact Information" section, above. You will need to verify your identity and the reason for your inquiry before any further action is taken. As such, valid government identification may be required. You may, and in order to, designate an authorized agent to make a request on your behalf, must provide a valid power of attorney, the requester's valid government issued identification, and the authorized agent's valid government issued identification.
 
-\
+<br>
