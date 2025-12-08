@@ -52,6 +52,7 @@
   * [Season Two Points](staking-nfts-and-points/bonzo-points/season-two-points.md)
   * [Season Three Points](staking-nfts-and-points/bonzo-points/season-three-points.md)
   * [Season Four Points](staking-nfts-and-points/bonzo-points/season-four-points.md)
+  * [Season Five Points](staking-nfts-and-points/bonzo-points/season-five-points.md)
 * [🖼️ Bonzo NFT Collectables](staking-nfts-and-points/bonzo-nft-collectables/README.md)
   * [1st Edition Bonzo NFTs](staking-nfts-and-points/bonzo-nft-collectables/1st-edition-bonzo-nfts.md)
   * [Cybernetic NFT](staking-nfts-and-points/bonzo-nft-collectables/cybernetic-nft.md)
