@@ -8,64 +8,65 @@ Protocol security is a top priority for Bonzo Finance Labs. To encourage respons
 
 ### Within Scope <a href="#scope" id="scope"></a>
 
-* Bonzo Finance [testnet contracts](bonzo-lend/lend-contracts.md) and [GitHub repositories](https://github.com/bonzo-labs)
-* Bonzo Finance [testnet interface](https://testnet.bonzo.finance)
+* Bonzo Lend [testnet & mainnet contracts](bonzo-lend/lend-contracts.md) and [GitHub repository](https://github.com/Bonzo-Labs/bonzo-finance-contracts)
+* Bonzo Lend [testnet & mainnet interface](https://testnet.bonzo.finance)
+* Bonzo Vaults [mainnet contracts](bonzo-vaults-beta/vaults-contracts.md) and [GitHub repository](https://github.com/Bonzo-Labs/beefy-hedera-contracts)
+* Single-Sided Staking contracts and [GitHub repository](https://github.com/Bonzo-Labs/bonzo-staking-module)
 
 ### Out of Scope <a href="#scope" id="scope"></a>
 
-* Bonzo Finance mainnet contracts and production environment (testing restricted to testnet, which mirrors mainnet)
 * Third-party contracts not directly associated with Bonzo Finance
-* Known issues from previous audit and bug bounty reports
-* Third-party applications using Bonzo Finance contracts
+* Known issues from audits, bug bounty reports, or in-development fixes
+* Third-party applications which utilize Bonzo Finance contracts
 * Any findings that rely on Denial of Service (DoS) or Distributed Denial of Service (DDoS)
 
 ### Rewards <a href="#scope" id="scope"></a>
 
-The program includes the following four-level severity scale, based on the OWASP risk rating methodology:
+**The Bug Bountry program includes the following four-level severity scale, based on the OWASP risk rating methodology:**
 
-**• Critical:** Issues that could impact numerous users and have serious reputational, legal, or financial implications. An example would be being able to lock contracts permanently or take funds from all users.
+**⚠️ Critical:** Issues that could impact numerous users and have serious reputational, legal, or financial implications. An example would be being able to lock contracts permanently or take funds from all users.
 
-**• High:** Issues that impact individual users where exploitation would pose reputational, legal, or moderate financial risk to the user.
+**🟥 High:** Issues that impact individual users where exploitation would pose reputational, legal, or moderate financial risk to the user.
 
-**• Medium:** The risk is relatively small and does not pose a threat to user funds.
+**🟨 Medium:** The risk is relatively small and does not pose a threat to user funds.
 
-**• Informational:** The issue does not pose an immediate risk but is relevant to security best practices.
+**🟩 Informational:** The issue does not pose an immediate risk but is relevant to security best practices.
 
-Bonzo Finance Labs will determine rewards based on the bug's severity and its potential for exploitation. Rewards may be disbursed in U.S. dollars, cryptocurrency, or a mix of both.
+**Bonzo Finance Labs will determine rewards based on the bug's severity and its potential for exploitation. Rewards may be disbursed in USDC, various cryptocurrency assets, or a mix of both. Receipt of reaward requires idenenty**&#x20;
 
 ### Disclosure
 
-Report vulnerabilities to [contact@bonzo.finance](mailto:contact@bonzo.finance). An acknowledgment will be sent within two to three business days. Do not disclose the bug publicly until it is resolved and permitted by Bonzo Finance Labs.
+Please report vulnerabilities to [contact@bonzo.finance](mailto:contact@bonzo.finance). An acknowledgment will be sent within two to three business days if the issue identified qualifies. **Do not disclose the bug publicly** until it has been resolved and official notice has been provided by Bonzo Finance Labs, acting as an independent protocol development and operations steward for the Bonzo Finance Foundation.
 
-A detailed report of a vulnerability increases the likelihood of a reward and may increase the reward amount. Please provide as much information about the vulnerability as possible, including:
+A detailed report of a vulnerability increases the likelihood of a reward — it also may increase the reward amount. Please provide as much information about the discovered vulnerability as possible, including:
 
-* Conditions required for reproducing the bug
+* A detailed description of the conditions required for reproducing the bug
 * Step-by-step guide or proof of concept for reproduction
-* Potential consequences if exploited
-* Suggested remediation (optional)
+* Detailed explanation / reasoning of the potential consequences if exploited
+* Suggestions on how best to remediate the vulnerability (optional)
 
-Anyone who reports a unique, previously-unreported vulnerability that results in a change to the code or a configuration change and who keeps such vulnerability confidential until it has been resolved by our engineers will be financially rewarded.
+Anyone who reports a unique, previously-unreported bug or vulnerability — which results in a change to the codebase or configuration — AND who keeps such discovery confidential until it has been resolved will be financially rewarded.
 
 ### Eligibility
 
-To be eligible for a reward under this program, you must meet the following conditions:
+**To be eligible for a reward under this program, you must meet the following conditions:**
 
-1. **Uniqueness:** Discover a previously unreported, non-public vulnerability that is not already known to our team and is within the scope of the program.
-2. **First Disclosure:** Be the first to disclose the unique vulnerability to [contact@bonzo.finance](mailto:contact@bonzo.finance) and adhere to the program's disclosure requirements.
-3. **Detailed Reporting:** Provide comprehensive information that enables our engineers to reproduce and remedy the vulnerability.
-4. **Non-Exploitation:** Do not exploit the vulnerability in any form, including publicizing it or seeking other forms of profit, except under this program.
-5. **Non-Publicization:** Do not disclose the vulnerability to the public or any third party without our explicit approval.
-6. **Ethical Conduct:** Make a good faith effort to prevent privacy violations, data destruction, service interruption, or any degradation of in-scope assets.
-7. **Lawful Behavior:** Do not engage in any unlawful conduct during the disclosure process, such as making threats or demands.
-8. **Age Requirement:** Must be at least 18 years of age. If younger, you may participate with the consent of a parent or guardian.
-9. **Legal Compliance:** Cannot be subject to U.S. sanctions or reside in a U.S.-embargoed country.
-10. **Non-Affiliation:** Cannot be a current or former employee, vendor, or contractor who contributed to the development of the affected code.
-11. **Complete Compliance:** Must comply with all other eligibility requirements specified in this program.
+1. **Uniqueness:** Discover a previously unreported, non-public vulnerability that is not already known to the Bonzo Finance Labs or Bonzo Finance Foundation team(s) and is within the scope of the program.
+2. **First Disclosure:** `Be  first` to disclose the unique vulnerability to [contact@bonzo.finance](mailto:contact@bonzo.finance) and adhere to the program's disclosure requirements.
+3. **Detailed Reporting:** `Provide` comprehensive information that enables core engineers to reproduce and remedy the vulnerability.
+4. **Non-Exploitation:** `Do not` exploit the vulnerability in any form, including publicizing it or seeking other forms of profit, except under this program.
+5. **Non-Publication:** `Do not` disclose the vulnerability to the public or any third party without our explicit approval.
+6. **Ethical Conduct:** `Provide` best faith efforts to prevent privacy violations, data destruction, service interruption, and any degradation of in-scope assets.
+7. **Lawful Behavior:** `Do not` engage in any unlawful conduct during the disclosure process, such as making threats, demands, or extortion of any kind.
+8. **Age Requirement:** `Must be` at least 18 years of age; if younger, you may participate with the consent of a parent or guardian.
+9. **Legal Compliance:** `Cannot be` subject to U.S. sanctions or reside in a U.S.-embargoed or sanctioned country.
+10. **Non-Affiliation:** `Cannot be` a current or former employee, vendor, or contractor who contributed to development of the affected code.
+11. **Complete Compliance:** `Must be` in compliance with all other eligibility requirements specified in this program.
 
-By meeting these criteria, you become eligible for a reward under the Bonzo Finance Bug Bounty Program.
+By meeting these criteria, you become eligible for a reward under the Bonzo Finance Bug Bounty Program ✨
 
 ### Other Terms
 
-By submitting a report, you grant Bonzo Finance Labs the rights necessary to validate and resolve the vulnerability. All reward decisions are at our sole discretion. The program's terms may be changed at any time.
+By submitting a report, you grant Bonzo Finance Foundation the rights necessary to validate and resolve the vulnerability itself or by independent services providers. All reward decisions are made at Bonzo Finance Foundation's sole discretion. The program's terms may be changed at any time.
 
 For questions about the bug bounty program, please contact [contact@bonzo.finance](mailto:contact@bonzo.finance).
