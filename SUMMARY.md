@@ -3,6 +3,7 @@
 * [🤠 Bonzo Finance Overview](README.md)
 * [⭐ Hedera Onboarding](https://hbar.guide/)
 * [🗺️ Protocol Roadmap](protocol-roadmap.md)
+* [🪙 ERC-20 Token Display](erc-20-token-display.md)
 * [❗ Troubleshooting](troubleshooting.md)
 
 ## Bonzo Lend&#x20;
