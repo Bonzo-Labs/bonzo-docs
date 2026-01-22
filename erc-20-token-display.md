@@ -24,7 +24,7 @@ How these tokens display in your wallet depends on which wallet you use. MetaMas
 Note: Unlike token associations for HTS assets, "associating" an EVM ERC-20 asset in HashPack does not charge a network / transaction fee to your account.
 {% endhint %}
 
-<table><thead><tr><th width="150.859375" align="center">Token Symbol</th><th width="175.46484375" align="center">EVM Address</th><th align="center">Description</th></tr></thead><tbody><tr><td align="center">wETH</td><td align="center">0xca367694cdac8f152e33683bb36cc9d6a73f1ef2</td><td align="center">Wrapped Ethereum is a tokenized version of Ether (ETH), the native currency of the Ethereum blockchain. This version of wETH is issued by LayerZero and can be bridged using Stargate Finance.</td></tr><tr><td align="center">wBTC</td><td align="center">0xd7d4d91d64a6061fa00a94e2b3a2d2a5fb677849</td><td align="center">Wrapped Bitcoin is a tokenized version of Bitcoin (BTC) that runs on the Ethereum (ETH) blockchain. This version of wBTC is issued by LayerZero and can be bridged using Stargate Finance.</td></tr></tbody></table>
+<table><thead><tr><th width="79.765625">Icon</th><th width="99.53125">Symbol</th><th width="175.53515625" align="center">EVM Address</th><th width="339.61328125" align="center">Description</th></tr></thead><tbody><tr><td><p></p><p><img src=".gitbook/assets/wETH" alt="" data-size="original"></p></td><td>wETH</td><td align="center">0xca367694cdac8f152e33683bb36cc9d6a73f1ef2</td><td align="center">Wrapped Ethereum is a tokenized version of Ether (ETH), the native currency of the Ethereum blockchain. This version of wETH is issued by LayerZero and can be bridged using Stargate Finance.</td></tr><tr><td><p></p><p><img src=".gitbook/assets/wBTC.png" alt="" data-size="original"></p><p></p></td><td>wBTC</td><td align="center">0xd7d4d91d64a6061fa00a94e2b3a2d2a5fb677849</td><td align="center">Wrapped Bitcoin is a tokenized version of Bitcoin (BTC) that runs on the Ethereum (ETH) blockchain. This version of wBTC is issued by LayerZero and can be bridged using Stargate Finance.</td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Bonzo Lend LP Tokens" %}
@@ -54,8 +54,6 @@ Note: Unlike token associations for HTS assets, "associating" an EVM ERC-20 asse
 {% endtab %}
 
 {% tab title="Bonzo Vaults LP Tokens" %}
-
-
 **When assets are deposited into a Bonzo Vault — regardless of strategy (Dual Asset DEX, Single Asset DEX, or Leveraged LST) — the user receives EVM ERC-20 "receipt" tokens that represent the user's proportional share of the vault. These tokens are "invisible" to HashPack wallet and** [**Hashscan**](https://hashscan.io/) **explorer — however, you can make them visible in HashPack wallet, with unique token icons, by following the instructions below.**\
 \
 **HashPack Instructions:**
@@ -85,3 +83,4 @@ Note: Unlike token associations for HTS assets, "associating" an EVM ERC-20 asse
 {% endtabs %}
 {% endtab %}
 {% endtabs %}
+
