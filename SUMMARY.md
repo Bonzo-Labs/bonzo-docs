@@ -28,6 +28,7 @@
   * [Vaults Explained](bonzo-vaults-beta/bonzo-vaults-quickstart/vaults-explained.md)
   * [Concentrated Liquidity Explained](bonzo-vaults-beta/bonzo-vaults-quickstart/concentrated-liquidity-explained.md)
   * [Connect Wallet](bonzo-vaults-beta/bonzo-vaults-quickstart/connect-wallet.md)
+  * [ERC-20 Token Display](bonzo-vaults-beta/bonzo-vaults-quickstart/erc-20-token-display.md)
   * [Deposit Assets](bonzo-vaults-beta/bonzo-vaults-quickstart/deposit-assets.md)
   * [Withdraw Assets](bonzo-vaults-beta/bonzo-vaults-quickstart/withdraw-assets.md)
 * [🧠 Vault Strategies](bonzo-vaults-beta/vault-strategies/README.md)
