@@ -46,8 +46,6 @@ icon: file-signature
 
 <summary>USDC-HBAR</summary>
 
-
-
 <table><thead><tr><th width="166.078125">Contract Name</th><th>EVM Address</th></tr></thead><tbody><tr><td>strategyProxy</td><td>0x157EB9ba35d70560D44394206D4a03885C33c6d5</td></tr><tr><td>vault<br>(LP Token Address)</td><td>0x724F19f52A3E0e9D2881587C997db93f9613B2C7</td></tr><tr><td>pool</td><td>0xc5b707348da504e9be1bd4e21525459830e7b11d</td></tr><tr><td>token0</td><td>0x000000000000000000000000000000000006f89a</td></tr><tr><td>token1</td><td>0x0000000000000000000000000000000000163b5a</td></tr><tr><td>rewardTokens<br>(LARI Rewards)</td><td>0x0000000000000000000000000000000000163b5a<br>0x00000000000000000000000000000000000b2ad5<br>0x0000000000000000000000000000000000492a28</td></tr></tbody></table>
 
 </details>
@@ -55,8 +53,6 @@ icon: file-signature
 <details>
 
 <summary>USDC-SAUCE</summary>
-
-
 
 <table><thead><tr><th width="167.94921875">Contract Name</th><th>EVM Address</th></tr></thead><tbody><tr><td>strategyProxy</td><td>0xDC74aC010A60357A89008d5eBDBaF144Cf5BD8C6</td></tr><tr><td>vault<br>(LP Token Address)</td><td>0x0171baa37fC9f56c98bD56FEB32bC28342944C6e</td></tr><tr><td>pool</td><td>0x36acdfe1cbf9098bdb7a3c62b8eaa1016c111e31</td></tr><tr><td>token0</td><td>0x000000000000000000000000000000000006f89a</td></tr><tr><td>token1</td><td>0x00000000000000000000000000000000000b2ad5</td></tr><tr><td>rewardTokens<br>(LARI Rewards)</td><td>0x0000000000000000000000000000000000163b5a<br>0x00000000000000000000000000000000000b2ad5<br>0x0000000000000000000000000000000000492a28</td></tr></tbody></table>
 
@@ -66,8 +62,6 @@ icon: file-signature
 
 <summary>BONZO-XBONZO</summary>
 
-
-
 <table><thead><tr><th width="167.94921875">Contract Name</th><th>EVM Address</th></tr></thead><tbody><tr><td>strategyProxy</td><td>0x3Dab58797e057878d3cD8f78F28C6967104FcD0c</td></tr><tr><td>vault<br>(LP Token Address)</td><td>0xcfba07324bd207C3ED41416a9a36f8184F9a2134</td></tr><tr><td>pool</td><td>0xf6cc94f16bc141115fcb9b587297aecfa14f4eb6</td></tr><tr><td>token0</td><td>0x00000000000000000000000000000000007e545e</td></tr><tr><td>token1</td><td>0x0000000000000000000000000000000000818e2d</td></tr><tr><td>rewardTokens<br>(LARI Rewards)</td><td>0x0000000000000000000000000000000000163b5a<br>0x00000000000000000000000000000000000b2ad5<br>0x0000000000000000000000000000000000492a28</td></tr></tbody></table>
 
 </details>
@@ -75,8 +69,6 @@ icon: file-signature
 <details>
 
 <summary>SAUCE-XSAUCE</summary>
-
-
 
 <table><thead><tr><th width="167.94921875">Contract Name</th><th>EVM Address</th></tr></thead><tbody><tr><td>strategyProxy</td><td>0xE9Ab1D3C3d086A8efA0f153f107B096BEaBDee6f</td></tr><tr><td>vault<br>(LP Token Address)</td><td>0x8AEE31dFF6264074a1a3929432070E1605F6b783</td></tr><tr><td>pool</td><td>0xcfeffaae43f176f91602d75ec1d0637e273c973b</td></tr><tr><td>token0</td><td>0x00000000000000000000000000000000000b2ad5</td></tr><tr><td>token1</td><td>0x00000000000000000000000000000000001647e8</td></tr><tr><td>rewardTokens<br>(LARI Rewards)</td><td>0x0000000000000000000000000000000000163b5a<br>0x00000000000000000000000000000000000b2ad5<br>0x0000000000000000000000000000000000492a28</td></tr></tbody></table>
 
@@ -90,9 +82,7 @@ icon: file-signature
 
 <summary><strong>HBARX</strong></summary>
 
-
-
-<table><thead><tr><th width="166.078125">Contract Name</th><th>EVM Address</th></tr></thead><tbody><tr><td>strategyProxy</td><td>0xE7f31dD688Ce850e44902b2c55D703BC2d91a84e</td></tr><tr><td>vault<br>(LP Token Address)</td><td>0x10288A0F368c82922a421EEb4360537b93af3780</td></tr></tbody></table>
+<table><thead><tr><th width="166.078125">Contract Name</th><th>EVM Address</th></tr></thead><tbody><tr><td>strategyProxy</td><td>0xE7f31dD688Ce850e44902b2c55D703BC2d91a84e</td></tr><tr><td>vault (LP Token Address)</td><td>0x10288A0F368c82922a421EEb4360537b93af3780</td></tr></tbody></table>
 
 </details>
 {% endtab %}
