@@ -12,26 +12,28 @@ It's still possible for errors to occur — if you've encountered an error using
 
 ### **Desktop Browser + Chrome Extension Wallet (or Mobile Wallet)**
 
-1. Close all windows / tabs with other Hedera ecosystem apps open (e.g. SaucerSwap, SentX, etc.)
-2. Disconnect your wallet from the Bonzo Finance interface
-3. Disconnect Bonzo Finance connections from within your wallet's interface \[globe icon top right]
-4. Clear your browser's cache for https://app.bonzo.finance (or clear the entire cache)
-5. Quit your browser application
-6. Re-open your browser application
-7. Re-connect your wallet on the Bonzo Finance interface
-8. Attempt transaction again
+1. Disconnect from any VPN you may be using
+2. Close all windows / tabs with other Hedera ecosystem apps open (e.g. SaucerSwap, SentX, etc.)
+3. Disconnect your wallet from the Bonzo Finance interface
+4. Disconnect Bonzo Finance connections from within your wallet's interface \[globe icon top right]
+5. Clear your browser's cache for https://app.bonzo.finance (or clear the entire cache)
+6. Quit your browser application
+7. Re-open your browser application
+8. Re-connect your wallet on the Bonzo Finance interface
+9. Attempt transaction again
 
 **⏰ Additional Check**: Some users have experienced transaction failures due to the clock on their machine / device not being in-sync with the actual time — please ensure that your system's time reflects the accurate time.&#x20;
 
 ### **Mobile Browser + Mobile Wallet (or In-Wallet Browser)**
 
-1. Close all tabs with other Hedera ecosystem apps open (e.g. SaucerSwap, SentX, etc.)
-2. Disconnect your wallet from the Bonzo Finance interface
-3. Disconnect Bonzo Finance connections from within your wallet's interface \[globe icon top right]
-4. Force quit your mobile wallet
-5. Re-open your mobile wallet
-6. Visit https://app.bonzo.finance (or tap "Bonzo Finance" in Dapp marketplace \[HashPack / Kabila])
-7. Re-connect your wallet on the Bonzo Finance interface
-8. Attempt transaction again
+1. Disconnect from any VPN you may be using
+2. Close all tabs with other Hedera ecosystem apps open (e.g. SaucerSwap, SentX, etc.)
+3. Disconnect your wallet from the Bonzo Finance interface
+4. Disconnect Bonzo Finance connections from within your wallet's interface \[globe icon top right]
+5. Force quit your mobile wallet
+6. Re-open your mobile wallet
+7. Visit https://app.bonzo.finance (or tap "Bonzo Finance" in Dapp marketplace \[HashPack / Kabila])
+8. Re-connect your wallet on the Bonzo Finance interface
+9. Attempt transaction again
 
 **⏰ Additional Check**: Some users have experienced transaction failures due to the clock on their machine / device not being in-sync with the actual time — please ensure that your system's time reflects the accurate time.&#x20;
