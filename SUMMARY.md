@@ -116,3 +116,4 @@
 * [⭐ Hedera Onboarding](legal/hedera-onboarding/README.md)
   * [Hedera Wallet Setup](legal/hedera-onboarding/hedera-wallet-setup.md)
   * [Obtaining $HBAR](legal/hedera-onboarding/obtaining-usdhbar.md)
+* [🕵️ Bonzo Finance: DevDay Scavenger Hunt](legal/bonzo-finance-devday-scavenger-hunt.md)
