@@ -6,9 +6,7 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 
 **Projects actively being developed:**
 
-* Bonzo Vaults Implmenetation
 * Bonzo Bridge Implementation
-* MetaMask Support
 
 ## 🟨 Planned for Development
 
@@ -54,3 +52,5 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 * New Loan Health Monitor added to the Bonzo Dashboard
 * UI/UX Revamp of Bonzo Lend dashboard and associated pages
 * Cross-Chain Bridging Integration for Axelar, LayerZero  (UI/UX + Development)
+* Bonzo Vaults Implementation
+* MetaMask Support
