@@ -4,13 +4,13 @@ icon: binary
 
 # Lend Data API
 
-Welcome to the Bonzo Data API Service documentation. This guide provides comprehensive information about the API endpoints, data structures, and usage examples to help you integrate with the Bonzo Liquidity Pools. Whether you're building custom liquidation services or integrating market statistics into your application, this documentation will assist you every step of the way.
+Welcome to the Bonzo Lend API documentation. This guide provides comprehensive information about the API endpoints, data structures, and usage examples to help you integrate Bonzo Lend data into your application or AI agent. Whether you're building custom liquidation services or integrating market statistics into your application, this documentation will assist you every step of the way.
 
 ## Introduction
 
 ### Overview
 
-The **Bonzo Data API Service** provides current lending pool market statistics and individual account supply and borrow information for the [Bonzo.Finance](https://bonzo.finance) protocol. The service is publicly accessible and can be queried by third parties wishing to interact with the Bonzo Liquidity Pools, such as custom liquidation services or analytical tools.
+The **Bonzo Lend API** provides current lending pool market statistics and individual account supply and borrow information for the [Bonzo.Finance](https://bonzo.finance) protocol. The service is publicly accessible and can be queried by third parties wishing to interact with the Bonzo Liquidity Pools, such as custom liquidation services or analytical tools.
 
 ### Key Features
 
