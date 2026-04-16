@@ -10,7 +10,7 @@ Protocol security is a top priority for Bonzo Finance Labs. To encourage respons
 
 * Bonzo Lend [testnet & mainnet contracts](bonzo-lend/lend-contracts.md) and [GitHub repository](https://github.com/Bonzo-Labs/bonzo-finance-contracts)
 * Bonzo Lend [testnet & mainnet interface](https://testnet.bonzo.finance)
-* Bonzo Vaults [mainnet contracts](bonzo-vaults-beta/vaults-contracts.md) and [GitHub repository](https://github.com/Bonzo-Labs/beefy-hedera-contracts)
+* Bonzo Vaults [mainnet contracts](bonzo-vaults/vaults-contracts.md) and [GitHub repository](https://github.com/Bonzo-Labs/beefy-hedera-contracts)
 * Single-Sided Staking contracts and [GitHub repository](https://github.com/Bonzo-Labs/bonzo-staking-module)
 
 ### Out of Scope <a href="#scope" id="scope"></a>

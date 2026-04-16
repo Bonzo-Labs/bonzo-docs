@@ -1,6 +1,8 @@
 # Connect Wallet
 
-Bonzo Finance supports connectivity with Hedera ecosystem wallets via WalletConnect, with support for MetaMask coming soon.
+Bonzo Finance supports connectivity with Hedera ecosystem wallets via WalletConnect, as well as MetaMask.\
+\
+If you're looking to get started using MetaMask, check out the [HBAR Guide for MetaMask  and free $HBAR faucet](https://hbar.guide/#wallets).
 
 ### HashPack Wallet <a href="#hashpack" id="hashpack"></a>
 

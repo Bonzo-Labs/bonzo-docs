@@ -10,7 +10,7 @@ How these tokens display in your wallet depends on which wallet you use. MetaMas
 
 {% tabs %}
 {% tab title="Bridged EVM Assets" %}
-**Assets bridged to Hedera via LayerZero (using the Stargate bridge) arrive on the Hedera network as EVM ERC-20 assets — if you're holding an EVM ERC-20 asset in your account, it must be manually configured to display in HashPack, in order for you to "see" it in your wallet. If using MetaMask, the tokens should automatically appear.**\
+**Assets bridged to Hedera via** [**Stargate**](https://stargate.finance/?dstChain=hedera\&dstToken=0xCa367694CDaC8f152e33683BB36CC9d6A73F1ef2) **and** [**Bonzo Bridge**](https://app.bonzo.finance/bridge) **arrive on the Hedera network as EVM ERC-20 assets — if you're holding an EVM ERC-20 asset in your account, it must be manually configured to display in HashPack, in order for you to "see" it in your wallet. If using MetaMask, these tokens should automatically appear.**\
 \
 **HashPack Instructions:**
 
@@ -25,6 +25,8 @@ Note: Unlike token associations for HTS assets, "associating" an EVM ERC-20 asse
 {% endhint %}
 
 <table><thead><tr><th width="79.765625">Icon</th><th width="100.15234375">Symbol</th><th width="273.88671875" align="center">EVM Address</th><th width="241.2734375" align="center">Description</th></tr></thead><tbody><tr><td><p></p><p><img src=".gitbook/assets/wETH" alt="" data-size="original"></p></td><td>wETH</td><td align="center"><sub><strong>Hedera <code>0xca367694cdac8f152e33683bb36cc9d6a73f1ef2</code></strong></sub><br><br><sub><em><strong>Note: When bridging wETH to Arbitrum, Base, Optimism, and Ethereum, Bonzo Bridge automatically unwraps to native ETH.</strong></em></sub> </td><td align="center">Wrapped Ethereum is a tokenized version of Ether (ETH), the native currency of the Ethereum blockchain. This version of wETH is issued by LayerZero and can be bridged using Stargate Finance.</td></tr><tr><td><p></p><p><img src=".gitbook/assets/wBTC.png" alt="" data-size="original"></p><p></p></td><td>wBTC</td><td align="center"><p><sub><strong>Hedera</strong></sub><br><sub><strong><code>0xd7d4d91d64a6061fa00a94e2b3a2d2a5fb677849</code></strong></sub><br><br><sub><strong>Base</strong></sub></p><p><sub><strong><code>0x0555E30da8f98308EdB960aa94C0Db47230d2B9c</code></strong></sub><br><br><sub><strong>Optimism</strong></sub><br><sub><strong><code>0x68f180fcCe6836688e9084f035309E29Bf0A2095</code></strong></sub><br><br><sub><strong>Ethereum</strong></sub><br><sub><strong><code>0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599</code></strong></sub></p></td><td align="center">Wrapped Bitcoin is a tokenized version of Bitcoin (BTC) that runs on the Ethereum (ETH) blockchain. This version of wBTC is issued by LayerZero and can be bridged using Stargate Finance.</td></tr></tbody></table>
+
+
 {% endtab %}
 
 {% tab title="Bonzo Lend LP Tokens" %}
