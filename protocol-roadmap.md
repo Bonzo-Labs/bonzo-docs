@@ -6,14 +6,14 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 
 **Projects actively being developed:**
 
-* Bonzo Bridge Implementation
+* DAO Governance Forums & Tooling
 
 ## 🟨 Planned for Development
 
 **Projects planned for development:**
 
 * $wBTC Listing in Bonzo Lend
-* DAO Governance Forums & Tooling
+* $USDT0 Integration in Bonzo Bridge
 
 ## 🟧 Prioritized for Development
 
@@ -54,3 +54,4 @@ The roadmap provides an overview of Bonzo Finance's past, present, and future de
 * Cross-Chain Bridging Integration for Axelar, LayerZero  (UI/UX + Development)
 * Bonzo Vaults Implementation
 * MetaMask Support
+* Bonzo Bridge Implementation
